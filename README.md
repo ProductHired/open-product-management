@@ -2,11 +2,11 @@
 
 ##### About
 A curated list of product management advice from frameworks, interviews, experts, resources, books, products, career preps, and much more.
-The list is divided into cores such as product management, resources, interviews, case Studies, sample products/projects, communities, open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/tron1991/master/CONTRIBUTING.md).
+The list is divided into cores such as product management, resources, interviews, case Studies, sample products/projects, communities, open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/tron1991/open-product-management/master/CONTRIBUTING.md). Feel free to add products or links to help other product managers.
 
 This list was created for all product managers whether beginner or advanced to learn from the best people and commnunities. If you are a technical person looking to get into the role of a Product Manager, this advice below will help you along your path. This guide is by all means not the end all to your learning as the best learning is achieved through practice. 
 
-Feel free to add products or links to help other product managers. Don't forget to share with others and follow me on Twitter, [Nicholas Ivanecky](http://twitter.com/ivantr0n)
+Don't forget to share with others and follow me on Twitter,[ Nicholas Ivanecky](http://twitter.com/ivantr0n).
 
 ##### How to Use
 Open-Product-Management is an amazing list for people who need a refresher in Product Management, so the best ways to use are:
@@ -16,7 +16,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
 ### Content
 - [Core 1: Product Management](#core-1:-product-management)
-        - [What is Product Management](#what-is-product-management)
+    - [What is Product Management](#what-is-product-management)
         - [Is it really for you?](#is-it-really-for-you)
         - [Becoming a Product Guru](#becoming-a-product-guru)
         - [Building Great Products](#building-great-products)
@@ -55,7 +55,6 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [Contributing to the list](#contributing)
 
 
-***
  # Core 1: Product Management
  ### What is Product Management
  * [A Product Manager’s Job](https://medium.com/@joshelman/a-product-managers-job-63c09a43d0ec) - Josh Elman

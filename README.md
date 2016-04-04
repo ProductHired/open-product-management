@@ -354,7 +354,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Netflix Case Study](http://www.ecommerce-digest.com/netflix-case-study.html) - Netflix Case Study
 
  ### Sample Product Documentation
- * [How I would grow Thumbtack’s Customer Side of the Marketplace — Product Spec](https://medium.com/@ivanTr0n/how-i-would-grow-thumbtack-s-customer-side-of-the-marketplace-product-spec-edc5c0521d08#.o9octd4pa) - Sample Product Spec from Thumbtack
+ * [How I would grow Thumbtack’s Customer Side of the Marketplace — Product Spec](https://medium.com/@ivanTr0n/how-i-would-grow-thumbtack-s-customer-side-of-the-marketplace-product-spec-edc5c0521d08#.o9octd4pa) - Sample Product Spec about Thumbtack
  * [Global Lynda](http://leenau.bitbucket.org/lynda/product-requirements-document/) - Sample Product Requirements Document
  * [Global Lynda](http://leenau.bitbucket.org/lynda/user-personas/) - Sample Company Context and User Personas
  * [Global Lynda](http://leenau.bitbucket.org/lynda/metrics-case-study/) - Sample Metrics Case Study
@@ -427,7 +427,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Steven Sinofsky](https://twitter.com/stevesi) - Board Partner @a16z • Adviser @BoxHQ • Writings @ Learning by Shipping
 
  # Contributing to the list
- *  [See the guide](https://github.com/tron1991/open-product-managment/master/CONTRIBUTING.md)
+ *  [See the guide](https://github.com/tron1991/open-product-management/blob/master/CONTRIBUTING.md)
 
 # License
 <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">

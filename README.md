@@ -6,7 +6,7 @@ The list is divided into cores such as product management, resources, interviews
 
 This list was created for all product managers whether beginner or advanced to learn from the best people and commnunities. If you are a technical person looking to get into the role of a Product Manager, this advice below will help you along your path. This guide is by all means not the end all to your learning as the best learning is achieved through practice. 
 
-Don't forget to share with others and follow me on Twitter,[Nicholas Ivanecky](http://twitter.com/ivantr0n).
+Don't forget to share with others and follow me on Twitter,[ Nicholas Ivanecky](http://twitter.com/ivantr0n).
 
 ##### How to Use
 Open-Product-Management is an amazing list for people who need a refresher in Product Management, so the best ways to use are:
@@ -15,7 +15,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - Go through our *Content Menu*
 
 ### Content
-- [Core 1: Product Management](#core-1:-product-management)
+- [Core 1: Product Management](#product-management)
     - [What is Product Management](#what-is-product-management)
     - [Is it really for you?](#is-it-really-for-you)
     - [Becoming a Product Guru](#becoming-a-product-guru)
@@ -30,7 +30,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
     - [Shipping and Measuring Products](#shipping-and-measuring-products)
     - [Organizing your Team](#organizing-your-team)
     - [Become the Best in the Field](#becoming-the-best-in-the-field)
-- [Core 2: Resources](#core-2:-resources)
+- [Core 2: Resources](#resources)
     - [Design](#design)
     - [Development](#development)
     - [Marketing and Mockups](#marketing-and-mockups)
@@ -47,10 +47,10 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
             - [Groups](#groups)
             - [Meetups](#meetups)
             - [Conferences](#conferences)
-- [Core 4: Get the Job](#core-4:-get-the-job)
-    - [Career Prep:Resume](#career-prep:resume)
-    - [Career Prep:The Interview](#career-prep:the-interview)
-    - [Career Prep:Company Types](#career-prep:company-types)
+- [Core 4: Get the Job](#get-the-job)
+    - [Career Prep Resume](#career-prep-resume)
+    - [Career Prep The Interview](#career-prep-the-interview)
+    - [Career Prep Company Types](#career-prep-company-types)
 - [Best Product Managers on Twitter](#best-product-managers-on-twitter)
 - [Contributing to the list](#contributing)
 

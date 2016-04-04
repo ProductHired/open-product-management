@@ -17,40 +17,40 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 ### Content
 - [Core 1: Product Management](#core-1:-product-management)
     - [What is Product Management](#what-is-product-management)
-        - [Is it really for you?](#is-it-really-for-you)
-        - [Becoming a Product Guru](#becoming-a-product-guru)
-        - [Building Great Products](#building-great-products)
-        - [Talk with Users: Get out of the building](#talk-with-users:-get-out-of-the-building)
-        - [All about those Requirements](#all-about-those-requirements)
-        - [Roadmaps, Planning, and prioritization](#roadmaps,-planning,-and-prioritization)
-        - [How to work with Engineers](#how-to-work-with-engineers)
-        - [User Experience](#user-experience)
-        - [How to work with Designers](#how-to-work-with-designers)
-        - [Give and Receive Feedback](#give-and-receive-feedback)
-        - [Shipping and Measuring Products](#shipping-and-measuring-products)
-        - [Organizing your Team](#organizing-your-team)
-        - [Become the Best in the Field](#becoming-the-best-in-the-field)
+    - [Is it really for you?](#is-it-really-for-you)
+    - [Becoming a Product Guru](#becoming-a-product-guru)
+    - [Building Great Products](#building-great-products)
+    - [Talk with Users: Get out of the building](#talk-with-users:-get-out-of-the-building)
+    - [All about those Requirements](#all-about-those-requirements)
+    - [Roadmaps, Planning, and prioritization](#roadmaps,-planning,-and-prioritization)
+    - [How to work with Engineers](#how-to-work-with-engineers)
+    - [User Experience](#user-experience)
+    - [How to work with Designers](#how-to-work-with-designers)
+    - [Give and Receive Feedback](#give-and-receive-feedback)
+    - [Shipping and Measuring Products](#shipping-and-measuring-products)
+    - [Organizing your Team](#organizing-your-team)
+    - [Become the Best in the Field](#becoming-the-best-in-the-field)
 - [Core 2: Resources](#core-2:-resources)
-        - [Design](#design)
-        - [Development](#development)
-        - [Marketing and Mockups](#marketing-and-mockups)
-        - [Management](#management)
-        - [Analytics](#analytics)
-        - [Books](#books)
-        - [Podcasts](#podcasts)
-        - [Online Courses](#online-courses)
+    - [Design](#design)
+    - [Development](#development)
+    - [Marketing and Mockups](#marketing-and-mockups)
+    - [Management](#management)
+    - [Analytics](#analytics)
+    - [Books](#books)
+    - [Podcasts](#podcasts)
+    - [Online Courses](#online-courses)
 - [Core 3: Real Life Product Management](#real-life-product-management)
-        - [Interviews](#interviews)
-        - [Product Case Studies](#product-case-studies)
-        - [Sample Product Documentation](#sample-product-documentation)
-        - [Communities to Join](#communities-to-join)
-                - [Groups](#groups)
-                - [Meetups](#meetups)
-                - [Conferences](#conferences)
+    - [Interviews](#interviews)
+    - [Product Case Studies](#product-case-studies)
+    - [Sample Product Documentation](#sample-product-documentation)
+    - [Communities to Join](#communities-to-join)
+            - [Groups](#groups)
+            - [Meetups](#meetups)
+            - [Conferences](#conferences)
 - [Core 4: Get the Job](#core-4:-get-the-job)
-        - [Career Prep:Resume](#career-prep:resume)
-        - [Career Prep:The Interview](#career-prep:the-interview)
-        - [Career Prep:Company Types](#career-prep:company-types)
+    - [Career Prep:Resume](#career-prep:resume)
+    - [Career Prep:The Interview](#career-prep:the-interview)
+    - [Career Prep:Company Types](#career-prep:company-types)
 - [Best Product Managers on Twitter](#best-product-managers-on-twitter)
 - [Contributing to the list](#contributing)
 
@@ -197,8 +197,8 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [How a football coach taught me to product manage like a boss](https://medium.com/@biggiesu/how-a-football-coach-taught-me-to-product-manage-like-a-boss-926ab5c39156) - Mike Su
  * [How to hire a Product Manager](https://www.kennethnorton.com/essays/productmanager.html) - Kenneth Norton
 
-# Core 2: Resources
-  ### Design
+ # Core 2: Resources
+ ### Design
  * [Kindling](https://www.producthunt.com/r/9c7a76d74a/7801) - Idea management tool
  * [Designer News Market](https://www.producthunt.com/r/575fefd1ae2db4/47337) - The best design resources for your next project
  * [Designer Mill](https://www.producthunt.com/r/815baac8e14f4b/33101) - Collection of free design resources
@@ -216,7 +216,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [UI Movement](https://www.producthunt.com/r/f02c9f1ed0a718/30995) - The best UI design inspiration, daily
  * [IconStore](https://www.producthunt.com/r/e53dd0bd06c614/26976) - Free icon packs by first-class designers
 
-  ### Development
+ ### Development
  * [Design+code](https://www.producthunt.com/r/5f7f813faa/2144) - Learn iOS design and Xcode
  * [Teaching App Development with Swift](https://www.producthunt.com/r/44f7e92aa6596c/25588) - A Github-hosted curriculum on Swift for teachers by Apple
  * [Android Studio 2.0](https://www.producthunt.com/r/a296766b160574/41882) - The official IDE for Android application development
@@ -235,7 +235,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Codecademy's Learn the Command Line](https://www.producthunt.com/r/e835b85f42361a/31952) - Learn how to control your computer with the command line!
  * [Your First Web App](https://www.producthunt.com/r/acc2f8564f/4997) - Pulling your hair out trying to learn how to code?
 
-  ### Mockups and Marketing
+ ### Mockups and Marketing
  * [Typeform](https://www.producthunt.com/r/87fb47ed48/7803) - Generate surveys in seconds.
  * [Balsamiq](https://www.producthunt.com/r/544603151e/7808) - Rapid wireframing tool.
  * [Tweetdeck](https://www.producthunt.com/r/1e570814c6/7906) - Power-user interface for Twitter.

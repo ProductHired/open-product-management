@@ -6,7 +6,7 @@ The list is divided into cores such as product management, resources, interviews
 
 This list was created for all product managers whether beginner or advanced to learn from the best people and commnunities. If you are a technical person looking to get into the role of a Product Manager, this advice below will help you along your path. This guide is by all means not the end all to your learning as the best learning is achieved through practice. 
 
-Don't forget to share with others and follow me on Twitter,[ Nicholas Ivanecky](http://twitter.com/ivantr0n).
+Don't forget to share with others and follow me on Twitter,[Nicholas Ivanecky](http://twitter.com/ivantr0n).
 
 ##### How to Use
 Open-Product-Management is an amazing list for people who need a refresher in Product Management, so the best ways to use are:
@@ -69,7 +69,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Evolution of the Product Manager](http://queue.acm.org/detail.cfm?id=2683579) - Ellen Chisa
  * [Use your Product Powers for Good](http://www.productpowers.com/blog/use-your-product-powers-for-good.html) - Bruce McCarthy
 
-  ### Is it really for you?
+ ### Is it really for you?
  * [How to hire a Product Manager?](https://www.kennethnorton.com/essays/productmanager.html) - Kenneth Norton
  * [The DNA of Product Management](https://www.linkedin.com/pulse/article/20121102003945-7298-the-dna-of-product-management) - Hunter Walk
  * [The Dark Side of PM](http://blog.ellenchisa.com/2014/02/20/the-dark-side-of-pm/) - Ellen Chisa
@@ -78,7 +78,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Should nice people be Product Managers](https://www.rallydev.com/community/agile/should-nice-people-be-product-managers) - Alex Pukinskis
  * [3 Skillsets for PM Success](http://blog.kentonkivestu.com/3-skillsets-for-PM-success) - Kenton Kivetsu
 
-  ### Becoming a Product Guru
+ ### Becoming a Product Guru
  * [How do I become a Product Manager?](https://www.quora.com/How-do-I-become-a-product-manager-2) - Multiple authors
  * [How I became a PM ](http://blog.ellenchisa.com/2014/01/10/how-i-became-a-pm/) - Ellen Chisa
  * [Do Product Managers really need a background in CS](https://pmblog.quora.com/Do-Product-Managers-really-need-a-background-in-CS) - Jackie Bavaro
@@ -98,20 +98,20 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Quality is not a tradeoff](https://medium.com/the-year-of-the-looking-glass/quality-is-not-a-tradeoff-bcddf7c85553) - Julie Zhuo
  * [How to build products users love](http://startupclass.samaltman.com/courses/lec07/) - Kevin Hale
 
-  ### Talk with Users: Get out of the building
+ ### Talk with Users: Get out of the building
  * [Listen to customers](https://www.kennethnorton.com/essays/listentocustomers.html) - Kenneth Norton
  * [How do Customer Development and Product Management fit together](http://www.cindyalvarez.com/lean/how-do-customer-development-and-product-management-fit-together-2014) - Cindy Alvarez
  * [How to structure and get the most out of customer development interviews](http://jasonevanish.com/2012/01/18/how-to-structure-and-get-the-most-out-of-customer-development-interviews/) - Jason Evanish
  * [The customer is always right. Except when they aren’t](http://wadefoster.net/post/57403834478/the-customer-is-always-right-except-when-they-arent) - Wade Foster
  * [Your MVP is about discovery not product](http://kevindewalt.com/2013/07/14/your-mvp-is-about-discovery-not-product/) - Kevin Dewalt
 
-  ### All about those Requirements
+ ### All about those Requirements
  * [Painless functional specifications](http://www.joelonsoftware.com/articles/fog0000000036.html) - Joel Spolsky
  * [Requirements are not](http://www.svpg.com/requirements-are-not/) - Marty Cagan
  * [Feed the beast](http://www.svpg.com/feed-the-beast/) - Marty Cagan
  * [The end of requirements](http://www.svpg.com/the-end-of-requirements/) - Marty Cagan
 
-  ### Roadmaps, Planning, and Prioritization
+ ### Roadmaps, Planning, and Prioritization
  * [The seven deadly sins of product planning](The seven deadly sins of product planning) - Marty Cagan
  * [Product strategy means saying no](http://blog.intercom.io/product-strategy-means-saying-no/) - Des Traynor
  * [Product priorities start with strategic goals](http://www.productpowers.com/blog/product-priorities-start-with-strategic-goals.html) - Bruce McCarthy
@@ -146,19 +146,17 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Nerds, get the Product Management you deserve](https://medium.com/@jeff7091/nerds-get-the-product-management-you-deserve-3bcf849394c2) - Jeff Enderwick
  * [The product manager’s lament](http://www.startuplessonslearned.com/2008/10/product-managers-lament.html) - Eric Ries
 
-  ### User Experience
- * [Pop](https://github.com/facebook/pop) - An extensible iOS and OS X animation library, useful for physics-based interactions.
- * [AnimationEngine](https://github.com/intuit/AnimationEngine) - Easily build advanced custom animations on iOS.
+ ### User Experience
 
-  ### How to work with Designers
+ ### How to work with Designers
  * [How to work with designers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146) - Julie Zhuo
 
-  ### Give and Receive Feedback
+ ### Give and Receive Feedback
  * [You won’t regret positive feedback](http://zachholman.com/posts/positive-feedback/) - Zack Holman
  * [Thirty percent feedback](http://blog.42floors.com/thirty-percent-feedback/) - Jason Freedman
  * [How to run a design critique](http://scottberkun.com/essays/23-how-to-run-a-design-critique/) - Scott Berkun
 
-  ### Shipping and Measuring Products
+ ### Shipping and Measuring Products
  * [Shipping is a feature](http://a16z.com/2014/04/16/shipping-is-a-feature-some-guiding-principals-for-people-that-build-things/) - Steven Sinofsky
  * [Great product leaders win games](http://blog.adamnash.com/2012/02/29/great-product-leaders-win-games/) - Adam Nash
  * [How to deliver more software projects on time](http://www.inc.com/mark-suster/how-to-deliver-more-software-projects-on-time.html) - Mark Suster
@@ -169,14 +167,14 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Measure twice, cut once](https://medium.com/@rklau/measure-twice-cut-once-e86c2f08b4c) - Rick Klau
  * [The lost art of the soft launch](http://wadefoster.net/post/70145296769/the-lost-art-of-the-soft-launch) - Wade Foster
 
-  ### Organizing your Team
+ ### Organizing your Team
  * [Enter the Matrix - Organizing Product Management](https://www.braintreepayments.com/braintrust/Enter-the-Matrix-Organizing-Product-Management) - Mark Tattersall
  * [Product organizational structure](http://www.svpg.com/product-organizational-structure/) - Marty Cagan
  * [Good product team, bad product team](http://www.svpg.com/good-product-team-bad-product-team/) - Marty Cagan
  * [The best Product Management model](http://bjk5.com/post/60760280107/shipping-beats-perfection-explained) - Marty Cagan
  * [Maker's Schedule, Manager's Schedule ](http://www.paulgraham.com/makersschedule.html) - Paul Graham
 
-  ### Become the Best in the Field
+ ### Become the Best in the Field
  * [Top hacks from a PM behind two of tech’s hottest products](http://firstround.com/article/Top-Hacks-from-a-PM-Behind-Two-of-Techs-Hottest-Products) - Todd Jackson
  * [Stakeholder Management](http://www.svproduct.com/stakeholder-management/) - Marty Cagan
  * [Court scribe or Hand of the King](http://www.productpowers.com/blog/court-scribe-or-hand-of-the-king.html) - Bruce McCarthy
@@ -186,9 +184,8 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Bad Managers Talk, Good Managers Write](http://blog.idonethis.com/managers-write/) - Walter Chen
  * [Good Product Manager, Bad Product Manager](http://benhorowitz.files.wordpress.com/2010/05/good-product-manager.pdf) - Ben Horowitz
  * [Be a great product leader](http://blog.adamnash.com/2011/12/16/be-a-great-product-leader/) - Adam Nash
-
  * [Top 10 product leadership lessons](http://blog.adamnash.com/2012/03/06/top-10-product-leadership-lessons/) - Adam Nash
- * [What distinguishes the top 1% of Product Managers from the top 10?%](https://www.quora.com/What-distinguishes-the-Top-1-of-Product-Managers-from-the-Top-10/answer/Ian-McAllister?srid=3wR&st=ns) - Ian McAllister
+ * [What distinguishes the top 1% of Product Managers from the top 10%?](https://www.quora.com/What-distinguishes-the-Top-1-of-Product-Managers-from-the-Top-10/answer/Ian-McAllister?srid=3wR&st=ns) - Ian McAllister
  * [What makes someone a great Product Manager at Google?](https://www.quora.com/What-makes-someone-a-great-product-manager-at-Google?) - Edward Ho
  * [What innate traits do great internet product leaders share?](https://www.quora.com/What-innate-traits-do-great-Internet-product-leaders-share) - Chris Wetherell
  * [Musings on Product Management](http://blog.parsely.com/post/907/musings-on-product-management/) - Mike Sukmanowsky
@@ -245,7 +242,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [App Screenshot Builder](https://www.producthunt.com/r/01acf800c8/15192) - Create gorgeous images for your App Store page in minutes.
  * [StartupResources.io](https://www.producthunt.com/r/38a39dc7c63715/40773) - Tightly curated lists of the best startup tools
 
-  ###Team Management
+ ###Team Management
  * [Trello](https://trello.com/?ref=producthunt) - Trello makes it easy to organize anything with anyone
  * [Google Docs](https://www.producthunt.com/r/dfc72883e5/7810) - Create and share your work online
  * [Slack](https://slack.com) - Team communication for the 21st century
@@ -260,7 +257,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Box Notes](https://www.producthunt.com/r/149596ab47/7806) - Create documents, take notes and share ideas in real-time.
  * [RealtimeBoard 2.0](https://www.producthunt.com/r/fe3c891017147c/40260) - Web-based whiteboarding & team collaboration tool
 
-  ### Analytics
+ ### Analytics
  * [KISSmetrics](https://www.producthunt.com/r/95f365818a/7800) - Not just for marketers; see the behavior of all your users.
  * [AnimationEngine](https://github.com/intuit/AnimationEngine) - Easily build advanced custom animations on iOS.
  * [Analytics for Optimizely](https://www.producthunt.com/r/85b26a4d3802f7/28437) - Your Optimizely A/B tests on your iPhone.
@@ -273,7 +270,6 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Fabric mobile app by Twitter](https://www.producthunt.com/r/d41c21cec151a9/52686) - Real-time analytics and stability alerts for your app.
  * [Stream](https://www.producthunt.com/r/e069b8159d31bb/51641) - Analytics for feeds.
  * [Mobile Dashboards by Mixpanel](https://www.producthunt.com/r/4da193a39f35a0/49303) - Monitor your key metrics, everywhere you go
-
 
  ### Books
  * [Inspired - How to Create Products Customers Love](http://www.amazon.com/gp/product/B001AQ95UY?btkr=1) - Marty Cagan
@@ -311,8 +307,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Managing Humans](http://www.amazon.com/gp/product/1430243147/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1430243147&linkCode=as2&tag=httpstwit071f-20) - Former Manager at Apple
  * [The Everything Store: Jeff Bezos and the Age of Amazon](http://www.amazon.com/gp/product/0316219266/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0316219266&linkCode=as2&tag=httpstwit071f-20) - Brad Stone
 
-
-  ### Podcasts
+ ### Podcasts
  * [Design Details Podcast](https://www.producthunt.com/r/f0a61978d9/12920) - A show about the people who design our favorite products.
  * [AngelList Radio - Kirill Makharinsky](https://www.producthunt.com/podcasts/angellist-radio-kirill-makharinsky) - What factors can predict a company's future success
  * [Exponent - Get Off My Lawn!](https://www.producthunt.com/podcasts/exponent-get-off-my-lawn) - How Snapchat has built it’s product effectively
@@ -323,8 +318,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Product Hunt Maker Stories - Matt Mazzeo](https://www.producthunt.com/podcasts/product-hunt-maker-stories-matt-mazzeo-2) - Future of VC, breaking into tech/VC, & more 
  * [Growth Everywhere - The Strategy That Skyrocketed Hotjar to $1 Million ARR in 6 Months](https://www.producthunt.com/podcasts/growth-everywhere-the-strategy-that-skyrocketed-hotjar-to-1-million-arr-in-6-months) - How David Darmanin Grew Hotjar To $1 Million ARR in 6 months
 
-
-  ### Courses
+ ### Courses
  * [Design Workflow with Sketch](https://github.com/facebook/pop) - An e-course from Clark Wimberly at InVision.
  * [Designlab](https://www.producthunt.com/r/b1ef8b4e5a/11546) - Learn design by doing, with hands-on projects & mentorship.
  * [You're Hired: How to Get a Job in Product Management](https://www.udemy.com/how-to-get-a-job-in-product-management/) - Learn how to become a product manager at a hot tech startup
@@ -335,8 +329,8 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Poduct Managment - General Assembly](https://generalassemb.ly/education/product-management) - 10-WEEK PART-TIME COURSE
 
 
-# Core 3: Real Life Product Management
-  ### Interviews
+ # Core 3: Real Life Product Management
+ ### Interviews
  * [Janna Bastow on "How to Get into Product Management"](https://www.youtube.com/watch?v=p9Ubfv5v2i8) - A conversation between Janna Bastow, founder of ProdPad and previously a product manager / consultant
  * [Eva Andreasson on "How to Get into Product Management"](https://www.youtube.com/watch?v=tIQLhdMrK2Y) - A conversation between Eva Andreasson, Senior Product Manager at Cloudera, and Jason Shah, Product Manager at Yammer
  * [Teresa Torres on "How to Get into Product Management"](https://www.youtube.com/watch?v=VuSfqm1dr7Y) - A conversation between Teresa Torres, Vice President, Products at AfterCollege and a product consultant
@@ -349,7 +343,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Jason Evanish on "How to Get into Product Management"](https://www.youtube.com/watch?v=9pqBBEkSfdU) - A conversation between Jason Evanish, Product Manager at KISSMetrics, and Jason Shah
  * [Ryan Hoover on "How to Get Into Product Management"](https://www.youtube.com/watch?v=gIJNfQZCY0s) - A conversation between Ryan Hoover, Director of Product, PlayHaven and Jason Shah
 
-  ### Product Case Studies
+ ### Product Case Studies
  * [Building an Enterprise Product: Yammer's Development Methodology](https://www.youtube.com/watch?v=N8wdRZDv0ks) - Jason Shah, product manager at Yammer, shares aspects of Yammer's product development methodology.
  * [Product Hunt’s Rise - Case Study](https://medium.com/@theunixbeard/product-hunt-s-rise-d49249a1a2c0#.bpns2qcg3) - Product Hunt’s Rise
  * [Facebook Case Study](http://www.slideshare.net/misteroo/facebook-analysis-and-study/17-Facebook_is_offering_new_advertisingproducts) - Facebook Analysis and Study
@@ -359,7 +353,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Apple iPod Case Study](http://www.ecommerce-digest.com/apple-ipod-case-study.html) - Apple Case Study
  * [Netflix Case Study](http://www.ecommerce-digest.com/netflix-case-study.html) - Netflix Case Study
 
-  ### Sample Product Documentation
+ ### Sample Product Documentation
  * [How I would grow Thumbtack’s Customer Side of the Marketplace — Product Spec](https://medium.com/@ivanTr0n/how-i-would-grow-thumbtack-s-customer-side-of-the-marketplace-product-spec-edc5c0521d08#.o9octd4pa) - Sample Product Spec from Thumbtack
  * [Global Lynda](http://leenau.bitbucket.org/lynda/product-requirements-document/) - Sample Product Requirements Document
  * [Global Lynda](http://leenau.bitbucket.org/lynda/user-personas/) - Sample Company Context and User Personas
@@ -370,13 +364,13 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
  ### Communities to Join
 
-  #### Groups
+ #### Groups
  * [Mind the Product](http://www.mindtheproduct.com) - Mind the Product Community Website and Blog
  * [Product School](http://www.productschool.com) - Product School Company Website
  * [Designer Chat](https://www.producthunt.com/r/85601ad255/3697) - The Designer News community in a private Slack chat.
  * [Product Manager HQ](https://www.productmanagerhq.com/join-the-community/) - Product Manager HQ - Slack group
 
-  #### Meetups
+ #### Meetups
  * [Product Tank](http://www.meetup.com/producttanknyc/) - Product Tank NY Meetups
  * [The Product Group](http://www.meetup.com/TheProductGroup/) - The Product Group New York
  * [Lean Product & Lean UX Silicon Valley](http://www.meetup.com/lean-product/) - People interested in applying Lean Startup, Lean UX, and Agile principles to design and develop products that customers love
@@ -385,31 +379,30 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Silicon Valley Strategy, Innovation and Product Management](http://www.meetup.com/Silicon-Valley-Product-Management/) - Product Management in Cupertino, CA
  * [Startup Metrics Toronto, Canada](http://www.meetup.com/Startup-Metrics-Toronto/) - A group for entrepreneurs and product managers to discuss the metrics that matter to their startups.
 
-   #### Conferences
+ #### Conferences
  * [Mind the Product Conference](http://mtpcon.com/sf/) - The Conference for Passionate Product People
  * [AnimationEngine](https://github.com/intuit/AnimationEngine) - Easily build advanced custom animations on iOS.
  * [Industry - Product Conference](http://indsum.com) - For people who build, launch and scale world-class product.
  * [Lean Startup Week](http://leanstartup.co/2016-conference/) - Lean Startup Week is a seven-day immersion into Lean Startup methodology led by star practitioners in big companies and hot startups from around the world.
  * [Enterprise UX 2016](http://2016.enterpriseux.net) - The Enterprise UX 2016 conference is dedicated to delivering useful, delightful, and humane experiences to people who work for and in enterprises.
 
-
-# Core 4: Get the Job
-  ### Career Prep:Resume
+ # Core 4: Get the Job
+ ### Career Prep:Resume
  * [How do you write a good resume for product manager jobs?](https://www.quora.com/How-do-you-write-a-good-resume-for-product-manager-jobs) - Sample Advice on Quora
  * [Mike Bracco - Sample PM Resume](http://mikebracco.com/resume/) - Sample Resume Website from a PM
  * [Adam Mathes - Sample PM Resume](http://www.adammathes.com/resume/) - Sample Resume Website from a PM
  * [How to get that Next PM Job](http://svpma.org/eventarchives/SVPMA-03-2010-How_to_Get_That_Next_PM_Job-Shreyas_Doshi.pdf) - 200 slides from Google PM
- * [Nicholas Ivanecky - Sample PM Website] (http://www.ivantron.com) - Nicholas Ivanecky Resume Website
+ * [Nicholas Ivanecky - Sample PM Website](http://www.ivantron.com) - Nicholas Ivanecky Resume Website
 
-  ### Career Prep:The Interview
-  * [Cracking the PM Interview ](http://www.amazon.com/gp/product/0984782818/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0984782818&linkCode=as2&tag=httpstwit071f-20) - Book based on getting a PM career
-  * [The Ultimate Guide to Product Manager Interview Questions](http://www.venturegrit.com/how-to-interview-a-product-manager-the-ultimate-guide/) - PM Questions to Practice
+ ### Career Prep:The Interview
+ * [Cracking the PM Interview ](http://www.amazon.com/gp/product/0984782818/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0984782818&linkCode=as2&tag=httpstwit071f-20) - Book based on getting a PM career
+ * [The Ultimate Guide to Product Manager Interview Questions](http://www.venturegrit.com/how-to-interview-a-product-manager-the-ultimate-guide/) - PM Questions to Practice
  * [The PM Interview](http://thepminterview.com) - Set of Questions + Timer to practice your PM skills.
  * [The Ultimate Guide to Product Manager Interview Questions](https://www.quora.com/What-are-frequently-asked-questions-in-product-manager-interviews) - Quora PM Questions
  * [4 Questions I Always Ask When Interviewing Product Managers](http://www.producttalk.org/2012/06/4-questions-i-always-ask-when-interviewing-product-managers/) - 4 Questions to ask a PM
  * [Product School](http://www.productschool.com) - Product School 2-month Education
 
-  ### Career Prep:Company Types
+ ### Career Prep:Company Types
  * [Google by Larry page and Sergey Brin](http://www.google.com/about/company/philosophy/) - Google's culture
  * [Microsoft](https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/) - Microsoft PM Culture
  * [Amazon](https://www.quora.com/Amazon-company/What-is-Amazons-approach-to-product-development-and-product-management) - Amazon's culture

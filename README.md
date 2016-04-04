@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/vsouza/awesome-ios/master/awesome_logo.png">
+<img src="https://raw.githubusercontent.com/tron1991/master/logo.png">
 
 ##### About
 A curated list of product management advice from frameworks, interviews, experts, resources, books, products, career preps, and much more.
-The list is divided into cores such as product management, resources, interviews, case Studies, sample products/projects, communities, open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/tron1991/awesome-ios/blob/master/CONTRIBUTING.md).
+The list is divided into cores such as product management, resources, interviews, case Studies, sample products/projects, communities, open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/tron1991/master/CONTRIBUTING.md).
 
 This list was created for all product managers whether beginner or advanced to learn from the best people and commnunities. If you are a technical person looking to get into the role of a Product Manager, this advice below will help you along your path. This guide is by all means not the end all to your learning as the best learning is achieved through practice. 
 
@@ -435,7 +435,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Steven Sinofsky](https://twitter.com/stevesi) - Board Partner @a16z • Adviser @BoxHQ • Writings @ Learning by Shipping
 
  # Contributing to the list
- *  [See the guide](https://github.com/tron1991/awesome-ios/blob/master/CONTRIBUTING.md)
+ *  [See the guide](https://github.com/tron1991/master/CONTRIBUTING.md)
 
 # License
 <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">

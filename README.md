@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/tron1991/master/logo.png">
+<img src="https://raw.githubusercontent.com/tron1991/open-product-management/master/logo.png">
 
 ##### About
 A curated list of product management advice from frameworks, interviews, experts, resources, books, products, career preps, and much more.
@@ -435,7 +435,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Steven Sinofsky](https://twitter.com/stevesi) - Board Partner @a16z • Adviser @BoxHQ • Writings @ Learning by Shipping
 
  # Contributing to the list
- *  [See the guide](https://github.com/tron1991/master/CONTRIBUTING.md)
+ *  [See the guide](https://github.com/tron1991/open-product-managment/master/CONTRIBUTING.md)
 
 # License
 <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">

@@ -2,7 +2,7 @@
 
 ##### About
 A curated list of product management advice from frameworks, interviews, experts, resources, books, products, career preps, and much more.
-The list is divided into cores such as product management, resources, interviews, case Studies, sample products/projects, communities, open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/tron1991/open-product-management/master/CONTRIBUTING.md). Feel free to add products or links to help other product managers.
+The list is divided into cores such as product management, resources, interviews, case Studies, sample products/projects, communities, open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/tron1991/open-product-management/blob/master/CONTRIBUTING.md). Feel free to add products or links to help other product managers.
 
 This list was created for all product managers whether beginner or advanced to learn from the best people and commnunities. If you are a technical person looking to get into the role of a Product Manager, this advice below will help you along your path. This guide is by all means not the end all to your learning as the best learning is achieved through practice. 
 
@@ -20,7 +20,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
     - [Is it really for you?](#is-it-really-for-you)
     - [Becoming a Product Guru](#becoming-a-product-guru)
     - [Building Great Products](#building-great-products)
-    - [Talk with Users: Get out of the building](#talk-with-users:-get-out-of-the-building)
+    - [Get out of the building](#get-out-of-the-building)
     - [All about those Requirements](#all-about-those-requirements)
     - [Roadmaps, Planning, and prioritization](#roadmaps,-planning,-and-prioritization)
     - [How to work with Engineers](#how-to-work-with-engineers)
@@ -29,7 +29,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
     - [Give and Receive Feedback](#give-and-receive-feedback)
     - [Shipping and Measuring Products](#shipping-and-measuring-products)
     - [Organizing your Team](#organizing-your-team)
-    - [Become the Best in the Field](#becoming-the-best-in-the-field)
+    - [Become the Best in the Field](#become-the-best-in-the-field)
 - [Core 2: Resources](#resources)
     - [Design](#design)
     - [Development](#development)
@@ -98,7 +98,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Quality is not a tradeoff](https://medium.com/the-year-of-the-looking-glass/quality-is-not-a-tradeoff-bcddf7c85553) - Julie Zhuo
  * [How to build products users love](http://startupclass.samaltman.com/courses/lec07/) - Kevin Hale
 
- ### Talk with Users: Get out of the building
+ ### Get out of the building
  * [Listen to customers](https://www.kennethnorton.com/essays/listentocustomers.html) - Kenneth Norton
  * [How do Customer Development and Product Management fit together](http://www.cindyalvarez.com/lean/how-do-customer-development-and-product-management-fit-together-2014) - Cindy Alvarez
  * [How to structure and get the most out of customer development interviews](http://jasonevanish.com/2012/01/18/how-to-structure-and-get-the-most-out-of-customer-development-interviews/) - Jason Evanish

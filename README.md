@@ -270,6 +270,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Fabric mobile app by Twitter](https://www.producthunt.com/r/d41c21cec151a9/52686) - Real-time analytics and stability alerts for your app.
  * [Stream](https://www.producthunt.com/r/e069b8159d31bb/51641) - Analytics for feeds.
  * [Mobile Dashboards by Mixpanel](https://www.producthunt.com/r/4da193a39f35a0/49303) - Monitor your key metrics, everywhere you go
+ * [A/B Testing Effectively](https://blog.intercom.io/why-ab-tests-should-yield-more-than-results/) - Run successful, statistically accurate A/B tests.
 
  ### Books
  * [Inspired - How to Create Products Customers Love](http://www.amazon.com/gp/product/B001AQ95UY?btkr=1) - Marty Cagan

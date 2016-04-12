@@ -133,6 +133,8 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Magical thinking and the zero-sum roadmap](http://www.mironov.com/magical_thinking/) - Rich Mironov
  * [You don’t need a product roadmap](https://signalvnoise.com/posts/694-you-dont-need-a-product-road-map) - David Heinemeier Hansson
  * [Drop feature-based product roadmaps](http://www.producttalk.org/2014/04/drop-feature-based-product-roadmaps/) - Teresa Torres
+ * [How to build a roadmap everyone understands](https://medium.com/@dreasaez/how-to-build-a-product-roadmap-everyone-understands-522b36270e5#.e8gcmylg0) - Andrea Saez
+ * 
 
  ### How to work with Engineers
  * [The care and feeding of software engineers](http://www.nczonline.net/blog/2012/06/12/the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy/) - Nicholas C. Zakas
@@ -328,6 +330,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Product Management Course Brainstation - Toronto](https://github.com/intuit/AnimationEngine) - TRANSFORM YOUR IDEA INTO A PRODUCT.
  * [Product School - USA](http://www.productschool.com) - Get a Product Manager Job
  * [Poduct Managment - General Assembly](https://generalassemb.ly/education/product-management) - 10-WEEK PART-TIME COURSE
+ * [How to build a product roadmap everyone understands - Free e-Course](https://get.prodpad.com/theme-based-roadmap-course/) - How to build a roadmap
 
 
  # Core 3: Real Life Product Management
@@ -427,6 +430,9 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Rich Mironov](https://twitter.com/RichMironov) - Tech start-up veteran, product exec/coach/mentor, writer (Art of Product Management)
  * [Eric Ries](https://twitter.com/ericries) - Trying to change how startups are built. 
  * [Steven Sinofsky](https://twitter.com/stevesi) - Board Partner @a16z • Adviser @BoxHQ • Writings @ Learning by Shipping
+ * [Janna Bastow](https://twitter.com/simplybastow) - Co-Founder of MTP/CEO at ProdPad/CoFounder ProductTank and ProductCamp London 
+ * [Martin Eriksson](https://twitter.com/bfgmartin) - Co-Founder at MTP/ProductTank 
+ * [Simon Cast](https://twitter.com/simoncast) - Co Founder MTP/ProductTank/ProdPad
 
  # Contributing to the list
  *  [See the guide](https://github.com/tron1991/open-product-management/blob/master/CONTRIBUTING.md)

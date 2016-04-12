@@ -134,7 +134,6 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [You don’t need a product roadmap](https://signalvnoise.com/posts/694-you-dont-need-a-product-road-map) - David Heinemeier Hansson
  * [Drop feature-based product roadmaps](http://www.producttalk.org/2014/04/drop-feature-based-product-roadmaps/) - Teresa Torres
  * [How to build a roadmap everyone understands](https://medium.com/@dreasaez/how-to-build-a-product-roadmap-everyone-understands-522b36270e5#.e8gcmylg0) - Andrea Saez
- * 
 
  ### How to work with Engineers
  * [The care and feeding of software engineers](http://www.nczonline.net/blog/2012/06/12/the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy/) - Nicholas C. Zakas

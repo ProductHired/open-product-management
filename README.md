@@ -6,7 +6,9 @@ The list is divided into cores such as product management, resources, interviews
 
 This list was created for all product managers whether beginner or advanced to learn from the best people and commnunities. If you are a technical person looking to get into the role of a Product Manager, this advice below will help you along your path. This guide is by all means not the end all to your learning as the best learning is achieved through practice. 
 
-Don't forget to share with others and follow me on Twitter,[ Nicholas Ivanecky](http://twitter.com/ivantr0n).
+Don't forget to share with others and follow me on Twitter,[ Nicholas Ivanecky](http://twitter.com/ivantr0n)
+
+Notable contributions to the list are featured in section, [Special Thanks](#special-thanks)
 
 ##### How to Use
 Open-Product-Management is an amazing list for people who need a refresher in Product Management, so the best ways to use are:
@@ -52,6 +54,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
     - [Career Prep The Interview](#career-prep-the-interview)
     - [Career Prep Company Types](#career-prep-company-types)
 - [Best Product Managers on Twitter](#best-product-managers-on-twitter)
+- [Special Thanks](#special-thanks)
 - [Contributing to the list](#contributing)
 
 
@@ -432,6 +435,9 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Janna Bastow](https://twitter.com/simplybastow) - Co-Founder of MTP/CEO at ProdPad/CoFounder ProductTank and ProductCamp London 
  * [Martin Eriksson](https://twitter.com/bfgmartin) - Co-Founder at MTP/ProductTank 
  * [Simon Cast](https://twitter.com/simoncast) - Co Founder MTP/ProductTank/ProdPad
+ 
+ # Special Thanks
+ * Special Thanks to [Paul Cothenet](http://attackwithnumbers.com) providing the Base of Core 1: Product Management
 
  # Contributing to the list
  *  [See the guide](https://github.com/tron1991/open-product-management/blob/master/CONTRIBUTING.md)

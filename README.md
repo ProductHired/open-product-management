@@ -376,15 +376,18 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Designer Chat](https://www.producthunt.com/r/85601ad255/3697) - The Designer News community in a private Slack chat.
  * [Product Manager HQ](https://www.productmanagerhq.com/join-the-community/) - Product Manager HQ - Slack group
 
+
  #### Meetups
+ #####North America
  * [Product Tank](http://www.meetup.com/producttanknyc/) - Product Tank NY Meetups
  * [The Product Group](http://www.meetup.com/TheProductGroup/) - The Product Group New York
- * [The Product Group London](http://www.meetup.com/TheProductGroupLondon/) - The Product Group London
  * [Lean Product & Lean UX Silicon Valley](http://www.meetup.com/lean-product/) - People interested in applying Lean Startup, Lean UX, and Agile principles to design and develop products that customers love
  * [Product Management Fast Track](http://www.meetup.com/ProductManagementFastTrack/) - Product Management in San Francisco
  * [SUPA Product Talks SFBay](http://www.meetup.com/SUPAProductTalks/) - SUPA Product Academy in San Francisco
  * [Silicon Valley Strategy, Innovation and Product Management](http://www.meetup.com/Silicon-Valley-Product-Management/) - Product Management in Cupertino, CA
  * [Startup Metrics Toronto, Canada](http://www.meetup.com/Startup-Metrics-Toronto/) - A group for entrepreneurs and product managers to discuss the metrics that matter to their startups.
+ #####Europe
+  * [The Product Group London](http://www.meetup.com/TheProductGroupLondon/) - The Product Group London
 
  #### Conferences
  * [Mind the Product Conference](http://mtpcon.com/sf/) - The Conference for Passionate Product People

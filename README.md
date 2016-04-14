@@ -379,6 +379,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  #### Meetups
  * [Product Tank](http://www.meetup.com/producttanknyc/) - Product Tank NY Meetups
  * [The Product Group](http://www.meetup.com/TheProductGroup/) - The Product Group New York
+ * [The Product Group London](http://www.meetup.com/TheProductGroupLondon/) - The Product Group London
  * [Lean Product & Lean UX Silicon Valley](http://www.meetup.com/lean-product/) - People interested in applying Lean Startup, Lean UX, and Agile principles to design and develop products that customers love
  * [Product Management Fast Track](http://www.meetup.com/ProductManagementFastTrack/) - Product Management in San Francisco
  * [SUPA Product Talks SFBay](http://www.meetup.com/SUPAProductTalks/) - SUPA Product Academy in San Francisco

@@ -386,6 +386,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [SUPA Product Talks SFBay](http://www.meetup.com/SUPAProductTalks/) - SUPA Product Academy in San Francisco
  * [Silicon Valley Strategy, Innovation and Product Management](http://www.meetup.com/Silicon-Valley-Product-Management/) - Product Management in Cupertino, CA
  * [Startup Metrics Toronto, Canada](http://www.meetup.com/Startup-Metrics-Toronto/) - A group for entrepreneurs and product managers to discuss the metrics that matter to their startups.
+
  #####Europe
   * [The Product Group London](http://www.meetup.com/TheProductGroupLondon/) - The Product Group London
 
@@ -441,7 +442,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Simon Cast](https://twitter.com/simoncast) - Co Founder MTP/ProductTank/ProdPad
  
  # Special Thanks
- * Special Thanks to [Paul Cothenet](http://attackwithnumbers.com) providing the Base of Core 1: Product Management
+ * Special Thanks to [Paul Cothenet](http://attackwithnumbers.com) for providing the Base of Core 1: Product Management
 
  # Contributing to the list
  *  [See the guide](https://github.com/tron1991/open-product-management/blob/master/CONTRIBUTING.md)

@@ -370,6 +370,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Global Lynda](http://leenau.bitbucket.org/lynda/language-rollout-phases/) - Sample Language Rollout Phases
  * [Global Lynda](http://leenau.bitbucket.org/lynda/go-to-market/) - Sample Go-to-Market Plan
  * [Product Hunt](https://github.com/intuit/AnimationEngine) -  Sample Early Product Spec from Ryan Hoover, Product Hunt
+ * [Yahoo! Let’s put some Bots in that beautiful Messenger App - Product Spec](https://medium.com/@ivanTr0n/yahoo-let-s-put-some-bots-in-that-beautiful-messenger-app-product-spec-6fdecb2614f#.2ud1s2wow) Sample Product Spec about Yahoo
 
  ### Communities to Join
 
@@ -415,7 +416,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [The Ultimate Guide to Product Manager Interview Questions](https://www.quora.com/What-are-frequently-asked-questions-in-product-manager-interviews) - Quora PM Questions
  * [4 Questions I Always Ask When Interviewing Product Managers](http://www.producttalk.org/2012/06/4-questions-i-always-ask-when-interviewing-product-managers/) - 4 Questions to ask a PM
  * [Product School](http://www.productschool.com) - Product School 2-month Education
- * [Interview Question Prep for PM Interviews](https://docs.google.com/document/d/1ZXwg8LFLEi-HmN9BoCoifqEM1NggxNjex4Tx-5ALa9I/edit) - Prep questions from Rafi Lurie, APM at Uber.
+ * [Interview Question Prep for PM Interviews](https://docs.google.com/document/d/1ZXwg8LFLEi-HmN9BoCoifqEM1NggxNjex4Tx-5ALa9I/edit) - Prep Questions from Rafi Lurie, APM at Uber.
 
  ### Career Prep:Company Types
  * [Google by Larry page and Sergey Brin](http://www.google.com/about/company/philosophy/) - Google's culture

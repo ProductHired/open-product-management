@@ -152,7 +152,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [The product manager’s lament](http://www.startuplessonslearned.com/2008/10/product-managers-lament.html) - Eric Ries
 
  ### User Experience
- *[Lean UX Canvas](https://medium.com/@mstephan/lean-ux-canvas-5f1fdd378077#.et3az0712) - Mark Stephan
+ * [Lean UX Canvas](https://medium.com/@mstephan/lean-ux-canvas-5f1fdd378077#.et3az0712) - Mark Stephan
 
  ### How to work with Designers
  * [How to work with designers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146) - Julie Zhuo
@@ -335,6 +335,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Product School - USA](http://www.productschool.com) - Get a Product Manager Job
  * [Poduct Managment - General Assembly](https://generalassemb.ly/education/product-management) - 10-WEEK PART-TIME COURSE
  * [How to build a product roadmap everyone understands - Free e-Course](https://get.prodpad.com/theme-based-roadmap-course/) - How to build a roadmap
+ * [One Week PM](http://www.oneweekpm.com/) - Learn Product Management in a week
 
 
  # Core 3: Real Life Product Management

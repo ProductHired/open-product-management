@@ -172,6 +172,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Shipping beats perfection explained](http://bjk5.com/post/60760280107/shipping-beats-perfection-explained) - Ben Kamens
  * [Measure twice, cut once](https://medium.com/@rklau/measure-twice-cut-once-e86c2f08b4c) - Rick Klau
  * [The lost art of the soft launch](http://wadefoster.net/post/70145296769/the-lost-art-of-the-soft-launch) - Wade Foster
+ * [What are the most important metrics for developing and managing a mobile product?](https://www.quora.com/What-are-the-most-important-metrics-for-developing-and-managing-a-mobile-product/answer/Drew-Dillon) - Drew Dillon
 
  ### Organizing your Team
  * [Enter the Matrix - Organizing Product Management](https://www.braintreepayments.com/braintrust/Enter-the-Matrix-Organizing-Product-Management) - Mark Tattersall
@@ -425,6 +426,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [4 Questions I Always Ask When Interviewing Product Managers](http://www.producttalk.org/2012/06/4-questions-i-always-ask-when-interviewing-product-managers/) - 4 Questions to ask a PM
  * [Product School](http://www.productschool.com) - Product School 2-month Education
  * [Interview Question Prep for PM Interviews](https://docs.google.com/document/d/1ZXwg8LFLEi-HmN9BoCoifqEM1NggxNjex4Tx-5ALa9I/edit) - Prep Questions from Rafi Lurie, APM at Uber.
+ * [How To Get A PM Job With The Yammer Mafia - In-person](https://medium.com/product-man/how-to-get-a-pm-job-with-the-yammer-mafia-ec2c43c775fb#.viuymdset) - How to Join The Yammer PM Mafia
 
  ### Career Prep:Company Types
  * [Google by Larry page and Sergey Brin](http://www.google.com/about/company/philosophy/) - Google's culture

@@ -279,22 +279,30 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [A/B Testing Effectively](https://blog.intercom.io/why-ab-tests-should-yield-more-than-results/) - Run successful, statistically accurate A/B tests.
 
  ### Books
- * [Inspired - How to Create Products Customers Love](http://www.amazon.com/gp/product/B001AQ95UY?btkr=1) - Marty Cagan
- * [Getting Real](http://gettingreal.37signals.com) - The smarter, faster, easier way to build a successful web application 
- * [The 4 steps to the Epiphany](http://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507) - Steve Blank
- * [Beginning Customer Development](https://app.convertkit.com/kevindewalt/beginning-customer-development_ebook) - Kevin Dewalt
- * [Inspired - How to Create Products Customers Love](http://www.amazon.com/gp/product/B001AQ95UY?btkr=1) - Marty Cagan
- * [Joel on Software](http://www.amazon.com/Joel-Software-Occasionally-Developers-Designers/dp/1590593898) - Joel Spolsky
- * [Peopleware](http://www.amazon.com/gp/product/0321934113/ref=pd_lpo_sbs_dp_ss_3?pf_rd_p=1944687462&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=0201835959&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=1E20VC37Q8W2VN696453) - Tom DeMarco
- * [Team Geek](http://www.amazon.com/Team-Geek-Software-Developers-Working/dp/1449302440/ref=sr_1_1?s=books&ie=UTF8&qid=1414877530&sr=1-1&keywords=team+geek) - Brian Fitzpatrick
- * [The Mythical Man-Month](http://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959) - Frederick Brooks
+ #####Design
+ * [Inspired - How to Create Products Customers Love](http://www.amazon.com/gp/product/B001AQ95UY?btkr=1) - Marty Cagan  
  * [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things) - Donald Norman
+ #####Startups
+ * [The 4 steps to the Epiphany](http://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507) - Steve Blank
+ * [Beginning Customer Development](https://app.convertkit.com/kevindewalt/beginning-customer-development_ebook) - Kevin Dewalt 
+ * [The Innovator’s Dilemma](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) - Clayton Christensen
+ * [It’s Your Ship: Management Techniques from the Best Damn Ship in the Navy​](http://www.amazon.com/Its-Your-Ship-Management-Techniques/dp/145552302X) - Michael Abrashoff 
+ * [The Hard Thing About Hard Things](http://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/) - Ben Horowitz
+ #####Marketing
+ * [Peopleware](http://www.amazon.com/gp/product/0321934113/ref=pd_lpo_sbs_dp_ss_3?pf_rd_p=1944687462&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=0201835959&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=1E20VC37Q8W2VN696453) - Tom DeMarco 
+ * [Understanding Media​](https://en.wikipedia.org/wiki/Understanding_Media) - Marshall McLuhan 
+ * [Made to Stick](https://en.wikipedia.org/wiki/Made_to_Stick) - Chip and Dan Heath
+ #####Product Development
+ * [Getting Real](http://gettingreal.37signals.com) - The smarter, faster, easier way to build a successful web application 
+ * [Joel on Software](http://www.amazon.com/Joel-Software-Occasionally-Developers-Designers/dp/1590593898) - Joel Spolsky 
+ * [Team Geek](http://www.amazon.com/Team-Geek-Software-Developers-Working/dp/1449302440/ref=sr_1_1?s=books&ie=UTF8&qid=1414877530&sr=1-1&keywords=team+geek) - Brian Fitzpatrick 
+ * [The Mythical Man-Month](http://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959) - Frederick Brooks
+ * [The Timeless Way of Building](http://www.amazon.com/Timeless-Way-Building-Christopher-Alexander/dp/0195024028) - Christopher Alexander
+ * [Algorithms of the Intelligent Web](http://www.amazon.com/Algorithms-Intelligent-Web-Haralambos-Marmanis/dp/1933988665) - Haralambos Marmanis and Dmitry Babenko
+ #####Leadership
  * [How To Measure Anything](http://www.amazon.com/How-Measure-Anything-Intangibles-Business/dp/1118539273) - Douglas W. Hubbard
  * [Creativity, Inc.](https://openlibrary.org/works/OL17078912W/Creativity_Inc.) - Ed Catmull 
- * [Snow Crash](https://en.wikipedia.org/wiki/Snow_Crash) - Neal Stephenson
- * [Understanding Media​](https://en.wikipedia.org/wiki/Understanding_Media) - Marshall McLuhan
- * [Made to Stick](https://en.wikipedia.org/wiki/Made_to_Stick) - Chip and Dan Heath
- * [Where Wizards Stay Up Late](https://openlibrary.org/works/OL3270089W/Where_wizards_stay_up_late) - Katie Hafner​
+ * [Where Wizards Stay Up Late](https://openlibrary.org/works/OL3270089W/Where_wizards_stay_up_late) - Katie Hafner
  * [The Tipping Point](https://en.wikipedia.org/wiki/The_Tipping_Point) - Malcolm Gladwell
  * [The Martian​](https://en.wikipedia.org/wiki/The_Martian_%28Weir_novel%29) - Andy Weir
  * [What Every BODY Is Saying​](http://www.amazon.com/What-Every-BODY-Saying-Speed-Reading/dp/0061438294/) - Joe Navarro
@@ -304,13 +312,8 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Getting Past NO](https://en.wikipedia.org/wiki/Getting_Past_No) - William Ury
  * [The 7 Habits of Highly Effective People](http://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/1451639619) - Stephen R. Covey
  * [Switch: How to Change Things When Change is Hard​](http://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752) - Chip and Dan Heath
- * [The Innovator’s Dilemma](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) - Clayton Christensen
- * [It’s Your Ship: Management Techniques from the Best Damn Ship in the Navy​](http://www.amazon.com/Its-Your-Ship-Management-Techniques/dp/145552302X) - Michael Abrashoff
  * [The Score Takes Care of Itself​](http://www.amazon.com/Score-Takes-Care-Itself-Philosophy/dp/1591843472/) - Bill Walsh, Steve Jamison & Craig Walsh
  * [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) - Daniel Kahneman
- * [The Hard Thing About Hard Things](http://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/) - Ben Horowitz
- * [The Timeless Way of Building](http://www.amazon.com/Timeless-Way-Building-Christopher-Alexander/dp/0195024028) - Christopher Alexander
- * [Algorithms of the Intelligent Web](http://www.amazon.com/Algorithms-Intelligent-Web-Haralambos-Marmanis/dp/1933988665) - Haralambos Marmanis and Dmitry Babenko
  * [Managing Humans](http://www.amazon.com/gp/product/1430243147/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1430243147&linkCode=as2&tag=httpstwit071f-20) - Former Manager at Apple
  * [The Everything Store: Jeff Bezos and the Age of Amazon](http://www.amazon.com/gp/product/0316219266/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0316219266&linkCode=as2&tag=httpstwit071f-20) - Brad Stone
 

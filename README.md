@@ -180,6 +180,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Good product team, bad product team](http://www.svpg.com/good-product-team-bad-product-team/) - Marty Cagan
  * [The best Product Management model](http://bjk5.com/post/60760280107/shipping-beats-perfection-explained) - Marty Cagan
  * [Maker's Schedule, Manager's Schedule ](http://www.paulgraham.com/makersschedule.html) - Paul Graham
+ * [Take back your day: Time Management for PMs](https://pmblog.quora.com/Take-back-your-day-Time-Management-for-PMs) - Jackie Bavaro
 
  ### Become the Best in the Field
  * [Top hacks from a PM behind two of tech’s hottest products](http://firstround.com/article/Top-Hacks-from-a-PM-Behind-Two-of-Techs-Hottest-Products) - Todd Jackson
@@ -429,6 +430,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Product School](http://www.productschool.com) - Product School 2-month Education
  * [Interview Question Prep for PM Interviews](https://docs.google.com/document/d/1ZXwg8LFLEi-HmN9BoCoifqEM1NggxNjex4Tx-5ALa9I/edit) - Prep Questions from Rafi Lurie, APM at Uber.
  * [How To Get A PM Job With The Yammer Mafia - In-person](https://medium.com/product-man/how-to-get-a-pm-job-with-the-yammer-mafia-ec2c43c775fb#.viuymdset) - How to Join The Yammer PM Mafia
+ * [The Best Student Activity for Product Managers By Jackie Bavaro](https://pmblog.quora.com/The-Best-Student-Activity-for-Product-Managers) - The Best Student Activity for Product Managers
 
  ### Career Prep:Company Types
  * [Google by Larry page and Sergey Brin](http://www.google.com/about/company/philosophy/) - Google's culture

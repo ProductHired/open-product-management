@@ -403,6 +403,11 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [SUPA Product Talks SFBay](http://www.meetup.com/SUPAProductTalks/) - SUPA Product Academy in San Francisco
  * [Silicon Valley Strategy, Innovation and Product Management](http://www.meetup.com/Silicon-Valley-Product-Management/) - Product Management in Cupertino, CA
  * [Startup Metrics Toronto, Canada](http://www.meetup.com/Startup-Metrics-Toronto/) - A group for entrepreneurs and product managers to discuss the metrics that matter to their startups.
+ * [Product School - San Francisco Meetup](http://www.meetup.com/productmanagementSF/) - Product School Meetup
+ * [Product School - Silicon Valley Meetup](http://www.meetup.com/productmanagementSV/) - Product School Meetup
+ * [Product School - New York Meetup](http://www.meetup.com/productmanagementNY/) - Product School Meetup
+ * [Product School - Los Angeles Meetup](http://www.meetup.com/productmanagementLA/) - Product School Meetup
+ * [Product School - Boston Meetup](http://www.meetup.com/productmanagementBOS/) - Product School Meetup 
 
  #####Europe
   * [The Product Group London](http://www.meetup.com/TheProductGroupLondon/) - The Product Group London

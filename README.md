@@ -395,7 +395,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Product Hunt](https://github.com/intuit/AnimationEngine) -  Sample Early Product Spec from Ryan Hoover, Product Hunt
 <<<<<<< HEAD
  * [Yahoo! Let’s put some Bots in that beautiful Messenger App - Product Spec](https://medium.com/@ivanTr0n/yahoo-let-s-put-some-bots-in-that-beautiful-messenger-app-product-spec-6fdecb2614f#.2ud1s2wow) Sample Product Spec about Yahoo
- * [A Usability Test, with Recommendations for Improvement of Skyscanner’s Mobile Flight Search & Booking App](https://medium.com/@mstephan/a-usability-test-with-recommendations-for-improvement-of-skyscanner-s-mobile-flight-search-56b6e598b8a2#.1ve6qzn2e) - Sample product break-down with usability testing from Mark Stephan
+ * [A Usability Test, with Recommendations for Improvement of Skyscanner’s Mobile Flight Search & Booking App](https://medium.com/@mstephan/a-usability-test-with-recommendations-for-improvement-of-skyscanner-s-mobile-flight-search-56b6e598b8a2#.1ve6qzn2e) - Sample product break-down with usability testing by Mark Stephan
  * [Yahoo! Let’s put some Bots in that beautiful Messenger App - Product Spec](https://medium.com/@ivanTr0n/yahoo-let-s-put-some-bots-in-that-beautiful-messenger-app-product-spec-6fdecb2614f#.2ud1s2wow) - Sample Product Spec about Yahoo
  * [Usability Test on Product Hunt for iPhone](https://medium.com/@ericjlee/usability-test-on-product-hunt-for-iphone-ba208a440175#.4i6960u4k) - Sample Usability Test on Product Hunt
  * [A Usability Test for Yelp’s iOS Application](https://medium.com/@ivanTr0n/a-usability-test-for-yelp-s-ios-application-13c7f3fea84c#.hih9hvh18) - Sample Usability Test for Yelp

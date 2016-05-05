@@ -138,6 +138,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Drop feature-based product roadmaps](http://www.producttalk.org/2014/04/drop-feature-based-product-roadmaps/) - Teresa Torres
  * [How to build a roadmap everyone understands](https://medium.com/@dreasaez/how-to-build-a-product-roadmap-everyone-understands-522b36270e5#.e8gcmylg0) - Andrea Saez
  * [Making a Product Map](https://medium.com/@mstephan/making-a-product-map-4fbf6d440a19#.bpmtqfotk) - Mark Stephan
+ * [Lean UX Canvas](https://medium.com/@mstephan/lean-ux-canvas-5f1fdd378077#.rdbait1y4) - Mark Stephan
 
  ### How to work with Engineers
  * [The care and feeding of software engineers](http://www.nczonline.net/blog/2012/06/12/the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy/) - Nicholas C. Zakas
@@ -150,6 +151,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Engineers: So your PM sucks? Here’s how to fix it.](http://blog.ellenchisa.com/2014/07/20/engineers-pm-sucks-heres-fix/) - Ellen Chisa
  * [Nerds, get the Product Management you deserve](https://medium.com/@jeff7091/nerds-get-the-product-management-you-deserve-3bcf849394c2) - Jeff Enderwick
  * [The product manager’s lament](http://www.startuplessonslearned.com/2008/10/product-managers-lament.html) - Eric Ries
+ * [Top 5 Ways Product Managers can help Developer’s Love them](https://medium.com/@mstephan/top-5-ways-product-managers-can-help-developers-love-them-4660ef7711d5) - Mark Stephan
 
  ### User Experience
  * [Lean UX Canvas](https://medium.com/@mstephan/lean-ux-canvas-5f1fdd378077#.et3az0712) - Mark Stephan
@@ -201,6 +203,10 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [How to hire a Product Manager](https://www.kennethnorton.com/essays/productmanager.html) - Kenneth Norton
 
  # Core 2: Resources
+
+ ### Resource Repositories
+ * [Software Product Management Stack](http://softwareproductmanagement.co/) - A curated list of Product Manager articles and resources
+
  ### Design
  * [Kindling](https://www.producthunt.com/r/9c7a76d74a/7801) - Idea management tool
  * [Designer News Market](https://www.producthunt.com/r/575fefd1ae2db4/47337) - The best design resources for your next project
@@ -371,6 +377,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Global Lynda](http://leenau.bitbucket.org/lynda/go-to-market/) - Sample Go-to-Market Plan
  * [Product Hunt](https://github.com/intuit/AnimationEngine) -  Sample Early Product Spec from Ryan Hoover, Product Hunt
  * [Yahoo! Let’s put some Bots in that beautiful Messenger App - Product Spec](https://medium.com/@ivanTr0n/yahoo-let-s-put-some-bots-in-that-beautiful-messenger-app-product-spec-6fdecb2614f#.2ud1s2wow) Sample Product Spec about Yahoo
+ * [A Usability Test, with Recommendations for Improvement of Skyscanner’s Mobile Flight Search & Booking App](https://medium.com/@mstephan/a-usability-test-with-recommendations-for-improvement-of-skyscanner-s-mobile-flight-search-56b6e598b8a2#.1ve6qzn2e) - Sample product break-down with usability testing from Mark Stephan
 
  ### Communities to Join
 
@@ -403,6 +410,10 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Enterprise UX 2016](http://2016.enterpriseux.net) - The Enterprise UX 2016 conference is dedicated to delivering useful, delightful, and humane experiences to people who work for and in enterprises.
 
  # Core 4: Get the Job
+
+ ### Hiring a Product Manager Tips/Tricks
+ * [Inspire Me with your Job Description](https://medium.com/@mstephan/inspire-with-your-job-description-ecb5ce744cfc#.gjzd3n4ez) - Writing a job description that attracts inspired product managers from Mark Stephan
+
  ### Career Prep:Resume
  * [How do you write a good resume for product manager jobs?](https://www.quora.com/How-do-you-write-a-good-resume-for-product-manager-jobs) - Sample Advice on Quora
  * [Mike Bracco - Sample PM Resume](http://mikebracco.com/resume/) - Sample Resume Website from a PM

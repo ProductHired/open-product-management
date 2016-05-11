@@ -208,6 +208,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
  ### Resource Repositories
  * [Software Product Management Stack](http://softwareproductmanagement.co/) - A curated list of Product Manager articles and resources
+ * [End-End Product Management Lifecycle](http://attackwithnumbers.com/i-love-product-management) - A list of articles from what is it to becoming a great Product Manager 
 
  ### Design
  * [Kindling](https://www.producthunt.com/r/9c7a76d74a/7801) - Idea management tool

@@ -41,6 +41,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
     - [Books](#books)
     - [Podcasts](#podcasts)
     - [Online Courses](#online-courses)
+    - [End-End PM Lifecycle Links](http://attackwithnumbers.com/i-love-product-management)(#everything)
 - [Core 3: Real Life Product Management](#real-life-product-management)
     - [Interviews](#interviews)
     - [Product Case Studies](#product-case-studies)

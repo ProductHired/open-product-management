@@ -209,6 +209,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  ### Resource Repositories
  * [Software Product Management Stack](http://softwareproductmanagement.co/) - A curated list of Product Manager articles and resources
  * [End-End Product Management Lifecycle](http://attackwithnumbers.com/i-love-product-management) - A list of articles from what is it to becoming a great Product Manager 
+ * [The One-Stop Product Management Guide](http://www.digitalfriday.co/productmanagementguide/) - A framework and list of articles to help product managers build, grow and manage digital products
 
  ### Design
  * [Kindling](https://www.producthunt.com/r/9c7a76d74a/7801) - Idea management tool
@@ -409,6 +410,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Product School](http://www.productschool.com) - Product School Company Website
  * [Designer Chat](https://www.producthunt.com/r/85601ad255/3697) - The Designer News community in a private Slack chat.
  * [Product Manager HQ](https://www.productmanagerhq.com/join-the-community/) - Product Manager HQ - Slack group
+ * [Product Camp](http://www.productcamp.org) - Product Camp Community Website and Blog
 
 
  #### Meetups
@@ -429,6 +431,13 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
  #####Europe
   * [The Product Group London](http://www.meetup.com/TheProductGroupLondon/) - The Product Group London
+  
+ #####Asia
+ * [Product Management Singapore Facebook](https://www.facebook.com/groups/prodmgmtsg/) - Product Management SG Community
+ * [Product Camp - Singapore Meetup](http://www.meetup.com/Product-Camp-Singapore/) - Product Camp Meetup
+ * [Product Hunt - Singapore Meetup](http://www.meetup.com/Product-Hunt-Singapore-Meetup-Group/) - Product Hunt Meetup
+ * [Product Talks - Singapore Meetup](http://www.meetup.com/producttalkssingapore/) - Product Talks Meetup
+ * [Product Tank - Singapore Meetup](http://www.meetup.com/ProductTank-Singapore/) - Product Tank Meetup
 
  #### Conferences
  * [Mind the Product Conference](http://mtpcon.com/sf/) - The Conference for Passionate Product People

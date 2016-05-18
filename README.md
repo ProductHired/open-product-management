@@ -254,7 +254,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Tweetdeck](https://www.producthunt.com/r/1e570814c6/7906) - Power-user interface for Twitter.
  * [Flinto for Mac](https://www.producthunt.com/r/fe99cecc204527/31866) - The prototyping tool designers have been waiting for. 
  * [EdisonPlan](https://www.producthunt.com/r/25c938abb27313/33341) - The ultimate tool to plan & launch your product.
- * [Precursor](https://www.producthunt.com/r/a44c9aa39d/11067) - A real-time collaborative prototyping tool
+ * [Precursor](https://precursorapp.com) - A real-time collaborative prototyping tool
  * [App Screenshot Builder](https://www.producthunt.com/r/01acf800c8/15192) - Create gorgeous images for your App Store page in minutes.
  * [StartupResources.io](https://www.producthunt.com/r/38a39dc7c63715/40773) - Tightly curated lists of the best startup tools
 

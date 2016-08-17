@@ -353,14 +353,14 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  ### Courses
  * [Design Workflow with Sketch](https://github.com/facebook/pop) - An e-course from Clark Wimberly at InVision.
  * [Designlab](https://www.producthunt.com/r/b1ef8b4e5a/11546) - Learn design by doing, with hands-on projects & mentorship.
- * [You're Hired: How to Get a Job in Product Management](https://www.udemy.com/how-to-get-a-job-in-product-management/) - Learn how to become a product manager at a hot tech startup
+ * [You're Hired: How to Get a Job in Silicon Valley](https://www.udemy.com/youre-hired-how-to-get-a-job-in-silicon-valley/) - Learn how to get a job in Silicon Valley
  * [The Non-Technical Person's guide to building products & apps](https://www.udemy.com/launch-your-idea-idea-to-mvp-with-no-cto-and-no-coding/learn/v4/overview) - Go from Idea to MVP with no CTO and no coding. Launch your business, app, or product idea cheaply, quickly, and easily.
  * [Product Management Coursea](https://www.coursera.org/specializations/product-management) - Become an effective Software Product Manager by mastering Agile software development practices to confidently interact with clients and manage a development team.
  * [Product Management Course Brainstation - Toronto](https://github.com/intuit/AnimationEngine) - TRANSFORM YOUR IDEA INTO A PRODUCT.
  * [Product School - USA](http://www.productschool.com) - Get a Product Manager Job
  * [Poduct Managment - General Assembly](https://generalassemb.ly/education/product-management) - 10-WEEK PART-TIME COURSE
  * [How to build a product roadmap everyone understands - Free e-Course](https://get.prodpad.com/theme-based-roadmap-course/) - How to build a roadmap
- * [One Week PM](http://www.oneweekpm.com/) - Learn Product Management in a week
+ * [Building a Pre-Launch Marketing Strategy for Beginners](https://www.udemy.com/building-a-pre-launch-marketing-strategy-for-beginners/) - Build your own Pre-launch Marketing Strategy for your company rollout or feature
 
 
  # Core 3: Real Life Product Management

@@ -303,7 +303,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [The Hard Thing About Hard Things](http://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/) - Ben Horowitz
  * [Traction](http://www.amazon.com/Traction-Startup-Achieve-Explosive-Customer-ebook/dp/B00TY3ZOMS) - Gabriel Weinberg
  * [The Lean Product Playbook](http://www.amazon.com/The-Lean-Product-Playbook-Innovate/dp/1118960874) - Dan Olsen
- * [Hooked: How to build habit forming products](http://www.amazon.com/Hooked-How-Build-Habit-Forming-Products-ebook/dp/B00HJ4A43S) - Nir Eyal
+ * [Hooked: How to build habit forming products](http://www.amazon.com/Hooked-How-Build-Habit-Forming-Products-ebook/dp/B00HJ4A43S) - Nir Eyal 
  * [Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers](http://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123) - Geoffrey A. Moore
  
  #####Marketing

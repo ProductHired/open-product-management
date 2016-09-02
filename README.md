@@ -468,6 +468,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Interview Question Prep for PM Interviews](https://docs.google.com/document/d/1ZXwg8LFLEi-HmN9BoCoifqEM1NggxNjex4Tx-5ALa9I/edit) - Prep Questions from Rafi Lurie, APM at Uber.
  * [How To Get A PM Job With The Yammer Mafia - In-person](https://medium.com/product-man/how-to-get-a-pm-job-with-the-yammer-mafia-ec2c43c775fb#.viuymdset) - How to Join The Yammer PM Mafia
  * [The Best Student Activity for Product Managers By Jackie Bavaro](https://pmblog.quora.com/The-Best-Student-Activity-for-Product-Managers) - The Best Student Activity for Product Managers
+ * [Acing the Product Management Interview](https://www.linkedin.com/pulse/20141020034027-1533734-acing-the-product-management-interview?trk=hp-feed-article-title-like) - Allan Hui
 
  ### Career Prep:Company Types
  * [Google by Larry page and Sergey Brin](http://www.google.com/about/company/philosophy/) - Google's culture

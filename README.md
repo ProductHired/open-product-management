@@ -281,7 +281,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Google Analytics 360 Suite](https://www.producthunt.com/r/bd20f62dbcd86a/55251) - Enterprise analytics for your marketing.
  * [People Analytics](https://www.producthunt.com/r/f97ae5513e/13886) - One place to understand your users.
  * [Usage Analytics in appFigures](https://www.producthunt.com/r/fc2ecec1ebb475/54364) - Track usage for your app along side downloads, ranks & more.
- * [Baremetrics for Slack](https://www.producthunt.com/r/f101fb64d94199/56773) - Subscription analytics, insights & notifications in Slack.
+ * [Baremetrics for Slack](https://baremetrics.com/slack) - Subscription analytics, insights & notifications in Slack.
  * [Beam](https://www.producthunt.com/r/a57b975de0c1f3/56271) - Tell your stories with beautiful charts.
  * [Fabric mobile app by Twitter](https://www.producthunt.com/r/d41c21cec151a9/52686) - Real-time analytics and stability alerts for your app.
  * [Stream](https://www.producthunt.com/r/e069b8159d31bb/51641) - Analytics for feeds.

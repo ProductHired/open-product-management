@@ -4,7 +4,7 @@
 A curated list of product management advice from frameworks, interviews, experts, resources, books, products, career preps, and much more.
 The list is divided into cores such as product management, resources, interviews, case Studies, sample products/projects, communities, open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/tron1991/open-product-management/blob/master/CONTRIBUTING.md). Feel free to add products or links to help other product managers.
 
-This list was created for all product managers whether beginner or advanced to learn from the best people and communities. If you are a technical person looking to get into the role of a Product Manager, this advice below will help you along your path. This guide is by all means not the end all to your learning as the best learning is achieved through practice. 
+This list was created for all product managers whether beginner or advanced to learn from the best people and communities. If you are a technical person looking to get into the role of a Product Manager, this advice below will help you along your path. This guide is by all means not the end all to your learning as the best learning is achieved through practice.
 
 Don't forget to share with others and follow me on Twitter,[ Nicholas Ivanecky](http://twitter.com/ivantr0n)
 
@@ -118,7 +118,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [The seven deadly sins of product planning](The seven deadly sins of product planning) - Marty Cagan
  * [Product strategy means saying no](http://blog.intercom.io/product-strategy-means-saying-no/) - Des Traynor
  * [Product priorities start with strategic goals](http://www.productpowers.com/blog/product-priorities-start-with-strategic-goals.html) - Bruce McCarthy
- * [The inconvenient truth about product](http://www.svpg.com/the-inconvenient-truth-about-product/) - Marty 
+ * [The inconvenient truth about product](http://www.svpg.com/the-inconvenient-truth-about-product/) - Marty
  * [The opportunity backlog](http://www.svproduct.com/the-opportunity-backlog/) - Marty Cagan
  * [The dirty dozen roadmap roadblocks](http://www.productpowers.com/blog/the-dirty-dozen-roadmap-roadblocks.html) - Bruce McCarthy
  * [How to structure and get the most out of customer development interviews](http://jasonevanish.com/2012/01/18/how-to-structure-and-get-the-most-out-of-customer-development-interviews/) - Jason Evanish
@@ -208,7 +208,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
  ### Resource Repositories
  * [Software Product Management Stack](http://softwareproductmanagement.co/) - A curated list of Product Manager articles and resources
- * [End-End Product Management Lifecycle](http://attackwithnumbers.com/i-love-product-management) - A list of articles from what is it to becoming a great Product Manager 
+ * [End-End Product Management Lifecycle](http://attackwithnumbers.com/i-love-product-management) - A list of articles from what is it to becoming a great Product Manager
  * [The One-Stop Product Management Guide](http://www.digitalfriday.co/productmanagementguide/) - A framework and list of articles to help product managers build, grow and manage digital products
 
  ### Design
@@ -237,7 +237,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [JavaScript and JQuery](https://www.producthunt.com/r/738cfc20b6822c/34969) - Interactive front-end web development
  * [Web Starter Kit by Google](https://www.producthunt.com/r/8784bae2c3/4429) - Boilerplate & Tooling for Multi-Device Development
  * [Beginning iOS Programming](https://www.producthunt.com/r/b0938b1a7d/9778) - A new book from AppCoda, learn to build an app from scratch.
- * [The Go Programming Language](https://www.producthunt.com/r/09343b492ddf5d/45810) - The authoritative resource for leaning Go 
+ * [The Go Programming Language](https://www.producthunt.com/r/09343b492ddf5d/45810) - The authoritative resource for leaning Go
  * [Haskell for Mac](https://www.producthunt.com/r/bc15cc46319f05/31890) - Functional programming without the hassle.
  * [Code4Startup 2.0](https://www.producthunt.com/r/842d5b453ab09a/38728) - Learn to code by cloning real-life startups (PRO version)
  * [Code School](https://www.producthunt.com/r/9d15cfb5f3/346) - Learn to code on your iPhone
@@ -252,7 +252,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Typeform](https://www.producthunt.com/r/87fb47ed48/7803) - Generate surveys in seconds.
  * [Balsamiq](https://www.producthunt.com/r/544603151e/7808) - Rapid wireframing tool.
  * [Tweetdeck](https://www.producthunt.com/r/1e570814c6/7906) - Power-user interface for Twitter.
- * [Flinto for Mac](https://www.producthunt.com/r/fe99cecc204527/31866) - The prototyping tool designers have been waiting for. 
+ * [Flinto for Mac](https://www.producthunt.com/r/fe99cecc204527/31866) - The prototyping tool designers have been waiting for.
  * [EdisonPlan](https://www.producthunt.com/r/25c938abb27313/33341) - The ultimate tool to plan & launch your product.
  * [Precursor](https://precursorapp.com) - A real-time collaborative prototyping tool
  * [App Screenshot Builder](https://www.producthunt.com/r/01acf800c8/15192) - Create gorgeous images for your App Store page in minutes.
@@ -293,37 +293,37 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Inspired - How to Create Products Customers Love](http://www.amazon.com/gp/product/B001AQ95UY?btkr=1) - Marty Cagan  
  * [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things) - Donald Norman
  * [Don't Make Me Think: A Common Sense Approach to Web Usability, 2nd Edition](http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758) - Steve Krug
- 
+
  #####Startups
  * [The 4 steps to the Epiphany](http://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507) - Steve Blank
  * [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](http://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417) - A handbook for designing tomorrow’s enterprises
- * [Beginning Customer Development](https://app.convertkit.com/kevindewalt/beginning-customer-development_ebook) - Kevin Dewalt 
+ * [Beginning Customer Development](https://app.convertkit.com/kevindewalt/beginning-customer-development_ebook) - Kevin Dewalt
  * [The Innovator’s Dilemma](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) - Clayton Christensen
- * [It’s Your Ship: Management Techniques from the Best Damn Ship in the Navy​](http://www.amazon.com/Its-Your-Ship-Management-Techniques/dp/145552302X) - Michael Abrashoff 
+ * [It’s Your Ship: Management Techniques from the Best Damn Ship in the Navy​](http://www.amazon.com/Its-Your-Ship-Management-Techniques/dp/145552302X) - Michael Abrashoff
  * [The Hard Thing About Hard Things](http://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/) - Ben Horowitz
  * [Traction](http://www.amazon.com/Traction-Startup-Achieve-Explosive-Customer-ebook/dp/B00TY3ZOMS) - Gabriel Weinberg
  * [The Lean Product Playbook](http://www.amazon.com/The-Lean-Product-Playbook-Innovate/dp/1118960874) - Dan Olsen
- * [Hooked: How to build habit forming products](http://www.amazon.com/Hooked-How-Build-Habit-Forming-Products-ebook/dp/B00HJ4A43S) - Nir Eyal 
+ * [Hooked: How to build habit forming products](http://www.amazon.com/Hooked-How-Build-Habit-Forming-Products-ebook/dp/B00HJ4A43S) - Nir Eyal
  * [Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers](http://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123) - Geoffrey A. Moore
- 
+
  #####Marketing
- * [Peopleware](http://www.amazon.com/gp/product/0321934113/ref=pd_lpo_sbs_dp_ss_3?pf_rd_p=1944687462&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=0201835959&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=1E20VC37Q8W2VN696453) - Tom DeMarco 
- * [Understanding Media​](https://en.wikipedia.org/wiki/Understanding_Media) - Marshall McLuhan 
+ * [Peopleware](http://www.amazon.com/gp/product/0321934113/ref=pd_lpo_sbs_dp_ss_3?pf_rd_p=1944687462&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=0201835959&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=1E20VC37Q8W2VN696453) - Tom DeMarco
+ * [Understanding Media​](https://en.wikipedia.org/wiki/Understanding_Media) - Marshall McLuhan
  * [Made to Stick](https://en.wikipedia.org/wiki/Made_to_Stick) - Chip and Dan Heath
- 
+
  #####Product Development
- * [Getting Real](http://gettingreal.37signals.com) - The smarter, faster, easier way to build a successful web application 
- * [Joel on Software](http://www.amazon.com/Joel-Software-Occasionally-Developers-Designers/dp/1590593898) - Joel Spolsky 
- * [Team Geek](http://www.amazon.com/Team-Geek-Software-Developers-Working/dp/1449302440/ref=sr_1_1?s=books&ie=UTF8&qid=1414877530&sr=1-1&keywords=team+geek) - Brian Fitzpatrick 
+ * [Getting Real](http://gettingreal.37signals.com) - The smarter, faster, easier way to build a successful web application
+ * [Joel on Software](http://www.amazon.com/Joel-Software-Occasionally-Developers-Designers/dp/1590593898) - Joel Spolsky
+ * [Team Geek](http://www.amazon.com/Team-Geek-Software-Developers-Working/dp/1449302440/ref=sr_1_1?s=books&ie=UTF8&qid=1414877530&sr=1-1&keywords=team+geek) - Brian Fitzpatrick
  * [The Mythical Man-Month](http://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959) - Frederick Brooks
  * [The Timeless Way of Building](http://www.amazon.com/Timeless-Way-Building-Christopher-Alexander/dp/0195024028) - Christopher Alexander
  * [Algorithms of the Intelligent Web](http://www.amazon.com/Algorithms-Intelligent-Web-Haralambos-Marmanis/dp/1933988665) - Haralambos Marmanis and Dmitry Babenko
  * [Cracking the PM Interview](http://www.amazon.com/Cracking-PM-Interview-Product-Technology/dp/0984782818) - Jackie Bavaro
  * [The Art of Product Management: Lessons from a Silicon Valley Innovator](http://www.amazon.com/The-Art-Product-Management-Innovator/dp/1439216061) - Rich Mironov
- 
+
  #####Leadership
  * [How To Measure Anything](http://www.amazon.com/How-Measure-Anything-Intangibles-Business/dp/1118539273) - Douglas W. Hubbard
- * [Creativity, Inc.](https://openlibrary.org/works/OL17078912W/Creativity_Inc.) - Ed Catmull 
+ * [Creativity, Inc.](https://openlibrary.org/works/OL17078912W/Creativity_Inc.) - Ed Catmull
  * [Where Wizards Stay Up Late](https://openlibrary.org/works/OL3270089W/Where_wizards_stay_up_late) - Katie Hafner
  * [The Martian​](https://en.wikipedia.org/wiki/The_Martian_%28Weir_novel%29) - Andy Weir
  * [What Every BODY Is Saying​](http://www.amazon.com/What-Every-BODY-Saying-Speed-Reading/dp/0061438294/) - Joe Navarro
@@ -347,7 +347,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [What I Know Best - Catherine Pao - Growth Product Manager At Blue Apron](https://www.producthunt.com/podcasts/what-i-know-best-catherine-pao-growth-product-manager-at-blue-apron) - Product & growth lessons from DigitalOcean, Fab & BlueApron
  * [FemgineerTV: Episode 2 - How to Make Smart Tradeoffs When Developing Software Products](https://www.producthunt.com/podcasts/femgineertv-episode-2-how-to-make-smart-tradeoffs-when-developing-software-products) - Interview with former Director of Engineering at Facebook
  * [The James Altucher Show #160: Ashlee Vance](https://www.producthunt.com/podcasts/the-james-altucher-show-160-ashlee-vance) - Elon Musk and the quest to save mankind
- * [Product Hunt Maker Stories - Matt Mazzeo](https://www.producthunt.com/podcasts/product-hunt-maker-stories-matt-mazzeo-2) - Future of VC, breaking into tech/VC, & more 
+ * [Product Hunt Maker Stories - Matt Mazzeo](https://www.producthunt.com/podcasts/product-hunt-maker-stories-matt-mazzeo-2) - Future of VC, breaking into tech/VC, & more
  * [Growth Everywhere - The Strategy That Skyrocketed Hotjar to $1 Million ARR in 6 Months](https://www.producthunt.com/podcasts/growth-everywhere-the-strategy-that-skyrocketed-hotjar-to-1-million-arr-in-6-months) - How David Darmanin Grew Hotjar To $1 Million ARR in 6 months
 
  ### Courses
@@ -361,6 +361,10 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Poduct Managment - General Assembly](https://generalassemb.ly/education/product-management) - 10-WEEK PART-TIME COURSE
  * [How to build a product roadmap everyone understands - Free e-Course](https://get.prodpad.com/theme-based-roadmap-course/) - How to build a roadmap
  * [Building a Pre-Launch Marketing Strategy for Beginners](https://www.udemy.com/building-a-pre-launch-marketing-strategy-for-beginners/) - Build your own Pre-launch Marketing Strategy for your company rollout or feature
+
+ ### Blogs
+ * [The Cranky Product Manager](http://crankypm.com/) - A blog on product management, product marketing, and the ugly side of software product development. As of April 2015, the author, Sue Raisty, no longer writes, but she has a large backlog of great posts.
+ * [Street Smart Product Manager](http://streetsmartproductmanager.com/) - Thriving in the urban jungle of product.
 
 
  # Core 3: Real Life Product Management
@@ -381,7 +385,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Building an Enterprise Product: Yammer's Development Methodology](https://www.youtube.com/watch?v=N8wdRZDv0ks) - Jason Shah, product manager at Yammer, shares aspects of Yammer's product development methodology.
  * [Product Hunt’s Rise - Case Study](https://medium.com/@theunixbeard/product-hunt-s-rise-d49249a1a2c0#.bpns2qcg3) - Product Hunt’s Rise
  * [Facebook Case Study](http://www.slideshare.net/misteroo/facebook-analysis-and-study/17-Facebook_is_offering_new_advertisingproducts) - Facebook Analysis and Study
- * [Twitter Case Study](http://www.thetwittercasestudy.com/the-case-study.html) - The Twitter Case Study from the Dimensions of Strategy Series 
+ * [Twitter Case Study](http://www.thetwittercasestudy.com/the-case-study.html) - The Twitter Case Study from the Dimensions of Strategy Series
  * [Early Google Case Study](http://www.slideshare.net/ashwin_sharma/google-case-study) - Google Case Study
  * [Amazon Case Study](http://www.ecommerce-digest.com/amazon-case-study.html) - Amazon Case Study
  * [Apple iPod Case Study](http://www.ecommerce-digest.com/apple-ipod-case-study.html) - Apple Case Study
@@ -427,11 +431,11 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Product School - Silicon Valley Meetup](http://www.meetup.com/productmanagementSV/) - Product School Meetup
  * [Product School - New York Meetup](http://www.meetup.com/productmanagementNY/) - Product School Meetup
  * [Product School - Los Angeles Meetup](http://www.meetup.com/productmanagementLA/) - Product School Meetup
- * [Product School - Boston Meetup](http://www.meetup.com/productmanagementBOS/) - Product School Meetup 
+ * [Product School - Boston Meetup](http://www.meetup.com/productmanagementBOS/) - Product School Meetup
 
  #####Europe
   * [The Product Group London](http://www.meetup.com/TheProductGroupLondon/) - The Product Group London
-  
+
  #####Asia
  * [Product Management Singapore Facebook](https://www.facebook.com/groups/prodmgmtsg/) - Product Management SG Community
  * [Product Camp - Singapore Meetup](http://www.meetup.com/Product-Camp-Singapore/) - Product Camp Meetup
@@ -477,8 +481,8 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Facebook](https://www.quora.com/What-does-a-Product-Manager-at-Facebook-do) - Facebook PM Culture
 
  # Best Product Managers on Twitter
- * [Ken Norton](https://twitter.com/kennethn) - Partner @GVTeam. Formerly PM @Google. 
- * [Josh Elman](https://twitter.com/joshelman) - Partner, @GreylockVC: @Medium, @Jelly, @AppMeerkat, @Operator, @discordapp @Nextdoor. 
+ * [Ken Norton](https://twitter.com/kennethn) - Partner @GVTeam. Formerly PM @Google.
+ * [Josh Elman](https://twitter.com/joshelman) - Partner, @GreylockVC: @Medium, @Jelly, @AppMeerkat, @Operator, @discordapp @Nextdoor.
  * [Hunter Walk](https://twitter.com/hunterwalk) - @homebrew, Seed Stage Venture Fund w @satyap. Made products at YouTube, Google & SecondLife.
  * [Ian McAllister](https://twitter.com/ianmcall) - Director of Product at Airbnb. Former Amazon and founder of @AmazonSmile.
  * [Marty Cagan](https://twitter.com/cagan) - I'm a partner at Silicon Valley Product Group, specializing in product teams and product strategy
@@ -486,17 +490,17 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Jackie Bavaro](https://twitter.com/jackiebo) - Asana Product Manager. Co-Author of Cracking the PM Interview. Previously @ Google & Microsoft
  * [Julie Zhuo](https://twitter.com/joulee) - Product design VP @ Facebook.
  * [Joel Spolsky](https://twitter.com/spolsky) - CEO of Stack Overflow, co-founder of Fog Creek Software (FogBugz, Kiln), and creator of Trello.
- * [Bruce McCarthy](https://twitter.com/d8a_driven) - Innovator, consultant, coach, and evangelist for better products and product development 
+ * [Bruce McCarthy](https://twitter.com/d8a_driven) - Innovator, consultant, coach, and evangelist for better products and product development
  * [Des Traynor](https://twitter.com/destraynor) - Co-founder of @intercom.
  * [Sachin Rekhi](https://twitter.com/sachinrekhi) - Entrepreneur, Product Guy, and Software Engineer.  
  * [Adam Nash](https://twitter.com/adamnash) - CEO @Wealthfront
  * [Rich Mironov](https://twitter.com/RichMironov) - Tech start-up veteran, product exec/coach/mentor, writer (Art of Product Management)
- * [Eric Ries](https://twitter.com/ericries) - Trying to change how startups are built. 
+ * [Eric Ries](https://twitter.com/ericries) - Trying to change how startups are built.
  * [Steven Sinofsky](https://twitter.com/stevesi) - Board Partner @a16z • Adviser @BoxHQ • Writings @ Learning by Shipping
- * [Janna Bastow](https://twitter.com/simplybastow) - Co-Founder of MTP/CEO at ProdPad/CoFounder ProductTank and ProductCamp London 
- * [Martin Eriksson](https://twitter.com/bfgmartin) - Co-Founder at MTP/ProductTank 
+ * [Janna Bastow](https://twitter.com/simplybastow) - Co-Founder of MTP/CEO at ProdPad/CoFounder ProductTank and ProductCamp London
+ * [Martin Eriksson](https://twitter.com/bfgmartin) - Co-Founder at MTP/ProductTank
  * [Simon Cast](https://twitter.com/simoncast) - Co Founder MTP/ProductTank/ProdPad
- 
+
  # Special Thanks
  * Special Thanks to [Paul Cothenet](http://attackwithnumbers.com) for providing the Base of Core 1: Product Management
 

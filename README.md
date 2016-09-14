@@ -350,6 +350,8 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [The James Altucher Show #160: Ashlee Vance](https://www.producthunt.com/podcasts/the-james-altucher-show-160-ashlee-vance) - Elon Musk and the quest to save mankind
  * [Product Hunt Maker Stories - Matt Mazzeo](https://www.producthunt.com/podcasts/product-hunt-maker-stories-matt-mazzeo-2) - Future of VC, breaking into tech/VC, & more
  * [Growth Everywhere - The Strategy That Skyrocketed Hotjar to $1 Million ARR in 6 Months](https://www.producthunt.com/podcasts/growth-everywhere-the-strategy-that-skyrocketed-hotjar-to-1-million-arr-in-6-months) - How David Darmanin Grew Hotjar To $1 Million ARR in 6 months
+* [Yours Productly - Shardul Mehta, VP Products at Diamond Mind](http://yoursproductly.com/shardulmehta/) - Shardul Mehta on Product Canvas, Why Products Fail, His Upcoming Book and a Lot More
+
 
  ### Courses
  * [Design Workflow with Sketch](https://github.com/facebook/pop) - An e-course from Clark Wimberly at InVision.
@@ -362,6 +364,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Poduct Managment - General Assembly](https://generalassemb.ly/education/product-management) - 10-WEEK PART-TIME COURSE
  * [How to build a product roadmap everyone understands - Free e-Course](https://get.prodpad.com/theme-based-roadmap-course/) - How to build a roadmap
  * [Building a Pre-Launch Marketing Strategy for Beginners](https://www.udemy.com/building-a-pre-launch-marketing-strategy-for-beginners/) - Build your own Pre-launch Marketing Strategy for your company rollout or feature
+ * [Idea To Revenue Masterclass](http://productmanageracademy.teachable.com/courses/ideatorevenuemasterclass) - Become a Strategic Product Leader: Validate Ideas, Launch Great Products, Deliver Business Results.
 
  ### Blogs
  * [The Cranky Product Manager](http://crankypm.com/) - A blog on product management, product marketing, and the ugly side of software product development. As of April 2015, the author, Sue Raisty, no longer writes, but she has a large backlog of great posts.

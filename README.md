@@ -366,6 +366,11 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  ### Blogs
  * [The Cranky Product Manager](http://crankypm.com/) - A blog on product management, product marketing, and the ugly side of software product development. As of April 2015, the author, Sue Raisty, no longer writes, but she has a large backlog of great posts.
  * [Street Smart Product Manager](http://streetsmartproductmanager.com/) - Thriving in the urban jungle of product.
+ * [Product Talk](http://www.producttalk.org/) - Make better product decisions.
+ * [Silicon Valley Product Group](http://svpg.com/articles/) - Shares lessons learned and knowledge of product management.
+ * [The Clever PM](http://thecleverpm.com/) - Tips, tricks, and hacks that help you to be a better, more clever, Product Manager.
+ * [Mind the Product](http://www.mindtheproduct.com/) - Product Management Blog and events.
+
 
 
  # Core 3: Real Life Product Management

@@ -133,7 +133,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Rodmaps focus on vision benefits, not features](http://www.productpowers.com/blog/roadmaps-focus-on-vision-benefits-not-features.html) - Bruce McCarthy
  * [The one cost engineers and Product Managers don’t consider](http://firstround.com/article/The-one-cost-engineers-and-product-managers-dont-consider) - Kris Gale
  * [Guide to Product Planning: Three Feature Buckets](http://blog.adamnash.com/2009/07/22/guide-to-product-planning-three-feature-buckets/) - Adam Nash
- * [Product hierarchy of needs](http://blog.relateiq.com/product-hierarchy-needs/) - Tim Fletcher
+ * [Product hierarchy of needs](https://www.salesforceiq.com/blog/product-hierarchy-needs) - Tim Fletcher
  * [Magical thinking and the zero-sum roadmap](http://www.mironov.com/magical_thinking/) - Rich Mironov
  * [You don’t need a product roadmap](https://signalvnoise.com/posts/694-you-dont-need-a-product-road-map) - David Heinemeier Hansson
  * [Drop feature-based product roadmaps](http://www.producttalk.org/2014/04/drop-feature-based-product-roadmaps/) - Teresa Torres

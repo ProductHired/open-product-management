@@ -102,7 +102,6 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Ten principles on the journey to building great products](http://www.forbes.com/sites/avidlarizadeh/2014/05/23/ten-principles-on-the-journey-to-building-great-products/) - Avid Larizadeh
  * [Quality is not a tradeoff](https://medium.com/the-year-of-the-looking-glass/quality-is-not-a-tradeoff-bcddf7c85553) - Julie Zhuo
  * [How to build products users love](http://startupclass.samaltman.com/courses/lec07/) - Kevin Hale
- * [How to avoid building products that fail](https://medium.com/@rianvdm/how-to-avoid-building-products-that-fail-5ce499fff3a) - Rian Van Der Merwe
 
  ### Get out of the building
  * [Listen to customers](https://www.kennethnorton.com/essays/listentocustomers.html) - Kenneth Norton
@@ -325,6 +324,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Algorithms of the Intelligent Web](http://www.amazon.com/Algorithms-Intelligent-Web-Haralambos-Marmanis/dp/1933988665) - Haralambos Marmanis and Dmitry Babenko
  * [Cracking the PM Interview](http://www.amazon.com/Cracking-PM-Interview-Product-Technology/dp/0984782818) - Jackie Bavaro
  * [The Art of Product Management: Lessons from a Silicon Valley Innovator](http://www.amazon.com/The-Art-Product-Management-Innovator/dp/1439216061) - Rich Mironov
+ * [Making It Right: Product Management For A Startup World](https://www.amazon.com/dp/B00M0KTVTO/?tag=leavethegreat-20) - Rian Van Der Merwe
 
  #####Leadership
  * [How To Measure Anything](http://www.amazon.com/How-Measure-Anything-Intangibles-Business/dp/1118539273) - Douglas W. Hubbard

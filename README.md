@@ -39,6 +39,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
     - [Management](#management)
     - [Analytics](#analytics)
     - [Books](#books)
+    - [Newsletters](#newsletters)
     - [Podcasts](#podcasts)
     - [Online Courses](#online-courses)
     - [Online Blogs](#blogs)
@@ -341,7 +342,10 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Managing Humans](http://www.amazon.com/gp/product/1430243147/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1430243147&linkCode=as2&tag=httpstwit071f-20) - Former Manager at Apple
  * [The Everything Store: Jeff Bezos and the Age of Amazon](http://www.amazon.com/gp/product/0316219266/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0316219266&linkCode=as2&tag=httpstwit071f-20) - Brad Stone
  * [The Tipping Point: How Little Things Can Make a Big Difference](http://www.amazon.com/The-Tipping-Point-Little-Difference-ebook/dp/B000OT8GD0) - Malcolm Gladwell
-
+ 
+ ### Newsletters
+ * [Pivot Product Hits](https://pivotservices.curated.co/) - A weekly email newsletter of the best Product Management content 
+ 
  ### Podcasts
  * [Design Details Podcast](https://www.producthunt.com/r/f0a61978d9/12920) - A show about the people who design our favorite products.
  * [AngelList Radio - Kirill Makharinsky](https://www.producthunt.com/podcasts/angellist-radio-kirill-makharinsky) - What factors can predict a company's future success

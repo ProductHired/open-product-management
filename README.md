@@ -36,7 +36,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
     - [Design](#design)
     - [Development](#development)
     - [Marketing and Mockups](#marketing-and-mockups)
-    - [Management](#management)
+    - [Team Management](#team-management)
     - [Analytics](#analytics)
     - [Books](#books)
     - [Newsletters](#newsletters)

@@ -6,7 +6,7 @@ The list is divided into cores such as product management, resources, interviews
 
 This list was created for all product managers whether beginner or advanced to learn from the best people and communities. If you are a technical person looking to get into the role of a Product Manager, this advice below will help you along your path. This guide is by all means not the end all to your learning as the best learning is achieved through practice.
 
-Don't forget to share with others and follow me on Twitter,[ Nicholas Ivanecky](http://twitter.com/ivantr0n)
+Don't forget to share with others and follow me on Twitter,[ Nicholas Ivanecky](http://twitter.com/ivantr0n). If you are looking for new product manager roles I suggest [ProductHired.com](http://producthired.com/)
 
 Notable contributions to the list are featured in section, [Special Thanks](#special-thanks)
 
@@ -54,6 +54,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [Core 4: Get the Job](#get-the-job)
     - [Career Prep Resume](#career-prep-resume)
     - [Career Prep The Interview](#career-prep-the-interview)
+    - [Career Prep Where to Apply](#career-prep-where-to-apply)
     - [Career Prep Company Types](#career-prep-company-types)
 - [Best Product Managers on Twitter](#best-product-managers-on-twitter)
 - [Special Thanks](#special-thanks)
@@ -475,6 +476,10 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Adam Mathes - Sample PM Resume](http://www.adammathes.com/resume/) - Sample Resume Website from a PM
  * [How to get that Next PM Job](http://svpma.org/eventarchives/SVPMA-03-2010-How_to_Get_That_Next_PM_Job-Shreyas_Doshi.pdf) - 200 slides from Google PM
  * [Nicholas Ivanecky - Sample PM Website](http://www.ivantron.com) - Nicholas Ivanecky Resume Website
+ 
+  ### Career Prep:Where to Apply
+  * [ProductHired.com](http://www.producthired.com) - Simplify your Product Manager Job Search
+  
 
  ### Career Prep:The Interview
  * [Cracking the PM Interview ](http://www.amazon.com/gp/product/0984782818/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0984782818&linkCode=as2&tag=httpstwit071f-20) - Book based on getting a PM career

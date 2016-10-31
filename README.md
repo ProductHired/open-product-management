@@ -277,7 +277,6 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
  ### Analytics
  * [KISSmetrics](https://www.producthunt.com/r/95f365818a/7800) - Not just for marketers; see the behavior of all your users.
- * [AnimationEngine](https://github.com/intuit/AnimationEngine) - Easily build advanced custom animations on iOS.
  * [Analytics for Optimizely](https://www.producthunt.com/r/85b26a4d3802f7/28437) - Your Optimizely A/B tests on your iPhone.
  * [Google Analytics by SumoMe](https://www.producthunt.com/r/16f5b4018dca47/31351) - The easiest way to see your Google Analytics.
  * [Google Analytics 360 Suite](https://www.producthunt.com/r/bd20f62dbcd86a/55251) - Enterprise analytics for your marketing.
@@ -461,7 +460,6 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
  #### Conferences
  * [Mind the Product Conference](http://mtpcon.com/sf/) - The Conference for Passionate Product People
- * [AnimationEngine](https://github.com/intuit/AnimationEngine) - Easily build advanced custom animations on iOS.
  * [Industry - Product Conference](http://indsum.com) - For people who build, launch and scale world-class product.
  * [Lean Startup Week](http://leanstartup.co/2016-conference/) - Lean Startup Week is a seven-day immersion into Lean Startup methodology led by star practitioners in big companies and hot startups from around the world.
  * [Enterprise UX 2016](http://2016.enterpriseux.net) - The Enterprise UX 2016 conference is dedicated to delivering useful, delightful, and humane experiences to people who work for and in enterprises.

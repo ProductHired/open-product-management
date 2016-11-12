@@ -252,6 +252,8 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Your First Web App](https://www.producthunt.com/r/acc2f8564f/4997) - Pulling your hair out trying to learn how to code?
 
  ### Mockups and Marketing
+ * [moqups](https://moqups.com/) - A streamlined web app that helps you create and collaborate on 
+wireframes, mockups, diagrams and prototypes.
  * [Typeform](https://www.producthunt.com/r/87fb47ed48/7803) - Generate surveys in seconds.
  * [Balsamiq](https://www.producthunt.com/r/544603151e/7808) - Rapid wireframing tool.
  * [Tweetdeck](https://www.producthunt.com/r/1e570814c6/7906) - Power-user interface for Twitter.
@@ -262,6 +264,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [StartupResources.io](https://www.producthunt.com/r/38a39dc7c63715/40773) - Tightly curated lists of the best startup tools
 
  ###Team Management
+ * [Airtable](https://airtable.com) - Spreadsheet, meet database.
  * [Trello](https://trello.com/?ref=producthunt) - Trello makes it easy to organize anything with anyone
  * [Google Docs](https://www.producthunt.com/r/dfc72883e5/7810) - Create and share your work online
  * [Slack](https://slack.com) - Team communication for the 21st century
@@ -277,6 +280,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [RealtimeBoard 2.0](https://www.producthunt.com/r/fe3c891017147c/40260) - Web-based whiteboarding & team collaboration tool
 
  ### Analytics
+ * [Piwik](https://piwik.org/) - Piwik is the leading open-source analytics platform that gives you more than just powerful analytics.
  * [KISSmetrics](https://www.producthunt.com/r/95f365818a/7800) - Not just for marketers; see the behavior of all your users.
  * [Analytics for Optimizely](https://www.producthunt.com/r/85b26a4d3802f7/28437) - Your Optimizely A/B tests on your iPhone.
  * [Google Analytics by SumoMe](https://www.producthunt.com/r/16f5b4018dca47/31351) - The easiest way to see your Google Analytics.

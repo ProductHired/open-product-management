@@ -233,6 +233,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [IconStore](https://www.producthunt.com/r/e53dd0bd06c614/26976) - Free icon packs by first-class designers
 
  ### Development
+ * [Meteor - The Fastest way to build Javascript Apps](https://www.meteor.com/)
  * [Design+code](https://www.producthunt.com/r/5f7f813faa/2144) - Learn iOS design and Xcode
  * [Teaching App Development with Swift](https://www.producthunt.com/r/44f7e92aa6596c/25588) - A Github-hosted curriculum on Swift for teachers by Apple
  * [Android Studio 2.0](https://www.producthunt.com/r/a296766b160574/41882) - The official IDE for Android application development

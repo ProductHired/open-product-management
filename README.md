@@ -81,7 +81,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [The Dark Side of PM](http://blog.ellenchisa.com/2014/02/20/the-dark-side-of-pm/) - Ellen Chisa
  * [Do I need to be technical to be a PM](http://blog.ellenchisa.com/2014/10/04/need-technical-pm/) - Ellen Chisa
  * [Ode to a Non Technical Product Manager](https://medium.com/@hunterwalk/ode-to-a-non-technical-product-manager-7776efb98acd) - Hunter Walk
- * [Should nice people be Product Managers](https://www.rallydev.com/community/agile/should-nice-people-be-product-managers) - Alex Pukinskis
+ * ~~[Should nice people be Product Managers](https://www.rallydev.com/community/agile/should-nice-people-be-product-managers) - Alex Pukinskis~~
  * [3 Skillsets for PM Success](http://blog.kentonkivestu.com/3-skillsets-for-PM-success) - Kenton Kivetsu
 
  ### Becoming a Product Guru

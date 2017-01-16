@@ -304,7 +304,7 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [Beginning Customer Development](https://app.convertkit.com/kevindewalt/beginning-customer-development_ebook) - Kevin Dewalt
  - [ ] [The Innovator’s Dilemma](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) - Clayton Christensen
  - [ ] [The Innovator's Solution: Creating and Sustaining Successful Growth](https://www.amazon.com/Innovators-Solution-Creating-Sustaining-Successful/dp/1578518520) - Clayton Christensen
-- [ ] [The Innovator's DNA: Mastering the Five Skills of Disruptive Innovators](https://www.amazon.com/Innovators-DNA-Mastering-Skills-Disruptive/dp/1422134814/ref=asap_bc?ie=UTF8) - Clayton Christensen
+ - [ ] [The Innovator's DNA: Mastering the Five Skills of Disruptive Innovators](https://www.amazon.com/Innovators-DNA-Mastering-Skills-Disruptive/dp/1422134814/ref=asap_bc?ie=UTF8) - Clayton Christensen
  - [ ] [It’s Your Ship: Management Techniques from the Best Damn Ship in the Navy​](http://www.amazon.com/Its-Your-Ship-Management-Techniques/dp/145552302X) - Michael Abrashoff
  - [ ] [The Hard Thing About Hard Things](http://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/) - Ben Horowitz
  - [ ] [Traction](http://www.amazon.com/Traction-Startup-Achieve-Explosive-Customer-ebook/dp/B00TY3ZOMS) - Gabriel Weinberg

@@ -98,9 +98,9 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [ ] [How to build great products](http://www.defmacro.org/2013/09/26/products.html) - Slava Akhmechet
  - [ ] [Make things as simple as possible but not simpler](http://blog.adamnash.com/2013/09/25/make-things-as-simple-as-possible-but-not-simpler/) - Adam Nash
  - [ ] [10 essential steps to create products that customer love](http://welovelean.wordpress.com/2013/07/06/10-essential-steps-to-create-products-that-customers-love/) - Laurence McCahill
- - [ ] [The power of the perfect slice](http://www.mindtheproduct.com/2013/03/the-power-of-the-perfect-slice/) - Alastair Lee
+ - [x] [The power of the perfect slice](http://www.mindtheproduct.com/2013/03/the-power-of-the-perfect-slice/) - Alastair Lee
  - [ ] [Ten principles on the journey to building great products](http://www.forbes.com/sites/avidlarizadeh/2014/05/23/ten-principles-on-the-journey-to-building-great-products/) - Avid Larizadeh
- - [ ] [Quality is not a tradeoff](https://medium.com/the-year-of-the-looking-glass/quality-is-not-a-tradeoff-bcddf7c85553) - Julie Zhuo
+ - [x] [Quality is not a tradeoff](https://medium.com/the-year-of-the-looking-glass/quality-is-not-a-tradeoff-bcddf7c85553) - Julie Zhuo
  - [ ] [How to build products users love](http://startupclass.samaltman.com/courses/lec07/) - Kevin Hale
 
  ### Get out of the building
@@ -126,7 +126,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [ ] [The pyramid model & what it means for PM focus](http://blog.kentonkivestu.com/product-focus) - Kenton Kivetsu
  - [ ] [How am I going to move my product forward today](http://www.sachinrekhi.com/blog/2013/03/04/how-am-i-going-to-move-my-product-forward-today) - Sachin Rekhi
  - [ ] [Don’t publish a product roadmap](http://dataerous.com/post/51810660125/dont-publish-a-product-roadmap) - Colin Rand
- - [ ] [Software Inventory](http://www.joelonsoftware.com/items/2012/07/09.html) - Joel Spolsky
+ - [x] [Software Inventory](http://www.joelonsoftware.com/items/2012/07/09.html) - Joel Spolsky
  - [ ] [Babe Ruth and feature lists](https://medium.com/bringing-the-donuts/babe-ruth-and-feature-lists-1818bb8c6ca8) - Kenneth Norton
  - [ ] [What are the best ways to prioritize a list of product features](https://www.quora.com/What-are-the-best-ways-to-prioritize-a-list-of-product-features) - Ian McAllister
  - [ ] [Before you plan your product roadmap](http://blog.intercom.io/before-you-plan-your-product-roadmap/) - Des Traynor
@@ -151,7 +151,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [x] [Engineers: So your PM sucks? Here’s how to fix it.](http://blog.ellenchisa.com/2014/07/20/engineers-pm-sucks-heres-fix/) - Ellen Chisa
  - [ ] [Nerds, get the Product Management you deserve](https://medium.com/@jeff7091/nerds-get-the-product-management-you-deserve-3bcf849394c2) - Jeff Enderwick
  - [ ] [The product manager’s lament](http://www.startuplessonslearned.com/2008/10/product-managers-lament.html) - Eric Ries
- - [ ] [Top 5 Ways Product Managers can help Developer’s Love them](https://medium.com/@mstephan/top-5-ways-product-managers-can-help-developers-love-them-4660ef7711d5) - Mark Stephan
+ - [x] [Top 5 Ways Product Managers can help Developer’s Love them](https://medium.com/@mstephan/top-5-ways-product-managers-can-help-developers-love-them-4660ef7711d5) - Mark Stephan
 
  ### User Experience
  - [ ] [Lean UX Canvas](https://medium.com/@mstephan/lean-ux-canvas-5f1fdd378077#.et3az0712) - Mark Stephan
@@ -160,16 +160,16 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [x] [How to work with designers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146) - Julie Zhuo
 
  ### Give and Receive Feedback
- - [ ] [You won’t regret positive feedback](http://zachholman.com/posts/positive-feedback/) - Zack Holman
- - [ ] [Thirty percent feedback](http://blog.42floors.com/thirty-percent-feedback/) - Jason Freedman
+ - [x] [You won’t regret positive feedback](http://zachholman.com/posts/positive-feedback/) - Zack Holman
+ - [x] [Thirty percent feedback](http://blog.42floors.com/thirty-percent-feedback/) - Jason Freedman
  - [ ] [How to run a design critique](http://scottberkun.com/essays/23-how-to-run-a-design-critique/) - Scott Berkun
 
  ### Shipping and Measuring Products
  - [ ] [Shipping is a feature](http://a16z.com/2014/04/16/shipping-is-a-feature-some-guiding-principals-for-people-that-build-things/) - Steven Sinofsky
  - [x] [Great product leaders win games](http://blog.adamnash.com/2012/02/29/great-product-leaders-win-games/) - Adam Nash
  - [ ] [How to deliver more software projects on time](http://www.inc.com/mark-suster/how-to-deliver-more-software-projects-on-time.html) - Mark Suster
- - [ ] [Always be defining success](https://pmblog.quora.com/Always-Be-Defining-Success) - Jackie Bavaro
- - [ ] [The only metric that matters](https://medium.com/@joshelman/the-only-metric-that-matters-ab24a585b5ea) - Josh Elman
+ - [x] [Always be defining success](https://pmblog.quora.com/Always-Be-Defining-Success) - Jackie Bavaro
+ - [x] [The only metric that matters](https://medium.com/@joshelman/the-only-metric-that-matters-ab24a585b5ea) - Josh Elman
  - [ ] [The blind Product Manager](http://blog.intercom.io/the-blind-product-manager/) - Paul Adams
  - [ ] [Shipping beats perfection explained](http://bjk5.com/post/60760280107/shipping-beats-perfection-explained) - Ben Kamens
  - [ ] [Measure twice, cut once](https://medium.com/@rklau/measure-twice-cut-once-e86c2f08b4c) - Rick Klau

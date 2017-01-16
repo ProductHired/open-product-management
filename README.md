@@ -314,7 +314,7 @@ wireframes, mockups, diagrams and prototypes.
 
  #####Marketing
  - [ ] [Peopleware](http://www.amazon.com/gp/product/0321934113/ref=pd_lpo_sbs_dp_ss_3?pf_rd_p=1944687462&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=0201835959&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=1E20VC37Q8W2VN696453) - Tom DeMarco
- - [ ] [Understanding Media​](https://en.wikipedia.org/wiki/Understanding_Media) - Marshall McLuhan
+ - [ ] [Understanding Media](https://en.wikipedia.org/wiki/Understanding_Media) - Marshall McLuhan
  - [ ] [Made to Stick](https://en.wikipedia.org/wiki/Made_to_Stick) - Chip and Dan Heath
 
  #####Product Development

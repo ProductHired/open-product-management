@@ -202,7 +202,6 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [ ] [Hiring a great product leader](https://medium.com/@suthakamal/hiring-a-great-product-leader-12365570c974) - Sutha Kamal
  - [ ] [What makes a great Product Manager?](http://hatchery.vc/what-makes-a-great-product-manager/) - Erik Torenberg
  - [ ] [How a football coach taught me to product manage like a boss](https://medium.com/@biggiesu/how-a-football-coach-taught-me-to-product-manage-like-a-boss-926ab5c39156) - Mike Su
- - [ ] [How to hire a Product Manager](https://www.kennethnorton.com/essays/productmanager.html) - Kenneth Norton
 
  # Core 2: Resources
 

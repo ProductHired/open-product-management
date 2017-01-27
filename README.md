@@ -395,7 +395,6 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [Raj Ramachandran on "How to Get into Product Management"](https://www.youtube.com/watch?v=fqJo_UkMMxM) - A conversation between Raj Ramachandran, Director of Product at Kidaptive and former Product Manager at Zynga
  - [ ] [Pascal Carole on "How to Get into Product Management"](https://www.youtube.com/watch?v=g48swcdEqFE) - A conversation between Pascal Carole, Product Manager at Microsoft / Yammer and former engineer at Microsoft, and Jason Shah
  - [ ] [Jackie Bavaro on "How to Get into Product Management"](https://www.youtube.com/watch?v=tSx8V8Y5LW8) - A conversation between Jackie Bavaro, Product Manager at Asana, and Jason Shah
- - [ ] [PM Talk with Jackie Bavaro](https://www.youtube.com/watch?v=RHAPx5WtAh0) - A conversation between Jackie Bavaro, Product Manager at Asana, and Jason Shah
  - [ ] [Jason Evanish on "How to Get into Product Management"](https://www.youtube.com/watch?v=9pqBBEkSfdU) - A conversation between Jason Evanish, Product Manager at KISSMetrics, and Jason Shah
  - [ ] [Ryan Hoover on "How to Get Into Product Management"](https://www.youtube.com/watch?v=gIJNfQZCY0s) - A conversation between Ryan Hoover, Director of Product, PlayHaven and Jason Shah
 

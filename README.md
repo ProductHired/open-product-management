@@ -74,6 +74,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [ ] [Product Management vs. Product Marketing](http://www.svproduct.com/product-management-vs-product-marketing/) - Marty Cagan
  - [ ] [Evolution of the Product Manager](http://queue.acm.org/detail.cfm?id=2683579) - Ellen Chisa
  - [ ] [Use your Product Powers for Good](http://www.productpowers.com/blog/use-your-product-powers-for-good.html) - Bruce McCarthy
+ - [ ] [Product Management: An introduction for undergraduates and graduates](https://product.careers/presentation/) - Thor Mitchell
 
  ### Is it really for you?
  - [ ] [How to hire a Product Manager?](https://www.kennethnorton.com/essays/productmanager.html) - Kenneth Norton
@@ -397,6 +398,7 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [Jackie Bavaro on "How to Get into Product Management"](https://www.youtube.com/watch?v=tSx8V8Y5LW8) - A conversation between Jackie Bavaro, Product Manager at Asana, and Jason Shah
  - [ ] [Jason Evanish on "How to Get into Product Management"](https://www.youtube.com/watch?v=9pqBBEkSfdU) - A conversation between Jason Evanish, Product Manager at KISSMetrics, and Jason Shah
  - [ ] [Ryan Hoover on "How to Get Into Product Management"](https://www.youtube.com/watch?v=gIJNfQZCY0s) - A conversation between Ryan Hoover, Director of Product, PlayHaven and Jason Shah
+ - [ ] [Marty Cagan and others on why they love the role, what they look for when hiring graduates, and the advice they offer prospective Product Managers](https://product.careers/stories/)
 
  ### Product Case Studies
  - [ ] [Building an Enterprise Product: Yammer's Development Methodology](https://www.youtube.com/watch?v=N8wdRZDv0ks) - Jason Shah, product manager at Yammer, shares aspects of Yammer's product development methodology.

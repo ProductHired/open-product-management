@@ -17,7 +17,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - Go through our - [ ]Content Menu- [ ]
 
 ### Content
-- [Core 1: Product Management](#product-management)
+- [Core 1: Product Management](#core-1-product-management)
     - [What is Product Management](#what-is-product-management)
     - [Is it really for you?](#is-it-really-for-you)
     - [Becoming a Product Guru](#becoming-a-product-guru)
@@ -32,7 +32,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
     - [Shipping and Measuring Products](#shipping-and-measuring-products)
     - [Organizing your Team](#organizing-your-team)
     - [Become the Best in the Field](#become-the-best-in-the-field)
-- [Core 2: Resources](#resources)
+- [Core 2: Resources](#core-2-resources)
     - [Design](#design)
     - [Development](#development)
     - [Marketing and Mockups](#marketing-and-mockups)
@@ -43,7 +43,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
     - [Podcasts](#podcasts)
     - [Online Courses](#online-courses)
     - [Online Blogs](#blogs)
-- [Core 3: Real Life Product Management](#real-life-product-management)
+- [Core 3: Real Life Product Management](#core-3-real-life-product-management)
     - [Interviews](#interviews)
     - [Product Case Studies](#product-case-studies)
     - [Sample Product Documentation](#sample-product-documentation)
@@ -51,7 +51,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
             - [Groups](#groups)
             - [Meetups](#meetups)
             - [Conferences](#conferences)
-- [Core 4: Get the Job](#get-the-job)
+- [Core 4: Get the Job](#core-4-get-the-job)
     - [Career Prep Resume](#career-prep-resume)
     - [Career Prep The Interview](#career-prep-the-interview)
     - [Career Prep Where to Apply](#career-prep-where-to-apply)
@@ -473,18 +473,18 @@ wireframes, mockups, diagrams and prototypes.
  ### Hiring a Product Manager Tips/Tricks
  - [ ] [Inspire Me with your Job Description](https://medium.com/@mstephan/inspire-with-your-job-description-ecb5ce744cfc#.gjzd3n4ez) - Writing a job description that attracts inspired product managers from Mark Stephan
 
- ### Career Prep:Resume
+ ### Career Prep: Resume
  - [ ] [How do you write a good resume for product manager jobs?](https://www.quora.com/How-do-you-write-a-good-resume-for-product-manager-jobs) - Sample Advice on Quora
  - [ ] [Mike Bracco - Sample PM Resume](http://mikebracco.com/resume/) - Sample Resume Website from a PM
  - [ ] [Adam Mathes - Sample PM Resume](http://www.adammathes.com/resume/) - Sample Resume Website from a PM
  - [ ] [How to get that Next PM Job](http://svpma.org/eventarchives/SVPMA-03-2010-How_to_Get_That_Next_PM_Job-Shreyas_Doshi.pdf) - 200 slides from Google PM
  - [ ] [Nicholas Ivanecky - Sample PM Website](http://www.ivantron.com) - Nicholas Ivanecky Resume Website
  
-  ### Career Prep:Where to Apply
+  ### Career Prep: Where to Apply
   - [ ] [ProductHired.com](http://www.producthired.com) - Simplify your Product Manager Job Search
   
 
- ### Career Prep:The Interview
+ ### Career Prep: The Interview
  - [ ] [Cracking the PM Interview ](http://www.amazon.com/gp/product/0984782818/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0984782818&linkCode=as2&tag=httpstwit071f-20) - Book based on getting a PM career
  - [ ] [The Ultimate Guide to Product Manager Interview Questions](http://www.venturegrit.com/how-to-interview-a-product-manager-the-ultimate-guide/) - PM Questions to Practice
  - [ ] [The PM Interview](http://thepminterview.com) - Set of Questions + Timer to practice your PM skills.
@@ -496,7 +496,7 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [The Best Student Activity for Product Managers By Jackie Bavaro](https://pmblog.quora.com/The-Best-Student-Activity-for-Product-Managers) - The Best Student Activity for Product Managers
  - [ ] [Acing the Product Management Interview](https://www.linkedin.com/pulse/20141020034027-1533734-acing-the-product-management-interview?trk=hp-feed-article-title-like) - Allan Hui
 
- ### Career Prep:Company Types
+ ### Career Prep: Company Types
  - [ ] [Google by Larry page and Sergey Brin](http://www.google.com/about/company/philosophy/) - Google's culture
  - [ ] [Microsoft](https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/) - Microsoft PM Culture
  - [ ] [Amazon](https://www.quora.com/Amazon-company/What-is-Amazons-approach-to-product-development-and-product-management) - Amazon's culture

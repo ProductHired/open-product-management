@@ -17,7 +17,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - Go through our - [ ]Content Menu- [ ]
 
 ### Content
-- [Core 1: Product Management](#product-management)
+- [Core 1: Product Management](#core-1-product-management)
     - [What is Product Management](#what-is-product-management)
     - [Is it really for you?](#is-it-really-for-you)
     - [Becoming a Product Guru](#becoming-a-product-guru)
@@ -32,7 +32,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
     - [Shipping and Measuring Products](#shipping-and-measuring-products)
     - [Organizing your Team](#organizing-your-team)
     - [Become the Best in the Field](#become-the-best-in-the-field)
-- [Core 2: Resources](#resources)
+- [Core 2: Resources](#core-2-resources)
     - [Design](#design)
     - [Development](#development)
     - [Marketing and Mockups](#marketing-and-mockups)
@@ -43,7 +43,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
     - [Podcasts](#podcasts)
     - [Online Courses](#online-courses)
     - [Online Blogs](#blogs)
-- [Core 3: Real Life Product Management](#real-life-product-management)
+- [Core 3: Real Life Product Management](#core-3-real-life-product-management)
     - [Interviews](#interviews)
     - [Product Case Studies](#product-case-studies)
     - [Sample Product Documentation](#sample-product-documentation)
@@ -51,7 +51,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
             - [Groups](#groups)
             - [Meetups](#meetups)
             - [Conferences](#conferences)
-- [Core 4: Get the Job](#get-the-job)
+- [Core 4: Get the Job](#core-4-get-the-job)
     - [Career Prep Resume](#career-prep-resume)
     - [Career Prep The Interview](#career-prep-the-interview)
     - [Career Prep Where to Apply](#career-prep-where-to-apply)

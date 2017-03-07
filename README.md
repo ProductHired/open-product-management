@@ -276,6 +276,8 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [Producteev](https://github.com/intuit/AnimationEngine) - Task Management Software for Teams.
  - [ ] [Box Notes](https://www.producthunt.com/r/149596ab47/7806) - Create documents, take notes and share ideas in real-time.
  - [ ] [RealtimeBoard 2.0](https://www.producthunt.com/r/fe3c891017147c/40260) - Web-based whiteboarding & team collaboration tool
+ - [ ] [Smartsheet](https://www.producthunt.com/posts/smartsheet) - Microsoft Project alternative, best used for scheduling and resource management
+ - [ ] [Zenkit](https://www.producthunt.com/posts/zenkit) - Better Trello, with Mindmaps
 
  ### Analytics
  - [ ] [Piwik](https://piwik.org/) - Piwik is the leading open-source analytics platform that gives you more than just powerful analytics.

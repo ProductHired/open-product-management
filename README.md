@@ -499,7 +499,8 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [How To Get A PM Job With The Yammer Mafia - In-person](https://medium.com/product-man/how-to-get-a-pm-job-with-the-yammer-mafia-ec2c43c775fb#.viuymdset) - How to Join The Yammer PM Mafia
  - [ ] [The Best Student Activity for Product Managers By Jackie Bavaro](https://pmblog.quora.com/The-Best-Student-Activity-for-Product-Managers) - The Best Student Activity for Product Managers
  - [ ] [Acing the Product Management Interview](https://www.linkedin.com/pulse/20141020034027-1533734-acing-the-product-management-interview?trk=hp-feed-article-title-like) - Allan Hui
-
+ - [ ] [7 Steps: Interview Strategy to Get into Product Management With No Experience](https://www.linkedin.com/pulse/what-your-product-management-interview-strategy-7-steps-mohammad) - Afroz Mohammad
+ 
  ### Career Prep: Company Types
  - [ ] [Google by Larry page and Sergey Brin](http://www.google.com/about/company/philosophy/) - Google's culture
  - [ ] [Microsoft](https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/) - Microsoft PM Culture

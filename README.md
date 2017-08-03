@@ -331,6 +331,7 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [Cracking the PM Interview](http://www.amazon.com/Cracking-PM-Interview-Product-Technology/dp/0984782818) - Jackie Bavaro
  - [ ] [The Art of Product Management: Lessons from a Silicon Valley Innovator](http://www.amazon.com/The-Art-Product-Management-Innovator/dp/1439216061) - Rich Mironov
  - [ ] [Making It Right: Product Management For A Startup World](https://www.amazon.com/dp/B00M0KTVTO/?tag=leavethegreat-20) - Rian Van Der Merwe
+ - [ ] [Product Leadership: How Top Product Managers Launch Awesome Products and Build Successful Teams](https://www.amazon.ca/dp/1491960604) -  Richard Banfield, Martin Eriksson, and Nate Walkingshaw
 
  ##### Leadership
  - [ ] [How To Measure Anything](http://www.amazon.com/How-Measure-Anything-Intangibles-Business/dp/1118539273) - Douglas W. Hubbard

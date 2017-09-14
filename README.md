@@ -61,20 +61,20 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [Contributing to the list](#contributing)
 
 
- # Core 1: Product Management
- ### What is Product Management
- - [ ] [A Product Manager’s Job](https://medium.com/@joshelman/a-product-managers-job-63c09a43d0ec) - Josh Elman
- - [ ] [Product Managers: Who are these ‘mini-CEOs’ and what do they do?](http://thenextweb.com/insider/2013/10/12/product-managers-mini-ceos/) - Ken Yeung
- - [ ] [What exactly is a Product Manager? ](http://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/) - Martin Eriksonn
- - [ ] [What is Product Management?](http://www.sachinrekhi.com/blog/2013/01/28/what-is-product-management) - Sachin Rekhi
- - [ ] [PM at Microsoft](http://blogs.msdn.com/b/techtalk/archive/2005/12/16/504872.aspx) - Steven Sinofsky
- - [ ] [Product Manager You Are…](https://medium.com/@matbalez/product-manager-you-are-664d83ee702e) - Mat Balez
- - [ ] [What Product Management is Not](http://www.svpg.com/what-product-management-is-not/) - Marty Cagan
- - [ ] [Does the world need Product Managers any more](http://branch.com/b/does-the-world-need-product-managers-any-more) - Multiple authors
- - [ ] [Product Management vs. Product Marketing](http://www.svproduct.com/product-management-vs-product-marketing/) - Marty Cagan
- - [ ] [Evolution of the Product Manager](http://queue.acm.org/detail.cfm?id=2683579) - Ellen Chisa
- - [ ] [Use your Product Powers for Good](http://www.productpowers.com/blog/use-your-product-powers-for-good.html) - Bruce McCarthy
- - [ ] [Product Management: An introduction for undergraduates and graduates](https://product.careers/presentation/) - Thor Mitchell
+ # 要点1: 产品管理
+ ### 什么是产品管理
+ - [ ] [一个产品经理的工作](https://medium.com/@joshelman/a-product-managers-job-63c09a43d0ec)  - Josh Elman
+ - [ ] [产品经理：这些“迷你CEO”是谁，他们做什么？](http://thenextweb.com/insider/2013/10/12/product-managers-mini-ceos/) - Ken Yeung
+ - [ ] [产品经理究竟是什么？](http://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/) - Martin Eriksonn
+ - [ ] [什么是产品管理?](http://www.sachinrekhi.com/blog/2013/01/28/what-is-product-management) - Sachin Rekhi
+ - [ ] [产品经理在微软](http://blogs.msdn.com/b/techtalk/archive/2005/12/16/504872.aspx) - Steven Sinofsky
+ - [ ] [你应该是一个什么样的产品经理](https://medium.com/@matbalez/product-manager-you-are-664d83ee702e) - Mat Balez
+ - [ ] [产品管理不是什么](http://www.svpg.com/what-product-management-is-not/) - Marty Cagan
+ - [ ] [世界还需要产品经理吗？](http://branch.com/b/does-the-world-need-product-managers-any-more) - Multiple authors
+ - [ ] [产品管理vs产品营销](http://www.svproduct.com/product-management-vs-product-marketing/) - Marty Cagan
+ - [ ] [产品经理的进化](http://queue.acm.org/detail.cfm?id=2683579) - Ellen Chisa
+ - [ ] [利用你的产品力量做好东西](http://www.productpowers.com/blog/use-your-product-powers-for-good.html) - Bruce McCarthy
+ - [ ] [产品管理:那些毕业的和没毕业的介绍](https://product.careers/presentation/) - Thor Mitchell
 
  ### Is it really for you?
  - [ ] [How to hire a Product Manager?](https://www.kennethnorton.com/essays/productmanager.html) - Kenneth Norton
@@ -253,7 +253,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
  ### Mockups and Marketing
  - [ ] [moqups](https://moqups.com/) - A streamlined web app that helps you create and collaborate on 
-wireframes, mockups, diagrams and prototypes.
+     wireframes, mockups, diagrams and prototypes.
  - [ ] [Typeform](https://www.producthunt.com/r/87fb47ed48/7803) - Generate surveys in seconds.
  - [ ] [Balsamiq](https://www.producthunt.com/r/544603151e/7808) - Rapid wireframing tool.
  - [ ] [Tweetdeck](https://www.producthunt.com/r/1e570814c6/7906) - Power-user interface for Twitter.
@@ -350,11 +350,11 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [Managing Humans](http://www.amazon.com/gp/product/1430243147/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1430243147&linkCode=as2&tag=httpstwit071f-20) - Former Manager at Apple
  - [ ] [The Everything Store: Jeff Bezos and the Age of Amazon](http://www.amazon.com/gp/product/0316219266/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0316219266&linkCode=as2&tag=httpstwit071f-20) - Brad Stone
  - [ ] [The Tipping Point: How Little Things Can Make a Big Difference](http://www.amazon.com/The-Tipping-Point-Little-Difference-ebook/dp/B000OT8GD0) - Malcolm Gladwell
- 
+
  ### Newsletters
  - [ ] [Pivot Product Hits](https://pivotservices.curated.co/) - A weekly email newsletter of the best Product Management content 
  - [ ] [Weekly Thoughts of Tim Herbig](https://herbigt.com/newsletter/) - A weekly digest of personal advice for product people and interesting articles around product, ux and entrepreneurship
- 
+
  ### Podcasts
  - [ ] [Design Details Podcast](https://www.producthunt.com/r/f0a61978d9/12920) - A show about the people who design our favorite products.
  - [ ] [AngelList Radio - Kirill Makharinsky](https://www.producthunt.com/podcasts/angellist-radio-kirill-makharinsky) - What factors can predict a company's future success
@@ -415,14 +415,14 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [Apple iPod Case Study](http://www.ecommerce-digest.com/apple-ipod-case-study.html) - Apple Case Study
  - [ ] [Netflix Case Study](http://www.ecommerce-digest.com/netflix-case-study.html) - Netflix Case Study
  - [ ] [Box Case Study](https://www.youtube.com/watch?v=qeY2BRaS11g) - Box Case Study
- 
+
  ### Sample Product Documentation
  - [ ] [How I would grow Thumbtack’s Customer Side of the Marketplace — Product Spec](https://medium.com/@ivanTr0n/how-i-would-grow-thumbtack-s-customer-side-of-the-marketplace-product-spec-edc5c0521d08#.o9octd4pa) - Sample Product Spec about Thumbtack
- - [ ] [Global Lynda](http://leenau.bitbucket.org/lynda/product-requirements-document/) - Sample Product Requirements Document
- - [ ] [Global Lynda](http://leenau.bitbucket.org/lynda/user-personas/) - Sample Company Context and User Personas
- - [ ] [Global Lynda](http://leenau.bitbucket.org/lynda/metrics-case-study/) - Sample Metrics Case Study
- - [ ] [Global Lynda](http://leenau.bitbucket.org/lynda/language-rollout-phases/) - Sample Language Rollout Phases
- - [ ] [Global Lynda](http://leenau.bitbucket.org/lynda/go-to-market/) - Sample Go-to-Market Plan
+ - [ ] [Global Lynda](http://leenau.bitbucket.io/lynda/product-requirements-document/) - Sample Product Requirements Document
+ - [ ] [Global Lynda](http://leenau.bitbucket.io/lynda/user-personas/) - Sample Company Context and User Personas
+ - [ ] [Global Lynda](http://leenau.bitbucket.io/lynda/metrics-case-study/) - Sample Metrics Case Study
+ - [ ] [Global Lynda](http://leenau.bitbucket.io/lynda/language-rollout-phases/) - Sample Language Rollout Phases
+ - [ ] [Global Lynda](http://leenau.bitbucket.io/lynda/go-to-market/) - Sample Go-to-Market Plan
  - [ ] [Product Hunt](https://github.com/intuit/AnimationEngine) -  Sample Early Product Spec from Ryan Hoover, Product Hunt
  - [ ] [Yahoo! Let’s put some Bots in that beautiful Messenger App - Product Spec](https://medium.com/@ivanTr0n/yahoo-let-s-put-some-bots-in-that-beautiful-messenger-app-product-spec-6fdecb2614f#.2ud1s2wow) Sample Product Spec about Yahoo
  - [ ] [A Usability Test, with Recommendations for Improvement of Skyscanner’s Mobile Flight Search & Booking App](https://medium.com/@mstephan/a-usability-test-with-recommendations-for-improvement-of-skyscanner-s-mobile-flight-search-56b6e598b8a2#.1ve6qzn2e) - Sample product break-down with usability testing by Mark Stephan
@@ -485,10 +485,10 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [Adam Mathes - Sample PM Resume](http://www.adammathes.com/resume/) - Sample Resume Website from a PM
  - [ ] [How to get that Next PM Job](http://svpma.org/eventarchives/SVPMA-03-2010-How_to_Get_That_Next_PM_Job-Shreyas_Doshi.pdf) - 200 slides from Google PM
  - [ ] [Nicholas Ivanecky - Sample PM Website](http://www.ivantron.com) - Nicholas Ivanecky Resume Website
- 
+
   ### Career Prep: Where to Apply
   - [ ] [ProductHired.com](http://www.producthired.com) - Simplify your Product Manager Job Search
-  
+
 
  ### Career Prep: The Interview
  - [ ] [Cracking the PM Interview ](http://www.amazon.com/gp/product/0984782818/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0984782818&linkCode=as2&tag=httpstwit071f-20) - Book based on getting a PM career
@@ -502,7 +502,7 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [The Best Student Activity for Product Managers By Jackie Bavaro](https://pmblog.quora.com/The-Best-Student-Activity-for-Product-Managers) - The Best Student Activity for Product Managers
  - [ ] [Acing the Product Management Interview](https://www.linkedin.com/pulse/20141020034027-1533734-acing-the-product-management-interview?trk=hp-feed-article-title-like) - Allan Hui
  - [ ] [7 Steps: Interview Strategy to Get into Product Management With No Experience](https://www.linkedin.com/pulse/what-your-product-management-interview-strategy-7-steps-mohammad) - Afroz Mohammad
- 
+
  ### Career Prep: Company Types
  - [ ] [Google by Larry page and Sergey Brin](http://www.google.com/about/company/philosophy/) - Google's culture
  - [ ] [Microsoft](https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/) - Microsoft PM Culture

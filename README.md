@@ -142,68 +142,68 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [ ] [制作产品路线图](https://medium.com/@mstephan/making-a-product-map-4fbf6d440a19#.bpmtqfotk) - Mark Stephan
 
  ### 如何与工程师一起工作
- - [ ] [The care and feeding of software engineers](http://www.nczonline.net/blog/2012/06/12/the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy/) - Nicholas C. Zakas
- - [ ] [The ten project management commandments](http://www.defmacro.org/2013/06/03/engineering-commandments.html) - Slava Akhmechet
- - [ ] [How to work with PMs](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-pms-3e852d5eccf5) - Julie Zhuo
- - [ ] [How to work with engineers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-engineers-a3163ff1eced) - Julie Zhuo
- - [ ] [How to work with software engineers](https://www.kennethnorton.com/essays/how-to-work-with-software-engineers.html) - Kenneth Norton
- - [ ] [The Iceberg Secret, revealed](http://www.joelonsoftware.com/articles/fog0000000356.html) - Joel Spolsky
- - [ ] [Leading cross-functional teams](https://www.kennethnorton.com/essays/leading-cross-functional-teams.html) - Kenneth Norton
- - [ ] [Engineers: So your PM sucks? Here’s how to fix it.](http://blog.ellenchisa.com/2014/07/20/engineers-pm-sucks-heres-fix/) - Ellen Chisa
- - [ ] [Nerds, get the Product Management you deserve](https://medium.com/@jeff7091/nerds-get-the-product-management-you-deserve-3bcf849394c2) - Jeff Enderwick
- - [ ] [The product manager’s lament](http://www.startuplessonslearned.com/2008/10/product-managers-lament.html) - Eric Ries
- - [ ] [Top 5 Ways Product Managers can help Developer’s Love them](https://medium.com/@mstephan/top-5-ways-product-managers-can-help-developers-love-them-4660ef7711d5) - Mark Stephan
+ - [ ] [软件工程师的关怀和营养](http://www.nczonline.net/blog/2012/06/12/the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy/) - Nicholas C. Zakas
+ - [ ] [项目管理十诫](http://www.defmacro.org/2013/06/03/engineering-commandments.html) - Slava Akhmechet
+ - [ ] [如何与产品经理们一起工作](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-pms-3e852d5eccf5) - Julie Zhuo
+ - [ ] [如何与工程师们一起工作](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-engineers-a3163ff1eced) - Julie Zhuo
+ - [ ] [如何与软件工程师一起工作](https://www.kennethnorton.com/essays/how-to-work-with-software-engineers.html) - Kenneth Norton
+ - [ ] [冰山下的秘密](http://www.joelonsoftware.com/articles/fog0000000356.html) - Joel Spolsky
+ - [ ] [领导跨职能团队](https://www.kennethnorton.com/essays/leading-cross-functional-teams.html) - Kenneth Norton
+ - [ ] [工程师：你的PM很烂？ 以下是修复问题的方法](http://blog.ellenchisa.com/2014/07/20/engineers-pm-sucks-heres-fix/) - Ellen Chisa
+ - [ ] [呆子，这才是你应得的产品管理](https://medium.com/@jeff7091/nerds-get-the-product-management-you-deserve-3bcf849394c2) - Jeff Enderwick
+ - [ ] [产品经理的叹息](http://www.startuplessonslearned.com/2008/10/product-managers-lament.html) - Eric Ries
+ - [ ] [让开发人员爱上产品经理的五大方式](https://medium.com/@mstephan/top-5-ways-product-managers-can-help-developers-love-them-4660ef7711d5) - Mark Stephan
 
- ### User Experience
- - [ ] [Lean UX Canvas](https://medium.com/@mstephan/lean-ux-canvas-5f1fdd378077#.et3az0712) - Mark Stephan 
- - [ ] [User Experience Debt](https://blog.polkadotlabs.com/user-experience-debt-c9bd265d521b#.v3v86d9p7) - Vijay Sundaram
+ ### 用户体验
+ - [ ] [精益UX画布](https://medium.com/@mstephan/lean-ux-canvas-5f1fdd378077#.et3az0712) - Mark Stephan 
+ - [ ] [用户体验债](https://blog.polkadotlabs.com/user-experience-debt-c9bd265d521b#.v3v86d9p7) - Vijay Sundaram
 
- ### How to work with Designers
- - [ ] [How to work with designers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146) - Julie Zhuo
+ ### 如何和设计师一起工作
+ - [ ] [如何和设计师一起工作](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146) - Julie Zhuo
 
- ### Give and Receive Feedback
- - [ ] [You won’t regret positive feedback](http://zachholman.com/posts/positive-feedback/) - Zack Holman
- - [ ] [Thirty percent feedback](http://blog.42floors.com/thirty-percent-feedback/) - Jason Freedman
- - [ ] [How to run a design critique](http://scottberkun.com/essays/23-how-to-run-a-design-critique/) - Scott Berkun
+ ### 提供和接受反馈
+ - [ ] [你不会后悔积极的反馈](http://zachholman.com/posts/positive-feedback/) - Zack Holman
+ - [ ] [30%的反馈](http://blog.42floors.com/thirty-percent-feedback/) - Jason Freedman
+ - [ ] [如何进行设计评审](http://scottberkun.com/essays/23-how-to-run-a-design-critique/) - Scott Berkun
 
- ### Shipping and Measuring Products
- - [ ] [Shipping is a feature](http://a16z.com/2014/04/16/shipping-is-a-feature-some-guiding-principals-for-people-that-build-things/) - Steven Sinofsky
- - [ ] [Great product leaders win games](http://blog.adamnash.com/2012/02/29/great-product-leaders-win-games/) - Adam Nash
- - [ ] [How to deliver more software projects on time](http://www.inc.com/mark-suster/how-to-deliver-more-software-projects-on-time.html) - Mark Suster
- - [ ] [Always be defining success](https://pmblog.quora.com/Always-Be-Defining-Success) - Jackie Bavaro
- - [ ] [The only metric that matters](https://medium.com/@joshelman/the-only-metric-that-matters-ab24a585b5ea) - Josh Elman
- - [ ] [The blind Product Manager](http://blog.intercom.io/the-blind-product-manager/) - Paul Adams
- - [ ] [Shipping beats perfection explained](http://bjk5.com/post/60760280107/shipping-beats-perfection-explained) - Ben Kamens
- - [ ] [Measure twice, cut once](https://medium.com/@rklau/measure-twice-cut-once-e86c2f08b4c) - Rick Klau
- - [ ] [The lost art of the soft launch](http://wadefoster.net/post/70145296769/the-lost-art-of-the-soft-launch) - Wade Foster
- - [ ] [What are the most important metrics for developing and managing a mobile product?](https://www.quora.com/What-are-the-most-important-metrics-for-developing-and-managing-a-mobile-product/answer/Drew-Dillon) - Drew Dillon
+ ### 交付和评估产品
+ - [ ] [交付是个功能](http://a16z.com/2014/04/16/shipping-is-a-feature-some-guiding-principals-for-people-that-build-things/) - Steven Sinofsky
+ - [ ] [伟大的产品领导者会赢](http://blog.adamnash.com/2012/02/29/great-product-leaders-win-games/) - Adam Nash
+ - [ ] [如何及时提供更多的软件项目](http://www.inc.com/mark-suster/how-to-deliver-more-software-projects-on-time.html) - Mark Suster
+ - [ ] [永远定义成功](https://pmblog.quora.com/Always-Be-Defining-Success) - Jackie Bavaro
+ - [ ] [唯一重要的指标](https://medium.com/@joshelman/the-only-metric-that-matters-ab24a585b5ea) - Josh Elman
+ - [ ] [盲目的产品经理](http://blog.intercom.io/the-blind-product-manager/) - Paul Adams
+ - [ ] [交付比完美解释更重要](http://bjk5.com/post/60760280107/shipping-beats-perfection-explained) - Ben Kamens
+ - [ ] [评估两次，砍掉一个](https://medium.com/@rklau/measure-twice-cut-once-e86c2f08b4c) - Rick Klau
+ - [ ] [软启动中失落的艺术](http://wadefoster.net/post/70145296769/the-lost-art-of-the-soft-launch) - Wade Foster
+ - [ ] [移动产品开发和管理中的最重要的指标](https://www.quora.com/What-are-the-most-important-metrics-for-developing-and-managing-a-mobile-product/answer/Drew-Dillon) - Drew Dillon
 
- ### Organizing your Team
- - [ ] [Enter the Matrix - Organizing Product Management](https://www.braintreepayments.com/braintrust/Enter-the-Matrix-Organizing-Product-Management) - Mark Tattersall
- - [ ] [Product organizational structure](http://www.svpg.com/product-organizational-structure/) - Marty Cagan
- - [ ] [Good product team, bad product team](http://www.svpg.com/good-product-team-bad-product-team/) - Marty Cagan
- - [ ] [The best Product Management model](http://svpg.com/the-best-product-management-model/) - Marty Cagan
- - [ ] [Maker's Schedule, Manager's Schedule ](http://www.paulgraham.com/makersschedule.html) - Paul Graham
- - [ ] [Take back your day: Time Management for PMs](https://pmblog.quora.com/Take-back-your-day-Time-Management-for-PMs) - Jackie Bavaro
+ ### 组织你的团队
+ - [ ] [输入矩阵 - 组织产品管理](https://www.braintreepayments.com/braintrust/Enter-the-Matrix-Organizing-Product-Management) - Mark Tattersall
+ - [ ] [产品组织结构](http://www.svpg.com/product-organizational-structure/) - Marty Cagan
+ - [ ] [好产品团队，坏产品团队](http://www.svpg.com/good-product-team-bad-product-team/) - Marty Cagan
+ - [ ] [最好的产品管理模式](http://svpg.com/the-best-product-management-model/) - Marty Cagan
+ - [ ] [制作者计划，管理者计划 ](http://www.paulgraham.com/makersschedule.html) - Paul Graham
+ - [ ] [找回你的时间：产品经理的时间管理](https://pmblog.quora.com/Take-back-your-day-Time-Management-for-PMs) - Jackie Bavaro
 
  ### Become the Best in the Field
- - [ ] [Top hacks from a PM behind two of tech’s hottest products](http://firstround.com/article/Top-Hacks-from-a-PM-Behind-Two-of-Techs-Hottest-Products) - Todd Jackson
- - [ ] [Stakeholder Management](http://www.svproduct.com/stakeholder-management/) - Marty Cagan
- - [ ] [Court scribe or Hand of the King](http://www.productpowers.com/blog/court-scribe-or-hand-of-the-king.html) - Bruce McCarthy
- - [ ] [Influence without authority](http://www.sachinrekhi.com/blog/2013/02/19/the-most-underrated-product-management-skill-influence-without-authority) - Sachin Rekhi
- - [ ] [Management clichés that work](http://blog.learningbyshipping.com/2014/10/23/management-cliches-that-work/) - Steven Sinofsky
- - [ ] [How to be persuasive](https://pmblog.quora.com/How-to-be-persuasive) - Jackie Bavaro
- - [ ] [Bad Managers Talk, Good Managers Write](http://blog.idonethis.com/managers-write/) - Walter Chen
- - [ ] [Good Product Manager, Bad Product Manager](http://benhorowitz.files.wordpress.com/2010/05/good-product-manager.pdf) - Ben Horowitz
- - [ ] [Be a great product leader](http://blog.adamnash.com/2011/12/16/be-a-great-product-leader/) - Adam Nash
- - [ ] [Top 10 product leadership lessons](http://blog.adamnash.com/2012/03/06/top-10-product-leadership-lessons/) - Adam Nash
- - [ ] [What distinguishes the top 1% of Product Managers from the top 10%?](https://www.quora.com/What-distinguishes-the-Top-1-of-Product-Managers-from-the-Top-10/answer/Ian-McAllister?srid=3wR&st=ns) - Ian McAllister
- - [ ] [What makes someone a great Product Manager at Google?](https://www.quora.com/What-makes-someone-a-great-product-manager-at-Google?) - Edward Ho
- - [ ] [What innate traits do great internet product leaders share?](https://www.quora.com/What-innate-traits-do-great-Internet-product-leaders-share) - Chris Wetherell
- - [ ] [Musings on Product Management](http://blog.parsely.com/post/907/musings-on-product-management/) - Mike Sukmanowsky
- - [ ] [Hiring a great product leader](https://medium.com/@suthakamal/hiring-a-great-product-leader-12365570c974) - Sutha Kamal
- - [ ] [What makes a great Product Manager?](http://hatchery.vc/what-makes-a-great-product-manager/) - Erik Torenberg
- - [ ] [How a football coach taught me to product manage like a boss](https://medium.com/@biggiesu/how-a-football-coach-taught-me-to-product-manage-like-a-boss-926ab5c39156) - Mike Su
+ - [ ] [Top hacks from a PM behind two of tech’s hottest products](http://firstround.com/article/Top-Hacks-from-a-PM-Behind-Two-of-Techs-Hottest-Products) - Todd Jackson `不知道怎么翻译恰当`
+ - [ ] [利益相关者管理](http://www.svproduct.com/stakeholder-management/) - Marty Cagan
+ - [ ] [法庭抄写员或国王之手](http://www.productpowers.com/blog/court-scribe-or-hand-of-the-king.html) - Bruce McCarthy
+ - [ ] [无权力影响力](http://www.sachinrekhi.com/blog/2013/02/19/the-most-underrated-product-management-skill-influence-without-authority) - Sachin Rekhi
+ - [ ] [管理陈词滥调](http://blog.learningbyshipping.com/2014/10/23/management-cliches-that-work/) - Steven Sinofsky
+ - [ ] [如何有说服力](https://pmblog.quora.com/How-to-be-persuasive) - Jackie Bavaro
+ - [ ] [矬经理靠说，牛经理靠写](http://blog.idonethis.com/managers-write/) - Walter Chen
+ - [ ] [好产品经理，坏产品经理](http://benhorowitz.files.wordpress.com/2010/05/good-product-manager.pdf) - Ben Horowitz
+ - [ ] [成为伟大产品领导者](http://blog.adamnash.com/2011/12/16/be-a-great-product-leader/) - Adam Nash
+ - [ ] [10大产品领导力课程](http://blog.adamnash.com/2012/03/06/top-10-product-leadership-lessons/) - Adam Nash
+ - [ ] [产品经理的前1％与前10％的区别？](https://www.quora.com/What-distinguishes-the-Top-1-of-Product-Managers-from-the-Top-10/answer/Ian-McAllister?srid=3wR&st=ns) - Ian McAllister
+ - [ ] [什么让人成为Google的优秀产品经理？](https://www.quora.com/What-makes-someone-a-great-product-manager-at-Google?) - Edward Ho
+ - [ ] [伟大的互联网产品领导者在传递什么天生的特质？](https://www.quora.com/What-innate-traits-do-great-Internet-product-leaders-share) - Chris Wetherell
+ - [ ] [产品管理迷思](http://blog.parsely.com/post/907/musings-on-product-management/) - Mike Sukmanowsky
+ - [ ] [聘请伟大的产品领导者](https://medium.com/@suthakamal/hiring-a-great-product-leader-12365570c974) - Sutha Kamal
+ - [ ] [什么成就了伟大的产品经理](http://hatchery.vc/what-makes-a-great-product-manager/) - Erik Torenberg
+ - [ ] [足球教练是如何教导我像老板一样管理产品的](https://medium.com/@biggiesu/how-a-football-coach-taught-me-to-product-manage-like-a-boss-926ab5c39156) - Mike Su
 
  # Core 2: Resources
 

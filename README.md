@@ -72,76 +72,76 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [ ] [产品管理不是什么](http://www.svpg.com/what-product-management-is-not/) - Marty Cagan
  - [ ] [世界还需要产品经理吗？](http://branch.com/b/does-the-world-need-product-managers-any-more) - Multiple authors
  - [ ] [产品管理vs产品营销](http://www.svproduct.com/product-management-vs-product-marketing/) - Marty Cagan
- - [ ] [产品经理的进化](http://queue.acm.org/detail.cfm?id=2683579) - Ellen Chisa
+ - [ ] [产品经理进化](http://queue.acm.org/detail.cfm?id=2683579) - Ellen Chisa
  - [ ] [利用你的产品力量做好东西](http://www.productpowers.com/blog/use-your-product-powers-for-good.html) - Bruce McCarthy
  - [ ] [产品管理:那些毕业的和没毕业的介绍](https://product.careers/presentation/) - Thor Mitchell
 
- ### Is it really for you?
- - [ ] [How to hire a Product Manager?](https://www.kennethnorton.com/essays/productmanager.html) - Kenneth Norton
- - [ ] [The DNA of Product Management](https://www.linkedin.com/pulse/article/20121102003945-7298-the-dna-of-product-management) - Hunter Walk
- - [ ] [The Dark Side of PM](http://blog.ellenchisa.com/2014/02/20/the-dark-side-of-pm/) - Ellen Chisa
- - [ ] [Do I need to be technical to be a PM](http://blog.ellenchisa.com/2014/10/04/need-technical-pm/) - Ellen Chisa
- - [ ] [Ode to a Non Technical Product Manager](https://medium.com/@hunterwalk/ode-to-a-non-technical-product-manager-7776efb98acd) - Hunter Walk
- - [ ] [3 Skillsets for PM Success](http://blog.kentonkivestu.com/3-skillsets-for-PM-success) - Kenton Kivetsu
+ ### 你真的适合做产品经理吗?
+ - [ ] [如何聘请产品经理？](https://www.kennethnorton.com/essays/productmanager.html) - Kenneth Norton
+ - [ ] [产品管理的DNA](https://www.linkedin.com/pulse/article/20121102003945-7298-the-dna-of-product-management) - Hunter Walk
+ - [ ] [产品经理的黑暗面](http://blog.ellenchisa.com/2014/02/20/the-dark-side-of-pm/) - Ellen Chisa
+ - [ ] [产品经理要懂技术吗？](http://blog.ellenchisa.com/2014/10/04/need-technical-pm/) - Ellen Chisa
+ - [ ] [成为一个无技术产品经理](https://medium.com/@hunterwalk/ode-to-a-non-technical-product-manager-7776efb98acd) - Hunter Walk
+ - [ ] [产品经理成功三法宝](http://blog.kentonkivestu.com/3-skillsets-for-PM-success) - Kenton Kivetsu
 
- ### Becoming a Product Guru
- - [ ] [How do I become a Product Manager?](https://www.quora.com/How-do-I-become-a-product-manager-2) - Multiple authors
- - [ ] [How I became a PM ](http://blog.ellenchisa.com/2014/01/10/how-i-became-a-pm/) - Ellen Chisa
- - [ ] [Do Product Managers really need a background in CS](https://pmblog.quora.com/Do-Product-Managers-really-need-a-background-in-CS) - Jackie Bavaro
- - [ ] [Want to be a PM? Do a Project](http://blog.ellenchisa.com/2014/01/28/want-to-be-a-pm-do-a-project/) - Ellen Chisa
- - [ ] [So You Want to Manage a Product](https://medium.com/@rohinivibha/so-you-want-to-manage-a-product-c664ba7e5138) - Rohini Viba
- - [ ] [The 4 ways to break into Product Management](https://pmblog.quora.com/Do-Product-Managers-really-need-a-background-in-CS) - Jackie Bavaro
- - [ ] [12 things Product Managers should do in their first 30 Days at a new company](http://www.gv.com/lib/12-things-product-managers-should-do-in-their-first-30-days-at-a-new-company) - Kenneth Norton
- - [ ] [Evolution of the Product Manager](http://queue.acm.org/detail.cfm?id=2683579) - Ellen Chisa
- - [ ] [4 mistakes new Product Managers make](http://dev.hubspot.com/blog/4-mistakes-new-product-managers-make) - Matt Schnitt
+ ### 成为产品大师
+ - [ ] [我怎么成为产品经理？](https://www.quora.com/How-do-I-become-a-product-manager-2) - Multiple authors
+ - [ ] [我是怎么成为产品经理的 ](http://blog.ellenchisa.com/2014/01/10/how-i-became-a-pm/) - Ellen Chisa
+ - [ ] [产品经理真的需要有计算机科学背景吗?](https://pmblog.quora.com/Do-Product-Managers-really-need-a-background-in-CS) - Jackie Bavaro
+ - [ ] [想做产品经理? 去做个项目](http://blog.ellenchisa.com/2014/01/28/want-to-be-a-pm-do-a-project/) - Ellen Chisa
+ - [ ] [所以呢，你想去管理一个产品](https://medium.com/@rohinivibha/so-you-want-to-manage-a-product-c664ba7e5138) - Rohini Viba
+ - [ ] [闯入产品管理的4条路](https://pmblog.quora.com/The-4-ways-to-Break-into-Product-Management) - Jackie Bavaro
+ - [ ] [产品经理进入新公司一个月内必做的12件事](http://www.gv.com/lib/12-things-product-managers-should-do-in-their-first-30-days-at-a-new-company) - Kenneth Norton
+ - [ ] [产品经理进化](http://queue.acm.org/detail.cfm?id=2683579) - Ellen Chisa `此条重复`
+ - [ ] [产品新人的4个错误](http://dev.hubspot.com/blog/4-mistakes-new-product-managers-make) - Matt Schnitt
 
- ### Building Great Products
- - [ ] [How to build great products](http://www.defmacro.org/2013/09/26/products.html) - Slava Akhmechet
- - [ ] [Make things as simple as possible but not simpler](http://blog.adamnash.com/2013/09/25/make-things-as-simple-as-possible-but-not-simpler/) - Adam Nash
- - [ ] [10 essential steps to create products that customer love](http://welovelean.wordpress.com/2013/07/06/10-essential-steps-to-create-products-that-customers-love/) - Laurence McCahill
- - [ ] [The power of the perfect slice](http://www.mindtheproduct.com/2013/03/the-power-of-the-perfect-slice/) - Alastair Lee
- - [ ] [Ten principles on the journey to building great products](http://www.forbes.com/sites/avidlarizadeh/2014/05/23/ten-principles-on-the-journey-to-building-great-products/) - Avid Larizadeh
- - [ ] [Quality is not a tradeoff](https://medium.com/the-year-of-the-looking-glass/quality-is-not-a-tradeoff-bcddf7c85553) - Julie Zhuo
- - [ ] [How to build products users love](http://startupclass.samaltman.com/courses/lec07/) - Kevin Hale
+ ### 构建伟大产品
+ - [ ] [如果构建一个伟大的产品](http://www.defmacro.org/2013/09/26/products.html) - Slava Akhmechet
+ - [ ] [让事情变得尽可能简单不简单](http://blog.adamnash.com/2013/09/25/make-things-as-simple-as-possible-but-not-simpler/) - Adam Nash
+ - [ ] [创造客户喜爱的产品的10个基本步骤](http://welovelean.wordpress.com/2013/07/06/10-essential-steps-to-create-products-that-customers-love/) - Laurence McCahill
+ - [ ] [完美切片的力量](http://www.mindtheproduct.com/2013/03/the-power-of-the-perfect-slice/) - Alastair Lee
+ - [ ] [构建伟大产品路上的10个原则](http://www.forbes.com/sites/avidlarizadeh/2014/05/23/ten-principles-on-the-journey-to-building-great-products/) - Avid Larizadeh
+ - [ ] [质量不是权衡](https://medium.com/the-year-of-the-looking-glass/quality-is-not-a-tradeoff-bcddf7c85553) - Julie Zhuo
+ - [ ] [如何构建用户喜爱的产品](http://startupclass.samaltman.com/courses/lec07/) - Kevin Hale
 
- ### Get out of the building
- - [ ] [Listen to customers](https://www.kennethnorton.com/essays/listentocustomers.html) - Kenneth Norton
- - [ ] [How do Customer Development and Product Management fit together](http://www.cindyalvarez.com/lean/how-do-customer-development-and-product-management-fit-together-2014) - Cindy Alvarez
- - [ ] [How to structure and get the most out of customer development interviews](http://jasonevanish.com/2012/01/18/how-to-structure-and-get-the-most-out-of-customer-development-interviews/) - Jason Evanish
- - [ ] [The customer is always right. Except when they aren’t](http://wadefoster.net/post/57403834478/the-customer-is-always-right-except-when-they-arent) - Wade Foster
- - [ ] [Your MVP is about discovery not product](http://kevindewalt.com/2013/07/14/your-mvp-is-about-discovery-not-product/) - Kevin Dewalt
+ ### 功夫在诗外
+ - [ ] [倾听客户](https://www.kennethnorton.com/essays/listentocustomers.html) - Kenneth Norton
+ - [ ] [客户开发和产品管理如何匹配到一起](http://www.cindyalvarez.com/lean/how-do-customer-development-and-product-management-fit-together-2014) - Cindy Alvarez
+ - [ ] [如何构架和充分利用客户开发访谈](http://jasonevanish.com/2012/01/18/how-to-structure-and-get-the-most-out-of-customer-development-interviews/) - Jason Evanish
+ - [ ] [客户永远是对的，除非他们本来就不是客户](http://wadefoster.net/post/57403834478/the-customer-is-always-right-except-when-they-arent) - Wade Foster
+ - [ ] [你的MVP是用来探测市场的，并不是真正的产品](http://kevindewalt.com/2013/07/14/your-mvp-is-about-discovery-not-product/) - Kevin Dewalt
 
- ### All about those Requirements
- - [ ] [Painless functional specifications](http://www.joelonsoftware.com/articles/fog0000000036.html) - Joel Spolsky
- - [ ] [Requirements are not](http://www.svpg.com/requirements-are-not/) - Marty Cagan
- - [ ] [Feed the beast](http://www.svpg.com/feed-the-beast/) - Marty Cagan
- - [ ] [The end of requirements](http://www.svpg.com/the-end-of-requirements/) - Marty Cagan
+ ### 关于需求
+ - [ ] [无痛功能规范](http://www.joelonsoftware.com/articles/fog0000000036.html) - Joel Spolsky
+ - [ ] [需求到底是？](http://www.svpg.com/requirements-are-not/) - Marty Cagan
+ - [ ] [饲养野兽](http://www.svpg.com/feed-the-beast/) - Marty Cagan
+ - [ ] [需求之终](http://www.svpg.com/the-end-of-requirements/) - Marty Cagan
 
- ### Roadmaps, Planning, and Prioritization
- - [ ] [The seven deadly sins of product planning](http://www.svpg.com/the-seven-deadly-sins-of-product-planning/) - Marty Cagan
- - [ ] [Product strategy means saying no](http://blog.intercom.io/product-strategy-means-saying-no/) - Des Traynor
- - [ ] [Product priorities start with strategic goals](http://www.productpowers.com/blog/product-priorities-start-with-strategic-goals.html) - Bruce McCarthy
- - [ ] [The inconvenient truth about product](http://www.svpg.com/the-inconvenient-truth-about-product/) - Marty
- - [ ] [The opportunity backlog](http://svpg.com/the-opportunity-backlog) - Marty Cagan
- - [ ] [The dirty dozen roadmap roadblocks](http://www.productpowers.com/blog/the-dirty-dozen-roadmap-roadblocks.html) - Bruce McCarthy
- - [ ] [The pyramid model & what it means for PM focus](http://blog.kentonkivestu.com/product-focus) - Kenton Kivetsu
- - [ ] [How am I going to move my product forward today](http://www.sachinrekhi.com/blog/2013/03/04/how-am-i-going-to-move-my-product-forward-today) - Sachin Rekhi
- - [ ] [Don’t publish a product roadmap](http://dataerous.com/post/51810660125/dont-publish-a-product-roadmap) - Colin Rand
- - [ ] [Software Inventory](http://www.joelonsoftware.com/items/2012/07/09.html) - Joel Spolsky
- - [ ] [Babe Ruth and feature lists](https://medium.com/bringing-the-donuts/babe-ruth-and-feature-lists-1818bb8c6ca8) - Kenneth Norton
- - [ ] [What are the best ways to prioritize a list of product features](https://www.quora.com/What-are-the-best-ways-to-prioritize-a-list-of-product-features) - Ian McAllister
- - [ ] [Before you plan your product roadmap](http://blog.intercom.io/before-you-plan-your-product-roadmap/) - Des Traynor
- - [ ] [Rodmaps focus on vision benefits, not features](http://www.productpowers.com/blog/roadmaps-focus-on-vision-benefits-not-features.html) - Bruce McCarthy
- - [ ] [The one cost engineers and Product Managers don’t consider](http://firstround.com/article/The-one-cost-engineers-and-product-managers-dont-consider) - Kris Gale
- - [ ] [Guide to Product Planning: Three Feature Buckets](http://blog.adamnash.com/2009/07/22/guide-to-product-planning-three-feature-buckets/) - Adam Nash
- - [ ] [Product hierarchy of needs](https://www.salesforceiq.com/blog/product-hierarchy-needs) - Tim Fletcher
- - [ ] [Magical thinking and the zero-sum roadmap](http://www.mironov.com/magical_thinking/) - Rich Mironov
- - [ ] [You don’t need a product roadmap](https://signalvnoise.com/posts/694-you-dont-need-a-product-road-map) - David Heinemeier Hansson
- - [ ] [Drop feature-based product roadmaps](http://www.producttalk.org/2014/04/drop-feature-based-product-roadmaps/) - Teresa Torres
- - [ ] [How to build a roadmap everyone understands](https://medium.com/@dreasaez/how-to-build-a-product-roadmap-everyone-understands-522b36270e5#.e8gcmylg0) - Andrea Saez
- - [ ] [Making a Product Map](https://medium.com/@mstephan/making-a-product-map-4fbf6d440a19#.bpmtqfotk) - Mark Stephan
+ ### 路线图、规划和优先级
+ - [ ] [产品规划7宗罪](http://www.svpg.com/the-seven-deadly-sins-of-product-planning/) - Marty Cagan
+ - [ ] [产品策略意味着说不](http://blog.intercom.io/product-strategy-means-saying-no/) - Des Traynor
+ - [ ] [产品优先级始于战略目标](http://www.productpowers.com/blog/product-priorities-start-with-strategic-goals.html) - Bruce McCarthy
+ - [ ] [产品不给力真相](http://www.svpg.com/the-inconvenient-truth-about-product/) - Marty
+ - [ ] [囤积机会](http://svpg.com/the-opportunity-backlog) - Marty Cagan
+ - [ ] [产品路上成堆的肮脏路障](http://www.productpowers.com/blog/the-dirty-dozen-roadmap-roadblocks.html) - Bruce McCarthy
+ - [ ] [金字塔模型和产品经理聚焦点](http://blog.kentonkivestu.com/product-focus) - Kenton Kivetsu
+ - [ ] [目前我如何推动我的产品？](http://www.sachinrekhi.com/blog/2013/03/04/how-am-i-going-to-move-my-product-forward-today) - Sachin Rekhi
+ - [ ] [不要发布产品路线图](http://dataerous.com/post/51810660125/dont-publish-a-product-roadmap) - Colin Rand
+ - [ ] [软件库存](http://www.joelonsoftware.com/items/2012/07/09.html) - Joel Spolsky
+ - [ ] [宝贝露丝和特性列表](https://medium.com/bringing-the-donuts/babe-ruth-and-feature-lists-1818bb8c6ca8) - Kenneth Norton
+ - [ ] [什么是确定产品功能列表优先级的最佳方法](https://www.quora.com/What-are-the-best-ways-to-prioritize-a-list-of-product-features) - Ian McAllister
+ - [ ] [在你规划产品路线之前](http://blog.intercom.io/before-you-plan-your-product-roadmap/) - Des Traynor
+ - [ ] [路线聚焦于愿景效益而不是功能](http://www.productpowers.com/blog/roadmaps-focus-on-vision-benefits-not-features.html) - Bruce McCarthy
+ - [ ] [工程师和产品经理没考虑到的一个成本](http://firstround.com/article/The-one-cost-engineers-and-product-managers-dont-consider) - Kris Gale
+ - [ ] [产品规划指南：三个功能块](http://blog.adamnash.com/2009/07/22/guide-to-product-planning-three-feature-buckets/) - Adam Nash
+ - [ ] [产品需求层次](https://www.salesforceiq.com/blog/product-hierarchy-needs) - Tim Fletcher
+ - [ ] [魔法思维和零和路径](http://www.mironov.com/magical_thinking/) - Rich Mironov
+ - [ ] [你不需要产品路线图](https://signalvnoise.com/posts/694-you-dont-need-a-product-road-map) - David Heinemeier Hansson
+ - [ ] [扔掉基于功能的产品路线图](http://www.producttalk.org/2014/04/drop-feature-based-product-roadmaps/) - Teresa Torres
+ - [ ] [如何建立一个人人都明白的产品路线图](https://medium.com/@dreasaez/how-to-build-a-product-roadmap-everyone-understands-522b36270e5#.e8gcmylg0) - Andrea Saez
+ - [ ] [制作产品路线图](https://medium.com/@mstephan/making-a-product-map-4fbf6d440a19#.bpmtqfotk) - Mark Stephan
 
- ### How to work with Engineers
+ ### 如何与工程师一起工作
  - [ ] [The care and feeding of software engineers](http://www.nczonline.net/blog/2012/06/12/the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy/) - Nicholas C. Zakas
  - [ ] [The ten project management commandments](http://www.defmacro.org/2013/06/03/engineering-commandments.html) - Slava Akhmechet
  - [ ] [How to work with PMs](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-pms-3e852d5eccf5) - Julie Zhuo

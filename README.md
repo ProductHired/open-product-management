@@ -354,21 +354,21 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [ ] [引爆点:如何引发流行](http://www.amazon.com/The-Tipping-Point-Little-Difference-ebook/dp/B000OT8GD0) - Malcolm Gladwell
 
 ### 简讯
-- [ ] [Pivot Product Hits](https://pivotservices.curated.co/) - A weekly email newsletter of the best Product Management content 
-- [ ] [Weekly Thoughts of Tim Herbig](https://herbigt.com/newsletter/) - A weekly digest of personal advice for product people and interesting articles around product, ux and entrepreneurship
+- [ ] [Pivot Product Hits](https://pivotservices.curated.co/) - 每周最佳产品通讯 
+- [ ] [Weekly Thoughts of Tim Herbig](https://herbigt.com/newsletter/) - 每周为产品人员提供关于产品，ux和创业精神的有趣文章
 
 ### 播客
-- [ ] [Design Details Podcast](https://www.producthunt.com/r/f0a61978d9/12920) - A show about the people who design our favorite products.
-- [ ] [AngelList Radio - Kirill Makharinsky](https://www.producthunt.com/podcasts/angellist-radio-kirill-makharinsky) - What factors can predict a company's future success
-- [ ] [Exponent - Get Off My Lawn!](https://www.producthunt.com/podcasts/exponent-get-off-my-lawn) - How Snapchat has built it’s product effectively
-- [ ] [HOW TO MAKE SURE YOU ACHIEVE YOUR GOALS](https://www.producthunt.com/podcasts/how-to-make-sure-you-achieve-your-goals) - 6 practical ways we can make sure you achieve your goals
-- [ ] [What I Know Best - Catherine Pao - Growth Product Manager At Blue Apron](https://www.producthunt.com/podcasts/what-i-know-best-catherine-pao-growth-product-manager-at-blue-apron) - Product & growth lessons from DigitalOcean, Fab & BlueApron
-- [ ] [FemgineerTV: Episode 2 - How to Make Smart Tradeoffs When Developing Software Products](https://www.producthunt.com/podcasts/femgineertv-episode-2-how-to-make-smart-tradeoffs-when-developing-software-products) - Interview with former Director of Engineering at Facebook
-- [ ] [The James Altucher Show #160: Ashlee Vance](https://www.producthunt.com/podcasts/the-james-altucher-show-160-ashlee-vance) - Elon Musk and the quest to save mankind
-- [ ] [Product Hunt Maker Stories - Matt Mazzeo](https://www.producthunt.com/podcasts/product-hunt-maker-stories-matt-mazzeo-2) - Future of VC, breaking into tech/VC, & more
-- [ ] [Growth Everywhere - The Strategy That Skyrocketed Hotjar to $1 Million ARR in 6 Months](https://www.producthunt.com/podcasts/growth-everywhere-the-strategy-that-skyrocketed-hotjar-to-1-million-arr-in-6-months) - How David Darmanin Grew Hotjar To $1 Million ARR in 6 months
-- [ ] [Yours Productly - Shardul Mehta, VP Products at Diamond Mind](http://yoursproductly.com/shardulmehta/) - Shardul Mehta on Product Canvas, Why Products Fail, His Upcoming Book and a Lot More
-- [ ] [Products That Count - By Sophie-Charlotte Moatti](https://itunes.apple.com/us/podcast/products-that-count-podcast/id1038890550?mt=2) - A podcast for product makers, data-minded thinkers and innovators. 
+- [ ] [Design Details Podcast](https://www.producthunt.com/r/f0a61978d9/12920) - 谁设计了我们最喜爱的产品
+- [ ] [AngelList Radio - Kirill Makharinsky](https://www.producthunt.com/podcasts/angellist-radio-kirill-makharinsky) - 什么因素可以预测公司未来的成功
+- [ ] [Exponent - Get Off My Lawn!](https://www.producthunt.com/podcasts/exponent-get-off-my-lawn) - Snapchat如何有效地构建它的产品
+- [ ] [HOW TO MAKE SURE YOU ACHIEVE YOUR GOALS](https://www.producthunt.com/podcasts/how-to-make-sure-you-achieve-your-goals) - 确保实现目标的6个实操方法
+- [ ] [What I Know Best - Catherine Pao - Growth Product Manager At Blue Apron](https://www.producthunt.com/podcasts/what-i-know-best-catherine-pao-growth-product-manager-at-blue-apron) - 来自DigitalOcean，Fab和BlueApron的产品与成长经验
+- [ ] [FemgineerTV: Episode 2 - How to Make Smart Tradeoffs When Developing Software Products](https://www.producthunt.com/podcasts/femgineertv-episode-2-how-to-make-smart-tradeoffs-when-developing-software-products) - Facebook前工程总监访谈
+- [ ] [The James Altucher Show #160: Ashlee Vance](https://www.producthunt.com/podcasts/the-james-altucher-show-160-ashlee-vance) - Elon Musk 拯救人类的探索
+- [ ] [Product Hunt Maker Stories - Matt Mazzeo](https://www.producthunt.com/podcasts/product-hunt-maker-stories-matt-mazzeo-2) - VC的未来，突破科技/VC和其他
+- [ ] [Growth Everywhere - The Strategy That Skyrocketed Hotjar to $1 Million ARR in 6 Months](https://www.producthunt.com/podcasts/growth-everywhere-the-strategy-that-skyrocketed-hotjar-to-1-million-arr-in-6-months) - 大卫·达尔马宁（David Darmanin）如何在6个月内飙升至100万美元的ARR
+- [ ] [Yours Productly - Shardul Mehta, VP Products at Diamond Mind](http://yoursproductly.com/shardulmehta/) - Shardul Mehta谈产品画布，为什么产品失败，他准备出的书以及其他
+- [ ] [Products That Count - By Sophie-Charlotte Moatti](https://itunes.apple.com/us/podcast/products-that-count-podcast/id1038890550?mt=2) - 针对产品制造商，数据思维者和创新者的播客。
 
 ### 课程
 - [ ] [Design Workflow with Sketch](https://github.com/facebook/pop) - An e-course from Clark Wimberly at InVision.

@@ -371,17 +371,17 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [ ] [Products That Count - By Sophie-Charlotte Moatti](https://itunes.apple.com/us/podcast/products-that-count-podcast/id1038890550?mt=2) - 针对产品制造商，数据思维者和创新者的播客。
 
 ### 课程
-- [ ] [Design Workflow with Sketch](https://github.com/facebook/pop) - An e-course from Clark Wimberly at InVision.
-- [ ] [Designlab](https://www.producthunt.com/r/b1ef8b4e5a/11546) - Learn design by doing, with hands-on projects & mentorship.
-- [ ] [You're Hired: How to Get a Job in Silicon Valley](https://www.udemy.com/youre-hired-how-to-get-a-job-in-silicon-valley/) - Learn how to get a job in Silicon Valley
-- [ ] [The Non-Technical Person's guide to building products & apps](https://www.udemy.com/launch-your-idea-idea-to-mvp-with-no-cto-and-no-coding/learn/v4/overview) - Go from Idea to MVP with no CTO and no coding. Launch your business, app, or product idea cheaply, quickly, and easily.
-- [ ] [Product Management Coursea](https://www.coursera.org/specializations/product-management) - Become an effective Software Product Manager by mastering Agile software development practices to confidently interact with clients and manage a development team.
-- [ ] [Product Management Course Brainstation - Toronto](https://github.com/intuit/AnimationEngine) - TRANSFORM YOUR IDEA INTO A PRODUCT.
-- [ ] [Product School - USA](http://www.productschool.com) - Get a Product Manager Job
-- [ ] [Product Managment - General Assembly](https://generalassemb.ly/education/product-management) - 10-WEEK PART-TIME COURSE
-- [ ] [How to build a product roadmap everyone understands - Free e-Course](https://get.prodpad.com/theme-based-roadmap-course/) - How to build a roadmap
-- [ ] [Building a Pre-Launch Marketing Strategy for Beginners](https://www.udemy.com/building-a-pre-launch-marketing-strategy-for-beginners/) - Build your own Pre-launch Marketing Strategy for your company rollout or feature
-- [ ] [Idea To Revenue Masterclass](http://productmanageracademy.teachable.com/courses/ideatorevenuemasterclass) - Become a Strategic Product Leader: Validate Ideas, Launch Great Products, Deliver Business Results.
+- [ ] [Sketch工作流](https://github.com/facebook/pop) - 来自InVision的Clark Wimberly的电子课程
+- [ ] [Designlab](https://www.producthunt.com/r/b1ef8b4e5a/11546) - 通过做实验、实践项目和指导来学习设计
+- [ ] [你被雇佣了：如何在硅谷找工作](https://www.udemy.com/youre-hired-how-to-get-a-job-in-silicon-valley/) - 了解如何在硅谷找工作
+- [ ] [非技术人员构建产品和应用程序指南](https://www.udemy.com/launch-your-idea-idea-to-mvp-with-no-cto-and-no-coding/learn/v4/overview) - 从创意到MVP，没有CTO，没有编码。快速，轻松地启动业务、应用程序或产品创意。
+- [ ] [产品管理课程](https://www.coursera.org/specializations/product-management) - 通过掌握敏捷开发实践，自信地与客户进行交流并管理开发团队，成为一名高效的产品经理。
+- [ ] [产品管理课程脑力站点 - Toronto](https://github.com/intuit/AnimationEngine) - 把想法变成产品
+- [ ] [产品学校 - 美国](http://www.productschool.com) - 获得产品经理工作
+- [ ] [产品管理 - 大会](https://generalassemb.ly/education/product-management) - 10周业余课程
+- [ ] [如何构建一个大家都明白的产品路径 - 免费电子课程](https://get.prodpad.com/theme-based-roadmap-course/) - 如何构建路径
+- [ ] [为初学者建立预发行营销策略](https://www.udemy.com/building-a-pre-launch-marketing-strategy-for-beginners/) - 为推出您自己的公司或发布功能构建预演营销策略
+- [ ] [创意到收益大师班](http://productmanageracademy.teachable.com/courses/ideatorevenuemasterclass) - 成为战略性产品领导者：验证理念，推出优质产品，提供业务成果
 
 ### 博客
 - [ ] [The Cranky Product Manager](http://crankypm.com/) - A blog on product management, product marketing, and the ugly side of software product development. As of April 2015, the author, Sue Raisty, no longer writes, but she has a large backlog of great posts.

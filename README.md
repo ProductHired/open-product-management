@@ -446,29 +446,29 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
 #### 聚会
 ##### 北美
-- [ ] [Product Tank](http://www.meetup.com/producttanknyc/) - Product Tank NY Meetups
-- [ ] [Product Austin](http://www.meetup.com/ProductAustin/) - The largest Product Meet-up in Austin, TX
-- [ ] [The Product Group](http://www.meetup.com/TheProductGroup/) - The Product Group New York
-- [ ] [Lean Product & Lean UX Silicon Valley](http://www.meetup.com/lean-product/) - People interested in applying Lean Startup, Lean UX, and Agile principles to design and develop products that customers love
-- [ ] [Product Management Fast Track](http://www.meetup.com/ProductManagementFastTrack/) - Product Management in San Francisco
-- [ ] [SUPA Product Talks SFBay](http://www.meetup.com/SUPAProductTalks/) - SUPA Product Academy in San Francisco
-- [ ] [Silicon Valley Strategy, Innovation and Product Management](http://www.meetup.com/Silicon-Valley-Product-Management/) - Product Management in Cupertino, CA
-- [ ] [Startup Metrics Toronto, Canada](http://www.meetup.com/Startup-Metrics-Toronto/) - A group for entrepreneurs and product managers to discuss the metrics that matter to their startups.
-- [ ] [Product School - San Francisco Meetup](http://www.meetup.com/productmanagementSF/) - Product School Meetup
-- [ ] [Product School - Silicon Valley Meetup](http://www.meetup.com/productmanagementSV/) - Product School Meetup
-- [ ] [Product School - New York Meetup](http://www.meetup.com/productmanagementNY/) - Product School Meetup
-- [ ] [Product School - Los Angeles Meetup](http://www.meetup.com/productmanagementLA/) - Product School Meetup
-- [ ] [Product School - Boston Meetup](http://www.meetup.com/productmanagementBOS/) - Product School Meetup
+- [ ] [产品罐](http://www.meetup.com/producttanknyc/) - 产品罐纽约聚会
+- [ ] [产品奥斯汀](http://www.meetup.com/ProductAustin/) - 在德克萨斯州奥斯汀举行的最大的产品会议
+- [ ] [产品组](http://www.meetup.com/TheProductGroup/) - 纽约产品组
+- [ ] [硅谷精益产品和精益UX](http://www.meetup.com/lean-product/) - 有兴趣应用精益创业，精益UX和敏捷原则来设计和开发客户喜爱的产品的一群人
+- [ ] [产品管理快速路](http://www.meetup.com/ProductManagementFastTrack/) - 产品管理在旧金山
+- [ ] [SUPA 产品谈 SFBay](http://www.meetup.com/SUPAProductTalks/) - SUPA产品学院在旧金山
+- [ ] [硅谷战略，创新与产品管理](http://www.meetup.com/Silicon-Valley-Product-Management/) - 产品管理在加州库比蒂诺
+- [ ] [加拿大多伦多创业指标](http://www.meetup.com/Startup-Metrics-Toronto/) - 一组企业家和产品经理讨论与其创业公司相关的指标。
+- [ ] [产品学校 - 旧金山分会](http://www.meetup.com/productmanagementSF/) - 产品学校分会
+- [ ] [产品学校 - 硅谷分会](http://www.meetup.com/productmanagementSV/) -  产品学校分会
+- [ ] [产品学校 - 纽约分会](http://www.meetup.com/productmanagementNY/) -  产品学校分会
+- [ ] [产品学校 - 洛杉矶分会](http://www.meetup.com/productmanagementLA/) -  产品学校分会
+- [ ] [产品学校 - 波士顿分会](http://www.meetup.com/productmanagementBOS/) -  产品学校分会
 
 ##### 欧洲
-- [ ] [The Product Group London](http://www.meetup.com/TheProductGroupLondon/) - The Product Group London
+- [ ] [伦敦产品小组](http://www.meetup.com/TheProductGroupLondon/) - 伦敦的产品小组
 
 ##### 亚洲
-- [ ] [Product Management Singapore Facebook](https://www.facebook.com/groups/prodmgmtsg/) - Product Management SG Community
-- [ ] [Product Camp - Singapore Meetup](http://www.meetup.com/Product-Camp-Singapore/) - Product Camp Meetup
-- [ ] [Product Hunt - Singapore Meetup](http://www.meetup.com/Product-Hunt-Singapore-Meetup-Group/) - Product Hunt Meetup
-- [ ] [Product Talks - Singapore Meetup](http://www.meetup.com/producttalkssingapore/) - Product Talks Meetup
-- [ ] [Product Tank - Singapore Meetup](http://www.meetup.com/ProductTank-Singapore/) - Product Tank Meetup
+- [ ] [产品管理在 Facebook 新加坡](https://www.facebook.com/groups/prodmgmtsg/) - 产品管理聚会在新加坡
+- [ ] [产品营地 - 新加坡分会](http://www.meetup.com/Product-Camp-Singapore/) - 产品营地分会
+- [ ] [产品搜罗 - 新加坡聚会](http://www.meetup.com/Product-Hunt-Singapore-Meetup-Group/) - 产品搜罗分会
+- [ ] [产品谈 - 新加坡分会](http://www.meetup.com/producttalkssingapore/) - 产品谈分会
+- [ ] [产品罐- 新加坡分会](http://www.meetup.com/ProductTank-Singapore/) - 产品谈分会
 
 #### 会议
 - [ ] [Mind the Product Conference](http://mtpcon.com/sf/) - The Conference for Passionate Product People

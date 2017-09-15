@@ -384,12 +384,12 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [ ] [创意到收益大师班](http://productmanageracademy.teachable.com/courses/ideatorevenuemasterclass) - 成为战略性产品领导者：验证理念，推出优质产品，提供业务成果
 
 ### 博客
-- [ ] [The Cranky Product Manager](http://crankypm.com/) - A blog on product management, product marketing, and the ugly side of software product development. As of April 2015, the author, Sue Raisty, no longer writes, but she has a large backlog of great posts.
-- [ ] [Street Smart Product Manager](http://streetsmartproductmanager.com/) - Thriving in the urban jungle of product.
-- [ ] [Product Talk](http://www.producttalk.org/) - Make better product decisions.
-- [ ] [Silicon Valley Product Group](http://svpg.com/articles/) - Shares lessons learned and knowledge of product management.
-- [ ] [The Clever PM](http://thecleverpm.com/) - Tips, tricks, and hacks that help you to be a better, more clever, Product Manager.
-- [ ] [Mind the Product](http://www.mindtheproduct.com/) - Product Management Blog and events.
+- [ ] [曲奇产品经理](http://crankypm.com/) - 关于产品管理，产品营销和软件产品开发的丑陋的博客。 截至2015年4月，作者苏·雷斯蒂（Sue Raisty）不再写作，但是她的存货已经够多了。
+- [ ] [街头智慧产品经理](http://streetsmartproductmanager.com/) - 在城市丛林中蓬勃发展
+- [ ] [产品谈](http://www.producttalk.org/) - 做出更好的产品决策
+- [ ] [硅谷产品集团](http://svpg.com/articles/) - 分享经验教训和产品管理知识
+- [ ] [聪明的产品狗](http://thecleverpm.com/) - 帮你成为一名更好、更聪明的产品经理的奇技淫巧。
+- [ ] [产品之思](http://www.mindtheproduct.com/) - 产品管理博客和有关事件播报
 
 
 

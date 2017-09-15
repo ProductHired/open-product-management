@@ -64,7 +64,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
  # 要点1: 产品管理
  ### 什么是产品管理
- - [ ] [一个产品经理的工作](https://medium.com/@joshelman/a-product-managers-job-63c09a43d0ec)  - Josh Elman
+ - [ ] [一个产品经理的工作](https://medium.com/@joshelman/a-product-managers-job-63c09a43d0ec) - Josh Elman
  - [ ] [产品经理：这些“迷你CEO”是谁，他们做什么？](http://thenextweb.com/insider/2013/10/12/product-managers-mini-ceos/) - Ken Yeung
  - [ ] [产品经理究竟是什么？](http://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/) - Martin Eriksonn
  - [ ] [什么是产品管理?](http://www.sachinrekhi.com/blog/2013/01/28/what-is-product-management) - Sachin Rekhi
@@ -209,27 +209,27 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  # 要点2: 资源
 
  ### 资源库
- - [ ] [Software Product Management Stack](http://softwareproductmanagement.co/) - A curated list of Product Manager articles and resources
- - [ ] [End-End Product Management Lifecycle](http://attackwithnumbers.com/i-love-product-management) - A list of articles from what is it to becoming a great Product Manager
- - [ ] [The One-Stop Product Management Guide](http://www.digitalfriday.co/productmanagementguide/) - A framework and list of articles to help product managers build, grow and manage digital products
+ - [ ] [软件产品管理栈](http://softwareproductmanagement.co/) - 有关产品经理的文章以及资源的策划清单
+ - [ ] [端到端，产品管理生命周期](http://attackwithnumbers.com/i-love-product-management) - 怎么成为伟大的产品经理的文章列表
+ - [ ] [一站式产品管理指南](http://www.digitalfriday.co/productmanagementguide/) - 帮助产品经理构建、增长和管理数字产品的框架和文章列表
 
  ### 设计
- - [ ] [Kindling](https://www.producthunt.com/r/9c7a76d74a/7801) - Idea management tool
- - [ ] [Designer News Market](https://www.producthunt.com/r/575fefd1ae2db4/47337) - The best design resources for your next project
- - [ ] [Designer Mill](https://www.producthunt.com/r/815baac8e14f4b/33101) - Collection of free design resources
- - [ ] [Designer List](https://www.producthunt.com/r/4f7835df27673a/32477) - Global directory of product designers
- - [ ] [Design Research Technique](https://www.producthunt.com/r/2615fd1934/15385) - Huge repository of design techniques for every project stage
- - [ ] [Designing Products People Love](https://www.producthunt.com/r/2f8dfe830b3574/45434) - How great designers create successful products.
- - [ ] [Design for the Web](https://www.producthunt.com/r/6ed6f8afa9/2604) - Guide to web design by Mark Boulton.
- - [ ] [Visage 3.0](https://www.producthunt.com/r/81998014e017b1/52612) - The design tool for content marketers.
- - [ ] [Figma](https://www.producthunt.com/r/a5cdda07d4a14c/42984) - The collaborative interface design tool.
- - [ ] [Form](https://www.producthunt.com/r/71c2910d84/7677) - Interaction & prototyping design tool for iOS apps.
- - [ ] [Facebook Design Resources](https://www.producthunt.com/r/e675548a07e35f/36451) - A collection of free resources made by designers at Facebook
- - [ ] [Coverr](https://www.producthunt.com/r/294964dfb88572/24882) - Beautiful, free videos for your homepage background.
- - [ ] [Better Error Pages](https://www.producthunt.com/r/404ddbd2142266/20587) - Build free 404, 503 and maintenance pages in 60 seconds
- - [ ] [Adobe XD](https://www.producthunt.com/r/cdb6ba5ab88e20/35934) - An end-to-end solution for designing & prototyping
- - [ ] [UI Movement](https://www.producthunt.com/r/f02c9f1ed0a718/30995) - The best UI design inspiration, daily
- - [ ] [IconStore](https://www.producthunt.com/r/e53dd0bd06c614/26976) - Free icon packs by first-class designers
+ - [ ] [Kindling](https://www.producthunt.com/r/9c7a76d74a/7801) - 灵感管理工具
+ - [ ] [Designer News Market](https://www.producthunt.com/r/575fefd1ae2db4/47337) - 为您的下一个项目提供最好的设计资源
+ - [ ] [Designer Mill](https://www.producthunt.com/r/815baac8e14f4b/33101) - 免费设计资源集锦
+ - [ ] [Designer List](https://www.producthunt.com/r/4f7835df27673a/32477) - 产品设计师的全球目录
+ - [ ] [Design Research Technique](https://www.producthunt.com/r/2615fd1934/15385) - 每个项目阶段设计技术的巨大资料库
+ - [ ] [Designing Products People Love](https://www.producthunt.com/r/2f8dfe830b3574/45434) - 伟大的设计师创造成功的产品
+ - [ ] [Design for the Web](https://www.producthunt.com/r/6ed6f8afa9/2604) - Mark Boulton 网页设计指南
+ - [ ] [Visage 3.0](https://www.producthunt.com/r/81998014e017b1/52612) - 内容营销人员的设计工具
+ - [ ] [Figma](https://www.producthunt.com/r/a5cdda07d4a14c/42984) - 协作界面设计工具
+ - [ ] [Form](https://www.producthunt.com/r/71c2910d84/7677) - iOS应用程序的交互和原型设计工具
+ - [ ] [Facebook Design Resources](https://www.producthunt.com/r/e675548a07e35f/36451) - Facebook设计师收集的免费资源
+ - [ ] [Coverr](https://www.producthunt.com/r/294964dfb88572/24882) - 为你的首页提供漂亮、免费的视频背景
+ - [ ] [Better Error Pages](https://www.producthunt.com/r/404ddbd2142266/20587) - 在60秒内构建免费的404、503和维护页面
+ - [ ] [Adobe XD](https://www.producthunt.com/r/cdb6ba5ab88e20/35934) - 一种用于设计和原型的端到端解决方案
+ - [ ] [UI Movement](https://www.producthunt.com/r/f02c9f1ed0a718/30995) - 每天都有设计灵感
+ - [ ] [IconStore](https://www.producthunt.com/r/e53dd0bd06c614/26976) - 一流设计师提供的免费图标包
 
  ### 开发
  - [ ] [Craft - Collaborative Place for Product Managers](https://craft.io)

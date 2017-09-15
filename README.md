@@ -234,9 +234,9 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  ### 开发
  - [ ] [Craft - Collaborative Place for Product Managers](https://craft.io)
  - [ ] [Meteor - The Fastest way to build Javascript Apps](https://www.meteor.com/)
- - [ ] [Design+code](https://www.producthunt.com/r/5f7f813faa/2144) - Learn iOS design and Xcode
+ - [ ] [Design+code](https://www.producthunt.com/r/5f7f813faa/2144) - 学习iOS设计和Xcode
  - [ ] [Teaching App Development with Swift](https://www.producthunt.com/r/44f7e92aa6596c/25588) - A Github-hosted curriculum on Swift for teachers by Apple
- - [ ] [Android Studio 2.0](https://www.producthunt.com/r/a296766b160574/41882) - The official IDE for Android application development
+ - [ ] [Android Studio 2.0](https://www.producthunt.com/r/a296766b160574/41882) - Android应用程序开发的官方IDE
  - [ ] [Xcode 7.0 - iOS Development](https://www.producthunt.com/r/080e34d50e5f68/33913) - Swift 2 and SDKs for iOS 9, watchOS 2, and OS X 10.11
  - [ ] [JavaScript and JQuery](https://www.producthunt.com/r/738cfc20b6822c/34969) - Interactive front-end web development
  - [ ] [Web Starter Kit by Google](https://www.producthunt.com/r/8784bae2c3/4429) - Boilerplate & Tooling for Multi-Device Development
@@ -253,19 +253,19 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [ ] [Your First Web App](https://www.producthunt.com/r/acc2f8564f/4997) - Pulling your hair out trying to learn how to code?
 
  ### 模拟和营销
- - [ ] [moqups](https://moqups.com/) - A streamlined web app that helps you create and collaborate on 
-     wireframes, mockups, diagrams and prototypes.
- - [ ] [Typeform](https://www.producthunt.com/r/87fb47ed48/7803) - Generate surveys in seconds.
- - [ ] [Balsamiq](https://www.producthunt.com/r/544603151e/7808) - Rapid wireframing tool.
- - [ ] [Tweetdeck](https://www.producthunt.com/r/1e570814c6/7906) - Power-user interface for Twitter.
- - [ ] [Flinto for Mac](https://www.producthunt.com/r/fe99cecc204527/31866) - The prototyping tool designers have been waiting for.
- - [ ] [EdisonPlan](https://www.producthunt.com/r/25c938abb27313/33341) - The ultimate tool to plan & launch your product.
- - [ ] [Precursor](https://precursorapp.com) - A real-time collaborative prototyping tool
- - [ ] [App Screenshot Builder](https://www.producthunt.com/r/01acf800c8/15192) - Create gorgeous images for your App Store page in minutes.
- - [ ] [StartupResources.io](https://www.producthunt.com/r/38a39dc7c63715/40773) - Tightly curated lists of the best startup tools
+ - [ ] [moqups](https://moqups.com/) - 一个简化的web应用程序，可以帮助您创建和协作
+      线框，模型，图表和原型
+ - [ ] [Typeform](https://www.producthunt.com/r/87fb47ed48/7803) - 秒秒钟生成调查表单
+ - [ ] [Balsamiq](https://www.producthunt.com/r/544603151e/7808) - 快速线框工具
+ - [ ] [Tweetdeck](https://www.producthunt.com/r/1e570814c6/7906) - 加强型twitter用户界面
+ - [ ] [Flinto for Mac](https://www.producthunt.com/r/fe99cecc204527/31866) - 设计师期待的原型工具
+ - [ ] [EdisonPlan](https://www.producthunt.com/r/25c938abb27313/33341) - 规划和推出产品的终极工具
+ - [ ] [Precursor](https://precursorapp.com) - 实时原型协作工具
+ - [ ] [App Screenshot Builder](https://www.producthunt.com/r/01acf800c8/15192) - 分分钟创建华丽的App Store页面图片 
+ - [ ] [StartupResources.io](https://www.producthunt.com/r/38a39dc7c63715/40773) - 最佳创业精简工具集
 
  ### 团队管理
- - [ ] [Airtable](https://airtable.com) - Spreadsheet, meet database.
+ - [ ] [Airtable](https://airtable.com) - 满足数据库要求的电子表格
  - [ ] [Trello](https://trello.com/?ref=producthunt) - Trello makes it easy to organize anything with anyone
  - [ ] [Google Docs](https://www.producthunt.com/r/dfc72883e5/7810) - Create and share your work online
  - [ ] [Slack](https://slack.com) - Team communication for the 21st century

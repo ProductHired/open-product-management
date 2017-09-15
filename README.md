@@ -300,22 +300,22 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
 ### 书籍
 ##### 设计
-- [ ] [Inspired - How to Create Products Customers Love](http://www.amazon.com/gp/product/B001AQ95UY?btkr=1) - Marty Cagan  
-- [ ] [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things) - Donald Norman
-- [ ] [Don't Make Me Think: A Common Sense Approach to Web Usability, 2nd Edition](http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758) - Steve Krug
+- [ ] [启示录](http://www.amazon.com/gp/product/B001AQ95UY?btkr=1) - Marty Cagan  
+- [ ] [设计心理学](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things) - Donald Norman
+- [ ] [点石成金:访客至上的网页设计秘笈(原书第2版)](http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758) - Steve Krug
 
 ##### 创业
-- [ ] [The 4 steps to the Epiphany](http://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507) - Steve Blank
-- [ ] [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](http://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417) - A handbook for designing tomorrow’s enterprises
+- [ ] [四步创业法](http://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507) - Steve Blank
+- [ ] [商业模式新生代](http://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417) - 未来企业设计手册
 - [ ] [Beginning Customer Development](https://app.convertkit.com/kevindewalt/beginning-customer-development_ebook) - Kevin Dewalt
-- [ ] [The Innovator’s Dilemma](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) - Clayton Christensen
+- [ ] [创新者的窘境](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) - Clayton Christensen
 - [ ] [The Innovator's Solution: Creating and Sustaining Successful Growth](https://www.amazon.com/Innovators-Solution-Creating-Sustaining-Successful/dp/1578518520) - Clayton Christensen
-- [ ] [The Innovator's DNA: Mastering the Five Skills of Disruptive Innovators](https://www.amazon.com/Innovators-DNA-Mastering-Skills-Disruptive/dp/1422134814/ref=asap_bc?ie=UTF8) - Clayton Christensen
-- [ ] [It’s Your Ship: Management Techniques from the Best Damn Ship in the Navy​](http://www.amazon.com/Its-Your-Ship-Management-Techniques/dp/145552302X) - Michael Abrashoff
-- [ ] [The Hard Thing About Hard Things](http://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/) - Ben Horowitz
-- [ ] [Traction](http://www.amazon.com/Traction-Startup-Achieve-Explosive-Customer-ebook/dp/B00TY3ZOMS) - Gabriel Weinberg
+- [ ] [创新者的基因](https://www.amazon.com/Innovators-DNA-Mastering-Skills-Disruptive/dp/1422134814/ref=asap_bc?ie=UTF8) - Jeff Dyer
+- [ ] [这是你的船](http://www.amazon.com/Its-Your-Ship-Management-Techniques/dp/145552302X) - Michael Abrashoff
+- [ ] [创业维艰](http://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/) - Ben Horowitz
+- [ ] [掌控力:用创业运作系统实现企业卓越运营](http://www.amazon.com/Traction-Startup-Achieve-Explosive-Customer-ebook/dp/B00TY3ZOMS) - Gabriel Weinberg
 - [ ] [The Lean Product Playbook](http://www.amazon.com/The-Lean-Product-Playbook-Innovate/dp/1118960874) - Dan Olsen
-- [ ] [Hooked: How to build habit forming products](http://www.amazon.com/Hooked-How-Build-Habit-Forming-Products-ebook/dp/B00HJ4A43S) - Nir Eyal
+- [ ] [上瘾:让用户养成使用习惯的四大产品逻辑](http://www.amazon.com/Hooked-How-Build-Habit-Forming-Products-ebook/dp/B00HJ4A43S) - Nir Eyal
 - [ ] [Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers](http://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123) - Geoffrey A. Moore
 
 ##### 营销

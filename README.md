@@ -18,22 +18,22 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
 ### 内容
 
-- [要点1: 产品管理](#要点1: 产品管理)
-    + [什么是产品管理](#什么是产品管理)
-    + [你真的适合做产品经理吗?](#你真的适合做产品经理吗?)
-    + [成为产品大师](#成为产品大师)
-    + [构建伟大产品](#构建伟大产品)
-    + [功夫在诗外](#功夫在诗外)
-    + [关于需求](#关于需求)
-    + [路线图、规划和优先级](#路线图、规划和优先级)
-    + [如何与工程师一起工作](#如何与工程师一起工作)
-    + [用户体验](#用户体验)
-    + [如何和设计师一起工作](#如何和设计师一起工作)
-    + [提供和接受反馈](#提供和接受反馈)
-    + [交付和评估产品](#交付和评估产品)
-    + [组织你的团队](#组织你的团队)
-    + [成为现场最佳人选](#成为现场最佳人选)
-- [要点2: 资源](#要点2: 资源)
+- [要点1: 产品管理](#要点1:产品管理)
+    - [什么是产品管理](#什么是产品管理)
+    - [你真的适合做产品经理吗?](#你真的适合做产品经理吗?)
+    - [成为产品大师](#成为产品大师)
+    - [构建伟大产品](#构建伟大产品)
+    - [功夫在诗外](#功夫在诗外)
+    - [关于需求](#关于需求)
+    - [路线图、规划和优先级](#路线图、规划和优先级)
+    - [如何与工程师一起工作](#如何与工程师一起工作)
+    - [用户体验](#用户体验)
+    - [如何和设计师一起工作](#如何和设计师一起工作)
+    - [提供和接受反馈](#提供和接受反馈)
+    - [交付和评估产品](#交付和评估产品)
+    - [组织你的团队](#组织你的团队)
+    - [成为现场最佳人选](#成为现场最佳人选)
+- [要点2: 资源](#要点2:资源)
     - [设计](#设计)
     - [开发](#开发)
     - [模拟和营销](#模拟和营销)
@@ -44,7 +44,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
     - [播客](#播客)
     - [在线课程](#课程)
     - [博客](#博客)
-- [要点3: 现实生活与产品管理](#要点3: 现实生活与产品管理)
+- [要点3: 现实生活与产品管理](#要点3:现实生活与产品管理)
     - [面试](#面试)
     - [产品案例学习](#产品案例学习)
     - [产品文档范例](#产品文档范例)
@@ -61,7 +61,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [特别感谢](#特别感谢)
 - [想要为此清单做贡献](#想要为此清单做贡献)
 
-# 要点1: 产品管理
+# 要点1:产品管理
 
 ### 什么是产品管理
 - [ ] [一个产品经理的工作](https://medium.com/@joshelman/a-product-managers-job-63c09a43d0ec) - Josh Elman
@@ -206,7 +206,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [ ] [什么成就了伟大的产品经理](http://hatchery.vc/what-makes-a-great-product-manager/) - Erik Torenberg
 - [ ] [足球教练是如何教导我像老板一样管理产品的](https://medium.com/@biggiesu/how-a-football-coach-taught-me-to-product-manage-like-a-boss-926ab5c39156) - Mike Su
 
-# 要点2: 资源
+# 要点2:资源
 
 ### 资源库
 - [ ] [软件产品管理栈](http://softwareproductmanagement.co/) - 有关产品经理的文章以及资源的策划清单
@@ -377,7 +377,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [ ] [非技术人员构建产品和应用程序指南](https://www.udemy.com/launch-your-idea-idea-to-mvp-with-no-cto-and-no-coding/learn/v4/overview) - 从创意到MVP，没有CTO，没有编码。快速，轻松地启动业务、应用程序或产品创意。
 - [ ] [产品管理课程](https://www.coursera.org/specializations/product-management) - 通过掌握敏捷开发实践，自信地与客户进行交流并管理开发团队，成为一名高效的产品经理。
 - [ ] [产品管理课程脑力站点 - Toronto](https://github.com/intuit/AnimationEngine) - 把想法变成产品
-- [ ] [产品学校 - 美国](http://www.productschool.com) - 获得产品经理工作
+- [ ] [产品学校`Product School` - 美国](http://www.productschool.com) - 获得产品经理工作
 - [ ] [产品管理 - 大会](https://generalassemb.ly/education/product-management) - 10周业余课程
 - [ ] [如何构建一个大家都明白的产品路径 - 免费电子课程](https://get.prodpad.com/theme-based-roadmap-course/) - 如何构建路径
 - [ ] [为初学者建立预发行营销策略](https://www.udemy.com/building-a-pre-launch-marketing-strategy-for-beginners/) - 为推出您自己的公司或发布功能构建预演营销策略
@@ -386,14 +386,14 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 ### 博客
 - [ ] [曲奇产品经理](http://crankypm.com/) - 关于产品管理，产品营销和软件产品开发的丑陋的博客。 截至2015年4月，作者苏·雷斯蒂（Sue Raisty）不再写作，但是她的存货已经够多了。
 - [ ] [街头智慧产品经理](http://streetsmartproductmanager.com/) - 在城市丛林中蓬勃发展
-- [ ] [产品谈](http://www.producttalk.org/) - 做出更好的产品决策
+- [ ] [产品谈`Product Talks`](http://www.producttalk.org/) - 做出更好的产品决策
 - [ ] [硅谷产品集团](http://svpg.com/articles/) - 分享经验教训和产品管理知识
 - [ ] [聪明的产品狗](http://thecleverpm.com/) - 帮你成为一名更好、更聪明的产品经理的奇技淫巧。
 - [ ] [产品之思](http://www.mindtheproduct.com/) - 产品管理博客和有关事件播报
 
 
 
-# 要点3: 现实生活与产品管理
+# 要点3:现实生活与产品管理
 ### 面试
 - [ ] [Janna Bastow谈“如何进入产品管理”](https://www.youtube.com/watch?v=p9Ubfv5v2i8) - 前ProdPad创始人Janna Bastow和前产品经理/顾问之间的对话
 - [ ] [Eva Andreasson谈“如何进入产品管理”](https://www.youtube.com/watch?v=tIQLhdMrK2Y) - Cloudera高级产品经理Eva Andreasson和Yammer产品经理Jason Shah之间的对话
@@ -408,15 +408,15 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [ ] [Marty Cagan等人为什么喜欢这个角色，他们在招聘毕业生时寻找什么，以及他们给产品经理候选人的建议](https://product.careers/stories/)
 
 ### 产品案例学习
-- [ ] [Building an Enterprise Product: Yammer's Development Methodology](https://www.youtube.com/watch?v=N8wdRZDv0ks) - Jason Shah, product manager at Yammer, shares aspects of Yammer's product development methodology.
-- [ ] [Product Hunt’s Rise - Case Study](https://medium.com/@theunixbeard/product-hunt-s-rise-d49249a1a2c0#.bpns2qcg3) - Product Hunt’s Rise
-- [ ] [Facebook Case Study](http://www.slideshare.net/misteroo/facebook-analysis-and-study/17-Facebook_is_offering_new_advertisingproducts) - Facebook Analysis and Study
-- [ ] [Twitter Case Study](http://www.thetwittercasestudy.com/the-case-study.html) - The Twitter Case Study from the Dimensions of Strategy Series
-- [ ] [Early Google Case Study](http://www.slideshare.net/ashwin_sharma/google-case-study) - Google Case Study
-- [ ] [Amazon Case Study](http://www.ecommerce-digest.com/amazon-case-study.html) - Amazon Case Study
-- [ ] [Apple iPod Case Study](http://www.ecommerce-digest.com/apple-ipod-case-study.html) - Apple Case Study
-- [ ] [Netflix Case Study](http://www.ecommerce-digest.com/netflix-case-study.html) - Netflix Case Study
-- [ ] [Box Case Study](https://www.youtube.com/watch?v=qeY2BRaS11g) - Box Case Study
+- [ ] [建立企业级产品：Yammer的发展方法](https://www.youtube.com/watch?v=N8wdRZDv0ks) - Yammer产品经理Jason Shah分享了Yammer产品开发方法的各个方面
+- [ ] [产品搜罗`Product Hunt`的崛起 - 案例学习](https://medium.com/@theunixbeard/product-hunt-s-rise-d49249a1a2c0#.bpns2qcg3) - 产品搜罗`Product Hunt`崛起
+- [ ] [Facebook 案例学习](http://www.slideshare.net/misteroo/facebook-analysis-and-study/17-Facebook_is_offering_new_advertisingproducts) - Facebook 分析和学习
+- [ ] [Twitter 案例学习](http://www.thetwittercasestudy.com/the-case-study.html) - 从系列战略对 Twitter 案例进行学习
+- [ ] [早期 Google 案例学习](http://www.slideshare.net/ashwin_sharma/google-case-study) - Google 案例学习
+- [ ] [亚马逊案例学习](http://www.ecommerce-digest.com/amazon-case-study.html) - 亚马逊案例学习
+- [ ] [苹果 iPod 案例学习](http://www.ecommerce-digest.com/apple-ipod-case-study.html) - 苹果案例学习
+- [ ] [Netflix 案例学习](http://www.ecommerce-digest.com/netflix-case-study.html) - Netflix 案例学习
+- [ ] [Box 案例学习](https://www.youtube.com/watch?v=qeY2BRaS11g) - Box 案例学习
 
 ### 产品文档范例
 - [ ] [How I would grow Thumbtack’s Customer Side of the Marketplace — Product Spec](https://medium.com/@ivanTr0n/how-i-would-grow-thumbtack-s-customer-side-of-the-marketplace-product-spec-edc5c0521d08#.o9octd4pa) - Sample Product Spec about Thumbtack
@@ -437,16 +437,16 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 ### 加入社区
 
 #### 小组
-- [ ] [产品之思](http://www.mindtheproduct.com) - 产品之思社区网站和博客
-- [ ] [Product School](http://www.productschool.com) - 产品学校官网
+- [ ] [产品之思`Mind the Product`](http://www.mindtheproduct.com) - 产品之思社区网站和博客
+- [ ] [产品学校`Product school`](http://www.productschool.com) - 产品学校官网
 - [ ] [Designer Chat](https://www.producthunt.com/r/85601ad255/3697) - 设计师新闻社区Slack私密群。
 - [ ] [产品经理 HQ](https://www.productmanagerhq.com/join-the-community/) - 产品经理 HQ - slack小组
-- [ ] [产品营地](http://www.productcamp.org) - 产品营地社区网站和博客
+- [ ] [产品营地`Product Camp`](http://www.productcamp.org) - 产品营地社区网站和博客
 
 
 #### 聚会
 ##### 北美
-- [ ] [产品罐](http://www.meetup.com/producttanknyc/) - 产品罐纽约聚会
+- [ ] [产品罐`Product Tank`](http://www.meetup.com/producttanknyc/) - 产品罐纽约聚会
 - [ ] [产品奥斯汀](http://www.meetup.com/ProductAustin/) - 在德克萨斯州奥斯汀举行的最大的产品会议
 - [ ] [产品组](http://www.meetup.com/TheProductGroup/) - 纽约产品组
 - [ ] [硅谷精益产品和精益UX](http://www.meetup.com/lean-product/) - 有兴趣应用精益创业，精益UX和敏捷原则来设计和开发客户喜爱的产品的一群人
@@ -454,21 +454,21 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [ ] [SUPA 产品谈 SFBay](http://www.meetup.com/SUPAProductTalks/) - SUPA产品学院在旧金山
 - [ ] [硅谷战略，创新与产品管理](http://www.meetup.com/Silicon-Valley-Product-Management/) - 产品管理在加州库比蒂诺
 - [ ] [加拿大多伦多创业指标](http://www.meetup.com/Startup-Metrics-Toronto/) - 一组企业家和产品经理讨论与其创业公司相关的指标。
-- [ ] [产品学校 - 旧金山分会](http://www.meetup.com/productmanagementSF/) - 产品学校分会
-- [ ] [产品学校 - 硅谷分会](http://www.meetup.com/productmanagementSV/) -  产品学校分会
-- [ ] [产品学校 - 纽约分会](http://www.meetup.com/productmanagementNY/) -  产品学校分会
-- [ ] [产品学校 - 洛杉矶分会](http://www.meetup.com/productmanagementLA/) -  产品学校分会
-- [ ] [产品学校 - 波士顿分会](http://www.meetup.com/productmanagementBOS/) -  产品学校分会
+- [ ] [产品学校`Product school` - 旧金山分会](http://www.meetup.com/productmanagementSF/) - 产品学校分会
+- [ ] [产品学校`Product school` - 硅谷分会](http://www.meetup.com/productmanagementSV/) -  产品学校分会
+- [ ] [产品学校`Product school` - 纽约分会](http://www.meetup.com/productmanagementNY/) -  产品学校分会
+- [ ] [产品学校`Product school` - 洛杉矶分会](http://www.meetup.com/productmanagementLA/) -  产品学校分会
+- [ ] [产品学校`Product school` - 波士顿分会](http://www.meetup.com/productmanagementBOS/) -  产品学校分会
 
 ##### 欧洲
 - [ ] [伦敦产品小组](http://www.meetup.com/TheProductGroupLondon/) - 伦敦的产品小组
 
 ##### 亚洲
 - [ ] [产品管理在 Facebook 新加坡](https://www.facebook.com/groups/prodmgmtsg/) - 产品管理聚会在新加坡
-- [ ] [产品营地 - 新加坡分会](http://www.meetup.com/Product-Camp-Singapore/) - 产品营地分会
-- [ ] [产品搜罗 - 新加坡聚会](http://www.meetup.com/Product-Hunt-Singapore-Meetup-Group/) - 产品搜罗分会
-- [ ] [产品谈 - 新加坡分会](http://www.meetup.com/producttalkssingapore/) - 产品谈分会
-- [ ] [产品罐- 新加坡分会](http://www.meetup.com/ProductTank-Singapore/) - 产品谈分会
+- [ ] [产品营地`Product Camp` - 新加坡分会](http://www.meetup.com/Product-Camp-Singapore/) - 产品营地分会
+- [ ] [产品搜罗`Product Hunt` - 新加坡聚会](http://www.meetup.com/Product-Hunt-Singapore-Meetup-Group/) - 产品搜罗分会
+- [ ] [产品谈`Product Talks` - 新加坡分会](http://www.meetup.com/producttalkssingapore/) - 产品谈分会
+- [ ] [产品罐`Product Tank`- 新加坡分会](http://www.meetup.com/ProductTank-Singapore/) - 产品谈分会
 
 #### 会议
 - [ ] [Mind the Product Conference](http://mtpcon.com/sf/) - The Conference for Passionate Product People
@@ -476,7 +476,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [ ] [Lean Startup Week](http://leanstartup.co/2016-conference/) - Lean Startup Week is a seven-day immersion into Lean Startup methodology led by star practitioners in big companies and hot startups from around the world.
 - [ ] [Enterprise UX 2016](http://2016.enterpriseux.net) - The Enterprise UX 2016 conference is dedicated to delivering useful, delightful, and humane experiences to people who work for and in enterprises.
 
-# 要点4: 找工作
+# 要点4:找工作
 
 ### 聘请产品经理的提示/技巧
 - [ ] [Inspire Me with your Job Description](https://medium.com/@mstephan/inspire-with-your-job-description-ecb5ce744cfc#.gjzd3n4ez) - Writing a job description that attracts inspired product managers from Mark Stephan

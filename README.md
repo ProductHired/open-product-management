@@ -336,22 +336,22 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [ ] [Product Leadership: How Top Product Managers Launch Awesome Products and Build Successful Teams](https://www.amazon.ca/dp/1491960604) -  Richard Banfield, Martin Eriksson, and Nate Walkingshaw
 
 ##### 领导力
-- [ ] [How To Measure Anything](http://www.amazon.com/How-Measure-Anything-Intangibles-Business/dp/1118539273) - Douglas W. Hubbard
-- [ ] [Creativity, Inc.](https://openlibrary.org/works/OL17078912W/Creativity_Inc.) - Ed Catmull
+- [ ] [数据化决策:大数据时代,《财富》500强都在使用的量化决策法](http://www.amazon.com/How-Measure-Anything-Intangibles-Business/dp/1118539273) - Douglas W. Hubbard
+- [ ] [创新公司：皮克斯的启示](https://openlibrary.org/works/OL17078912W/Creativity_Inc.) - Ed Catmull
 - [ ] [Where Wizards Stay Up Late](https://openlibrary.org/works/OL3270089W/Where_wizards_stay_up_late) - Katie Hafner
 - [ ] [The Martian​](https://en.wikipedia.org/wiki/The_Martian_%28Weir_novel%29) - Andy Weir
-- [ ] [What Every BODY Is Saying​](http://www.amazon.com/What-Every-BODY-Saying-Speed-Reading/dp/0061438294/) - Joe Navarro
-- [ ] [The Death and Life of Great American Cities](http://www.amazon.com/Death-Life-Great-American-Cities/dp/067974195X) - Jane Jacobs
-- [ ] [Predictably Irrational](http://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248) - Dan Ariely
-- [ ] [Freakonomics](http://www.amazon.com/Freakonomics-Economist-Explores-Hidden-Everything/dp/0060731338/ref=sr_1_1?s=books&ie=UTF8&qid=1451455126&sr=1-1&keywords=freakonomics) - Steven Levitt and Stephen J. Dubner
+- [ ] [FBI教你破解身体语言](http://www.amazon.com/What-Every-BODY-Saying-Speed-Reading/dp/0061438294/) - Joe Navarro
+- [ ] [美国大城市的死与生](http://www.amazon.com/Death-Life-Great-American-Cities/dp/067974195X) - Jane Jacobs
+- [ ] [怪诞行为学:可预测的非理性](http://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248) - Dan Ariely
+- [ ] [魔鬼经济学系列](http://www.amazon.com/Freakonomics-Economist-Explores-Hidden-Everything/dp/0060731338/ref=sr_1_1?s=books&ie=UTF8&qid=1451455126&sr=1-1&keywords=freakonomics) - Steven Levitt and Stephen J. Dubner
 - [ ] [Getting Past NO](https://en.wikipedia.org/wiki/Getting_Past_No) - William Ury
-- [ ] [The 7 Habits of Highly Effective People](http://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/1451639619) - Stephen R. Covey
-- [ ] [Switch: How to Change Things When Change is Hard​](http://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752) - Chip and Dan Heath
+- [ ] [高效能人士的七个习惯](http://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/1451639619) - Stephen R. Covey
+- [ ] [瞬变:让改变轻松起来的9个方法](http://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752) - Chip and Dan Heath
 - [ ] [The Score Takes Care of Itself​](http://www.amazon.com/Score-Takes-Care-Itself-Philosophy/dp/1591843472/) - Bill Walsh, Steve Jamison & Craig Walsh
-- [ ] [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) - Daniel Kahneman
+- [ ] [思考,快与慢](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) - Daniel Kahneman
 - [ ] [Managing Humans](http://www.amazon.com/gp/product/1430243147/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1430243147&linkCode=as2&tag=httpstwit071f-20) - Former Manager at Apple
-- [ ] [The Everything Store: Jeff Bezos and the Age of Amazon](http://www.amazon.com/gp/product/0316219266/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0316219266&linkCode=as2&tag=httpstwit071f-20) - Brad Stone
-- [ ] [The Tipping Point: How Little Things Can Make a Big Difference](http://www.amazon.com/The-Tipping-Point-Little-Difference-ebook/dp/B000OT8GD0) - Malcolm Gladwell
+- [ ] [一网打尽:贝佐斯与亚马逊时代](http://www.amazon.com/gp/product/0316219266/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0316219266&linkCode=as2&tag=httpstwit071f-20) - Brad Stone
+- [ ] [引爆点:如何引发流行](http://www.amazon.com/The-Tipping-Point-Little-Difference-ebook/dp/B000OT8GD0) - Malcolm Gladwell
 
 ### 简讯
 - [ ] [Pivot Product Hits](https://pivotservices.curated.co/) - A weekly email newsletter of the best Product Management content 

@@ -437,11 +437,11 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 ### 加入社区
 
 #### 小组
-- [ ] [Mind the Product](http://www.mindtheproduct.com) - Mind the Product Community Website and Blog
-- [ ] [Product School](http://www.productschool.com) - Product School Company Website
-- [ ] [Designer Chat](https://www.producthunt.com/r/85601ad255/3697) - The Designer News community in a private Slack chat.
-- [ ] [Product Manager HQ](https://www.productmanagerhq.com/join-the-community/) - Product Manager HQ - Slack group
-- [ ] [Product Camp](http://www.productcamp.org) - Product Camp Community Website and Blog
+- [ ] [产品之思](http://www.mindtheproduct.com) - 产品之思社区网站和博客
+- [ ] [Product School](http://www.productschool.com) - 产品学校官网
+- [ ] [Designer Chat](https://www.producthunt.com/r/85601ad255/3697) - 设计师新闻社区Slack私密群。
+- [ ] [产品经理 HQ](https://www.productmanagerhq.com/join-the-community/) - 产品经理 HQ - slack小组
+- [ ] [产品营地](http://www.productcamp.org) - 产品营地社区网站和博客
 
 
 #### 聚会

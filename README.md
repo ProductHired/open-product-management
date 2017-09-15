@@ -395,17 +395,17 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
 # 要点3: 现实生活与产品管理
 ### 面试
-- [ ] [Janna Bastow on "How to Get into Product Management"](https://www.youtube.com/watch?v=p9Ubfv5v2i8) - A conversation between Janna Bastow, founder of ProdPad and previously a product manager / consultant
-- [ ] [Eva Andreasson on "How to Get into Product Management"](https://www.youtube.com/watch?v=tIQLhdMrK2Y) - A conversation between Eva Andreasson, Senior Product Manager at Cloudera, and Jason Shah, Product Manager at Yammer
-- [ ] [Teresa Torres on "How to Get into Product Management"](https://www.youtube.com/watch?v=VuSfqm1dr7Y) - A conversation between Teresa Torres, Vice President, Products at AfterCollege and a product consultant
-- [ ] [Wil Keenan on "How to Get Into Product Management"](https://www.youtube.com/watch?v=-CMip6mUT5I) - A conversation between Wil Keenan, Senior Product Manager at Change.org and Jason Shah
-- [ ] [Chris Lee on "How to Get into Product Management"](https://www.youtube.com/watch?v=EoncOT67ImI) - A conversation between Chris Lee, Product Manager at Dropbox, and Jason Shah
-- [ ] [Raj Ramachandran on "How to Get into Product Management"](https://www.youtube.com/watch?v=fqJo_UkMMxM) - A conversation between Raj Ramachandran, Director of Product at Kidaptive and former Product Manager at Zynga
-- [ ] [Pascal Carole on "How to Get into Product Management"](https://www.youtube.com/watch?v=g48swcdEqFE) - A conversation between Pascal Carole, Product Manager at Microsoft / Yammer and former engineer at Microsoft, and Jason Shah
-- [ ] [Jackie Bavaro on "How to Get into Product Management"](https://www.youtube.com/watch?v=tSx8V8Y5LW8) - A conversation between Jackie Bavaro, Product Manager at Asana, and Jason Shah
-- [ ] [Jason Evanish on "How to Get into Product Management"](https://www.youtube.com/watch?v=9pqBBEkSfdU) - A conversation between Jason Evanish, Product Manager at KISSMetrics, and Jason Shah
-- [ ] [Ryan Hoover on "How to Get Into Product Management"](https://www.youtube.com/watch?v=gIJNfQZCY0s) - A conversation between Ryan Hoover, Director of Product, PlayHaven and Jason Shah
-- [ ] [Marty Cagan and others on why they love the role, what they look for when hiring graduates, and the advice they offer prospective Product Managers](https://product.careers/stories/)
+- [ ] [Janna Bastow谈“如何进入产品管理”](https://www.youtube.com/watch?v=p9Ubfv5v2i8) - 前ProdPad创始人Janna Bastow和前产品经理/顾问之间的对话
+- [ ] [Eva Andreasson谈“如何进入产品管理”](https://www.youtube.com/watch?v=tIQLhdMrK2Y) - Cloudera高级产品经理Eva Andreasson和Yammer产品经理Jason Shah之间的对话
+- [ ] [Teresa Torres谈“如何进入产品管理”](https://www.youtube.com/watch?v=VuSfqm1dr7Y) - AfterCollege产品副总裁Teresa Torres和产品顾问之间的对话
+- [ ] [Wil Keenan 谈“如何进入产品管理”](https://www.youtube.com/watch?v=-CMip6mUT5I) - Change.org的高级产品经理Wil Keenan与Jason Shah之间的对话
+- [ ] [Chris Lee 谈“如何进入产品管理”](https://www.youtube.com/watch?v=EoncOT67ImI) - Dropbox产品经理Chris Lee和Jason Shah之间的对话
+- [ ] [Raj Ramachandran 谈“如何进入产品管理”](https://www.youtube.com/watch?v=fqJo_UkMMxM) - Kidaptive产品总监Raj Ramachandran和Zynga前任产品经理之间的对话
+- [ ] [Pascal Carole 谈“如何进入产品管理”](https://www.youtube.com/watch?v=g48swcdEqFE) - 微软/ Yammer产品经理、前微软工程师Pascal Carole与Jason Shah之间的对话
+- [ ] [Jackie Bavaro 谈“如何进入产品管理”](https://www.youtube.com/watch?v=tSx8V8Y5LW8) - Asana的产品经理Jackie Bavaro和Jason Shah之间的对话
+- [ ] [Jason Evanish 谈“如何进入产品管理”](https://www.youtube.com/watch?v=9pqBBEkSfdU) - KISSMetrics产品经理Jason Evanish和Jason Shah之间的对话
+- [ ] [Ryan Hoover 谈“如何进入产品管理”](https://www.youtube.com/watch?v=gIJNfQZCY0s) - PlayHaven产品总监Ryan Hoover和Jason Shah之间的对话
+- [ ] [Marty Cagan等人为什么喜欢这个角色，他们在招聘毕业生时寻找什么，以及他们给产品经理候选人的建议](https://product.careers/stories/)
 
 ### 产品案例学习
 - [ ] [Building an Enterprise Product: Yammer's Development Methodology](https://www.youtube.com/watch?v=N8wdRZDv0ks) - Jason Shah, product manager at Yammer, shares aspects of Yammer's product development methodology.

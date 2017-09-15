@@ -17,10 +17,13 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - Go through our - [ ]Content Menu- [ ]
 
 ### 内容
-- [Core 1: Product Management](#core-1-product-management)
-    - [What is Product Management](#what-is-product-management)
-    - [Is it really for you?](#is-it-really-for-you)
-    - [Becoming a Product Guru](#becoming-a-product-guru)
+
+
+
+- [要点1: 产品管理](#要点1: 产品管理)
+    - [什么是产品管理](#什么是产品管理)
+    - [你真的适合做产品经理吗?](#你真的适合做产品经理吗?)
+    - [成为产品大师](#成为产品大师)
     - [Building Great Products](#building-great-products)
     - [Get out of the building](#get-out-of-the-building)
     - [All about those Requirements](#all-about-those-requirements)
@@ -43,7 +46,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
     - [Podcasts](#podcasts)
     - [Online Courses](#online-courses)
     - [Online Blogs](#blogs)
-- [Core 3: Real Life Product Management](#core-3-real-life-product-management)
+- [要点3: 产品管理现实](#要点3: 产品管理现实)
     - [Interviews](#interviews)
     - [Product Case Studies](#product-case-studies)
     - [Sample Product Documentation](#sample-product-documentation)
@@ -51,14 +54,14 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
             - [Groups](#groups)
             - [Meetups](#meetups)
             - [Conferences](#conferences)
-- [Core 4: Get the Job](#core-4-get-the-job)
+- [要点4: 找工作](#要点4: 找工作)
     - [Career Prep Resume](#career-prep-resume)
     - [Career Prep The Interview](#career-prep-the-interview)
     - [Career Prep Where to Apply](#career-prep-where-to-apply)
-    - [Career Prep Company Types](#career-prep-company-types)
-- [Best Product Managers on Twitter](#best-product-managers-on-twitter)
-- [Special Thanks](#special-thanks)
-- [Contributing to the list](#contributing)
+    - [职业准备：公司类型](#职业准备：公司类型)
+- [Twitter上的优秀产品经理](#Twitter上的优秀产品经理)
+- [特别感谢](#特别感谢)
+- [想要为此清单做贡献](#想要为此清单做贡献)
 
 
  # 要点1: 产品管理
@@ -205,7 +208,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [ ] [什么成就了伟大的产品经理](http://hatchery.vc/what-makes-a-great-product-manager/) - Erik Torenberg
  - [ ] [足球教练是如何教导我像老板一样管理产品的](https://medium.com/@biggiesu/how-a-football-coach-taught-me-to-product-manage-like-a-boss-926ab5c39156) - Mike Su
 
- # 要点: 资源
+ # 要点2: 资源
 
  ### 资源库
  - [ ] [Software Product Management Stack](http://softwareproductmanagement.co/) - A curated list of Product Manager articles and resources

@@ -235,22 +235,23 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [ ] [Craft - Collaborative Place for Product Managers](https://craft.io)
  - [ ] [Meteor - The Fastest way to build Javascript Apps](https://www.meteor.com/)
  - [ ] [Design+code](https://www.producthunt.com/r/5f7f813faa/2144) - 学习iOS设计和Xcode
- - [ ] [Teaching App Development with Swift](https://www.producthunt.com/r/44f7e92aa6596c/25588) - A Github-hosted curriculum on Swift for teachers by Apple
+ - [ ] [Teaching App Development with Swift](https://www.producthunt.com/r/44f7e92aa6596c/25588) - 苹果为Swift教师准备的教案
  - [ ] [Android Studio 2.0](https://www.producthunt.com/r/a296766b160574/41882) - Android应用程序开发的官方IDE
  - [ ] [Xcode 7.0 - iOS Development](https://www.producthunt.com/r/080e34d50e5f68/33913) - Swift 2 and SDKs for iOS 9, watchOS 2, and OS X 10.11
- - [ ] [JavaScript and JQuery](https://www.producthunt.com/r/738cfc20b6822c/34969) - Interactive front-end web development
- - [ ] [Web Starter Kit by Google](https://www.producthunt.com/r/8784bae2c3/4429) - Boilerplate & Tooling for Multi-Device Development
- - [ ] [Beginning iOS Programming](https://www.producthunt.com/r/b0938b1a7d/9778) - A new book from AppCoda, learn to build an app from scratch.
- - [ ] [The Go Programming Language](https://www.producthunt.com/r/09343b492ddf5d/45810) - The authoritative resource for leaning Go
- - [ ] [Haskell for Mac](https://www.producthunt.com/r/bc15cc46319f05/31890) - Functional programming without the hassle.
- - [ ] [Code4Startup 2.0](https://www.producthunt.com/r/842d5b453ab09a/38728) - Learn to code by cloning real-life startups (PRO version)
- - [ ] [Code School](https://www.producthunt.com/r/9d15cfb5f3/346) - Learn to code on your iPhone
- - [ ] [One Month Rails](https://www.producthunt.com/r/9d15cfb5f3/346) - The easiest way ever developed to Learn to Code
- - [ ] [TeachYourselfToCode](https://www.producthunt.com/r/3eb601847f/3631) - Learn to code with tutorials recommended by programmers
- - [ ] [Codecademy App](https://www.producthunt.com/r/d9ad7dd716/172) - Learn to code on your iPhone.
- - [ ] [Xcode for Designers](https://www.producthunt.com/r/d700d9a21c/8887) - Learn how to create native iOS apps in 5 days
- - [ ] [Codecademy's Learn the Command Line](https://www.producthunt.com/r/e835b85f42361a/31952) - Learn how to control your computer with the command line!
- - [ ] [Your First Web App](https://www.producthunt.com/r/acc2f8564f/4997) - Pulling your hair out trying to learn how to code?
+ - [ ] [JavaScript and JQuery](https://www.producthunt.com/r/738cfc20b6822c/34969) - 互动式前端Web开发
+ - [ ] [Web Starter Kit by Google](https://www.producthunt.com/r/8784bae2c3/4429) - 多设备开发的样板化和工具化
+ - [ ] [Beginning iOS Programming](https://www.producthunt.com/r/b0938b1a7d/9778) - AppCoda新书, 学习使用scratch制作应用.
+ - [ ] [The Go Programming Language](https://www.producthunt.com/r/09343b492ddf5d/45810) - Go语言学习权威资料
+ - [ ] [Haskell for Mac](https://www.producthunt.com/r/bc15cc46319f05/31890) - `Functional programming without the hassle.`无争议的函数式编程,因为你用了Hasskll
+ - [ ] [Code4Startup 2.0](https://www.producthunt.com/r/842d5b453ab09a/38728) - 通过克隆真实的创业来学写代码
+ - [ ] [Code School](https://www.producthunt.com/r/9d15cfb5f3/346) - 在你的iPhone上学写代码
+ - [ ] [One Month Rails](https://www.producthunt.com/r/9d15cfb5f3/346) - 学编码的最简单的方法
+ - [ ] [TeachYourselfToCode](https://www.producthunt.com/r/3eb601847f/3631) - 程序员推荐的学写代码教程
+ - [ ] [Codecademy App](https://www.producthunt.com/r/d9ad7dd716/172) - 在你的iPhone上学写代码
+ - [ ] [Xcode for Designers](https://www.producthunt.com/r/d700d9a21c/8887) - 
+ 学习如何在5天内创建一个原生的iOS App
+ - [ ] [Codecademy's Learn the Command Line](https://www.producthunt.com/r/e835b85f42361a/31952) - 学会使用命令行控制你的电脑
+ - [ ] [Your First Web App](https://www.producthunt.com/r/acc2f8564f/4997) - 揪着头发尝试学习怎么写代码
 
  ### 模拟和营销
  - [ ] [moqups](https://moqups.com/) - 一个简化的web应用程序，可以帮助您创建和协作

@@ -52,7 +52,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
         - [小组](#小组)
         - [聚会](#聚会)
         - [会议](#会议)
-- [要点4: 找工作](#要点4: 找工作)
+- [要点4: 找工作](#要点4:找工作)
     - [职业准备：简历](#职业准备：简历)
     - [职业准备：面试](#职业准备：面试)
     - [职业准备：在哪里申请](#职业准备：在哪里申请)
@@ -481,34 +481,34 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [ ] [用你的岗位描述来启发我](https://medium.com/@mstephan/inspire-with-your-job-description-ecb5ce744cfc#.gjzd3n4ez) - 来自Mark Stephan的撰写能够吸引和启发产品经理的工作描述
 
 ### 职业准备：简历
-- [ ] [How do you write a good resume for product manager jobs?](https://www.quora.com/How-do-you-write-a-good-resume-for-product-manager-jobs) - Sample Advice on Quora
-- [ ] [Mike Bracco - Sample PM Resume](http://mikebracco.com/resume/) - Sample Resume Website from a PM
-- [ ] [Adam Mathes - Sample PM Resume](http://www.adammathes.com/resume/) - Sample Resume Website from a PM
-- [ ] [How to get that Next PM Job](http://svpma.org/eventarchives/SVPMA-03-2010-How_to_Get_That_Next_PM_Job-Shreyas_Doshi.pdf) - 200 slides from Google PM
-- [ ] [Nicholas Ivanecky - Sample PM Website](http://www.ivantron.com) - Nicholas Ivanecky Resume Website
+- [ ] [你如何为产品经理工作写一份好的简历？](https://www.quora.com/How-do-you-write-a-good-resume-for-product-manager-jobs) - Quora上的范本建议
+- [ ] [Mike Bracco - 简历范本](http://mikebracco.com/resume/) - 某产品经理简历范本网页
+- [ ] [Adam Mathes - 产品经理简历范本](http://www.adammathes.com/resume/) - 某产品经理简历范本网页
+- [ ] [如何获得下一个产品经理工作](http://svpma.org/eventarchives/SVPMA-03-2010-How_to_Get_That_Next_PM_Job-Shreyas_Doshi.pdf) - 来自Google产品经理的200张PPT`原文是slides，即幻灯片，考虑到说PPT大家比较熟悉😊`
+- [ ] [Nicholas Ivanecky - 产品经理简历范本网站](http://www.ivantron.com) - Nicholas Ivanecky的简历网页
 
 ### 职业准备：在哪里申请
-- [ ] [ProductHired.com](http://www.producthired.com) - Simplify your Product Manager Job Search
+- [ ] [ProductHired.com](http://www.producthired.com) - 专注于产品经理的招聘网站`原文是：简化你的产品经理职业搜索`
 
 
 ### 职业准备：面试
-- [ ] [Cracking the PM Interview ](http://www.amazon.com/gp/product/0984782818/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0984782818&linkCode=as2&tag=httpstwit071f-20) - Book based on getting a PM career
-- [ ] [The Ultimate Guide to Product Manager Interview Questions](http://www.venturegrit.com/how-to-interview-a-product-manager-the-ultimate-guide/) - PM Questions to Practice
-- [ ] [The PM Interview](http://thepminterview.com) - Set of Questions + Timer to practice your PM skills.
-- [ ] [The Ultimate Guide to Product Manager Interview Questions](https://www.quora.com/What-are-frequently-asked-questions-in-product-manager-interviews) - Quora PM Questions
-- [ ] [4 Questions I Always Ask When Interviewing Product Managers](http://www.producttalk.org/2012/06/4-questions-i-always-ask-when-interviewing-product-managers/) - 4 Questions to ask a PM
-- [ ] [Product School](http://www.productschool.com) - Product School 2-month Education
-- [ ] [Interview Question Prep for PM Interviews](https://docs.google.com/document/d/1ZXwg8LFLEi-HmN9BoCoifqEM1NggxNjex4Tx-5ALa9I/edit) - Prep Questions from Rafi Lurie, APM at Uber.
-- [ ] [How To Get A PM Job With The Yammer Mafia - In-person](https://medium.com/product-man/how-to-get-a-pm-job-with-the-yammer-mafia-ec2c43c775fb#.viuymdset) - How to Join The Yammer PM Mafia
-- [ ] [The Best Student Activity for Product Managers By Jackie Bavaro](https://pmblog.quora.com/The-Best-Student-Activity-for-Product-Managers) - The Best Student Activity for Product Managers
-- [ ] [Acing the Product Management Interview](https://www.linkedin.com/pulse/20141020034027-1533734-acing-the-product-management-interview?trk=hp-feed-article-title-like) - Allan Hui
-- [ ] [7 Steps: Interview Strategy to Get into Product Management With No Experience](https://www.linkedin.com/pulse/what-your-product-management-interview-strategy-7-steps-mohammad) - Afroz Mohammad
+- [ ] [产品经理面试宝典](http://www.amazon.com/gp/product/0984782818/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0984782818&linkCode=as2&tag=httpstwit071f-20) - 基于获得产品经理职业生涯的书`这样翻译怪怪的，总之就是让你知道怎么去面试`
+- [ ] [产品经理面试问题终极指南](http://www.venturegrit.com/how-to-interview-a-product-manager-the-ultimate-guide/) - 产品经理面试问题练习题
+- [ ] [产品经理面试(http://thepminterview.com) - 一套问题+计时器训练你的技能
+- [ ] [产品经理面试问题的终极指南](https://www.quora.com/What-are-frequently-asked-questions-in-product-manager-interviews) - Quora产品经理有关问题
+- [ ] [我在面试产品经理时总是会问的4个问题](http://www.producttalk.org/2012/06/4-questions-i-always-ask-when-interviewing-product-managers/) - 问产品经理4个问题
+- [ ] [产品学校`Product School`](http://www.productschool.com) - 产品学校`Product School` 2个月教育培训
+- [ ] [为产品经理准备的面试问题](https://docs.google.com/document/d/1ZXwg8LFLEi-HmN9BoCoifqEM1NggxNjex4Tx-5ALa9I/edit) - 来自Uber高级产品经理Rafi Lurie的问题准备.
+- [ ] [如何获得Yammer的产品经理工作 - 亲历](https://medium.com/product-man/how-to-get-a-pm-job-with-the-yammer-mafia-ec2c43c775fb#.viuymdset) - 如何加入Yammer产品帮
+- [ ] [产品经理最佳学生活动 By Jackie Bavaro](https://pmblog.quora.com/The-Best-Student-Activity-for-Product-Managers) - 产品经理最佳学生活动
+- [ ] [进行产品管理面试](https://www.linkedin.com/pulse/20141020034027-1533734-acing-the-product-management-interview?trk=hp-feed-article-title-like) - Allan Hui
+- [ ] [7个步骤：无经验产品管理面试策略](https://www.linkedin.com/pulse/what-your-product-management-interview-strategy-7-steps-mohammad) - Afroz Mohammad
 
 ### 职业准备：公司类型
-- [ ] [Google by Larry page and Sergey Brin](http://www.google.com/about/company/philosophy/) - Google's culture
-- [ ] [Microsoft](https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/) - Microsoft PM Culture
-- [ ] [Amazon](https://www.quora.com/Amazon-company/What-is-Amazons-approach-to-product-development-and-product-management) - Amazon's culture
-- [ ] [Facebook](https://www.quora.com/What-does-a-Product-Manager-at-Facebook-do) - Facebook PM Culture
+- [ ] [Google by Larry page and Sergey Brin](http://www.google.com/about/company/philosophy/) - Google文化
+- [ ] [Microsoft](https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/) - 微软产品文化
+- [ ] [Amazon](https://www.quora.com/Amazon-company/What-is-Amazons-approach-to-product-development-and-product-management) - 亚马逊文化
+- [ ] [Facebook](https://www.quora.com/What-does-a-Product-Manager-at-Facebook-do) - Facebook产品文化
 
 # Twitter上的优秀产品经理
 - [ ] [Ken Norton](https://twitter.com/kennethn) - Partner @GVTeam. Formerly PM @Google.

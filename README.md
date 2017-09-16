@@ -419,20 +419,19 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [ ] [Box 案例学习](https://www.youtube.com/watch?v=qeY2BRaS11g) - Box 案例学习
 
 ### 产品文档范例
-- [ ] [How I would grow Thumbtack’s Customer Side of the Marketplace — Product Spec](https://medium.com/@ivanTr0n/how-i-would-grow-thumbtack-s-customer-side-of-the-marketplace-product-spec-edc5c0521d08#.o9octd4pa) - Sample Product Spec about Thumbtack
-- [ ] [Global Lynda](http://leenau.bitbucket.io/lynda/product-requirements-document/) - Sample Product Requirements Document
-- [ ] [Global Lynda](http://leenau.bitbucket.io/lynda/user-personas/) - Sample Company Context and User Personas
-- [ ] [Global Lynda](http://leenau.bitbucket.io/lynda/metrics-case-study/) - Sample Metrics Case Study
-- [ ] [Global Lynda](http://leenau.bitbucket.io/lynda/language-rollout-phases/) - Sample Language Rollout Phases
-- [ ] [Global Lynda](http://leenau.bitbucket.io/lynda/go-to-market/) - Sample Go-to-Market Plan
-- [ ] [Product Hunt](https://github.com/intuit/AnimationEngine) -  Sample Early Product Spec from Ryan Hoover, Product Hunt
-- [ ] [Yahoo! Let’s put some Bots in that beautiful Messenger App - Product Spec](https://medium.com/@ivanTr0n/yahoo-let-s-put-some-bots-in-that-beautiful-messenger-app-product-spec-6fdecb2614f#.2ud1s2wow) Sample Product Spec about Yahoo
-- [ ] [A Usability Test, with Recommendations for Improvement of Skyscanner’s Mobile Flight Search & Booking App](https://medium.com/@mstephan/a-usability-test-with-recommendations-for-improvement-of-skyscanner-s-mobile-flight-search-56b6e598b8a2#.1ve6qzn2e) - Sample product break-down with usability testing by Mark Stephan
-- [ ] [Yahoo! Let’s put some Bots in that beautiful Messenger App - Product Spec](https://medium.com/@ivanTr0n/yahoo-let-s-put-some-bots-in-that-beautiful-messenger-app-product-spec-6fdecb2614f#.2ud1s2wow) - Sample Product Spec about Yahoo
-- [ ] [Usability Test on Product Hunt for iPhone](https://medium.com/@ericjlee/usability-test-on-product-hunt-for-iphone-ba208a440175#.4i6960u4k) - Sample Usability Test on Product Hunt
-- [ ] [A Usability Test for Yelp’s iOS Application](https://medium.com/@ivanTr0n/a-usability-test-for-yelp-s-ios-application-13c7f3fea84c#.hih9hvh18) - Sample Usability Test for Yelp
-- [ ] [A Usability Test, with Recommendations for Improvement of Skyscanner’s Mobile Flight Search & Booking App: Part I](https://medium.com/@mstephan/a-usability-test-with-recommendations-for-improvement-of-skyscanner-s-mobile-flight-search-56b6e598b8a2#.ibh610rne) - Sample Usability Test on Skyscanner
-- [ ] [LinkedIn Groups Product Spec](https://medium.com/@ivanTr0n/designing-linkedins-next-killer-feature-to-awake-the-other-300m-users-product-spec-de00305ba13e#.e6df7kcxo) - Designing LinkedIn’s Next Killer Feature to awake the other 300M users
+- [ ] [我是如何促成Thumbtack的客户市场增长的 - 产品规格](https://medium.com/@ivanTr0n/how-i-would-grow-thumbtack-s-customer-side-of-the-marketplace-product-spec-edc5c0521d08#.o9octd4pa) - 关于Thumbtack的产品规格示例
+- [ ] [Global Lynda](http://leenau.bitbucket.io/lynda/product-requirements-document/) - 产品需求文档范例
+- [ ] [Global Lynda](http://leenau.bitbucket.io/lynda/user-personas/) - 公司背景和用户画像范例
+- [ ] [Global Lynda](http://leenau.bitbucket.io/lynda/metrics-case-study/) - 指标范例探究
+- [ ] [Global Lynda](http://leenau.bitbucket.io/lynda/language-rollout-phases/) - 多语种分析
+- [ ] [Global Lynda](http://leenau.bitbucket.io/lynda/go-to-market/) - 市场计划范例
+- [ ] [Product Hunt](https://github.com/intuit/AnimationEngine) -  Product Hunt的Ryan Hoover分享的早期产品规格
+- [ ] [雅虎！让我们放一些机器人到优雅的消息应用中去](https://medium.com/@ivanTr0n/yahoo-let-s-put-some-bots-in-that-beautiful-messenger-app-product-spec-6fdecb2614f#.2ud1s2wow) 雅虎产品规格案例
+- [ ] [可用性测试，改进Skyscanner的移动飞行搜索和预订应用程序的建议](https://medium.com/@mstephan/a-usability-test-with-recommendations-for-improvement-of-skyscanner-s-mobile-flight-search-56b6e598b8a2#.1ve6qzn2e) - 由Mark Stephan提供的利用可用性测试对产品进行分析
+- [ ] [Product Hunt上的iPhone可用性测试](https://medium.com/@ericjlee/usability-test-on-product-hunt-for-iphone-ba208a440175#.4i6960u4k) - Product Hunt的可用性测试范例
+- [ ] [Yelp iOS应用程序的可用性测试](https://medium.com/@ivanTr0n/a-usability-test-for-yelp-s-ios-application-13c7f3fea84c#.hih9hvh18) - Yelp的可用性测试范例
+- [ ] [可用性测试，具备改进Skyscanner的移动飞行搜索和预订App的建议：第一部分](https://medium.com/@mstephan/a-usability-test-with-recommendations-for-improvement-of-skyscanner-s-mobile-flight-search-56b6e598b8a2#.ibh610rne) - Skyscanner的可用性测试
+- [ ] [LinkedIn群组产品规格](https://medium.com/@ivanTr0n/designing-linkedins-next-killer-feature-to-awake-the-other-300m-users-product-spec-de00305ba13e#.e6df7kcxo) - 设计LinkedIn的下一个杀手功能唤醒其他3亿用户
 
 ### 加入社区
 
@@ -471,15 +470,15 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [ ] [产品罐`Product Tank`- 新加坡分会](http://www.meetup.com/ProductTank-Singapore/) - 产品谈分会
 
 #### 会议
-- [ ] [Mind the Product Conference](http://mtpcon.com/sf/) - The Conference for Passionate Product People
-- [ ] [Industry - Product Conference](http://indsum.com) - For people who build, launch and scale world-class product.
-- [ ] [Lean Startup Week](http://leanstartup.co/2016-conference/) - Lean Startup Week is a seven-day immersion into Lean Startup methodology led by star practitioners in big companies and hot startups from around the world.
-- [ ] [Enterprise UX 2016](http://2016.enterpriseux.net) - The Enterprise UX 2016 conference is dedicated to delivering useful, delightful, and humane experiences to people who work for and in enterprises.
+- [ ] [产品之思`Mind the Product`会议](http://mtpcon.com/sf/) - 激情产品人大会
+- [ ] [行业`Industry` - 产品会议](http://indsum.com) - 针对制造、运作、规模化世界级产品的人员会议
+- [ ] [精益创业周`Lean Startup Week`](http://leanstartup.co/2016-conference/) - 精益创业周是由大型公司的明星从业者和来自世界各地的热门创业公司领导的“精益创业”方法，为期七天。`这句话不知道怎么翻译通顺，知道意思就好`
+- [ ] [企业级UX 2016`Enterprise UX 2016`](http://2016.enterpriseux.net) - 企业UX 2016年会议致力向企业和企业员工传递有用、愉快和人性化体验
 
 # 要点4:找工作
 
 ### 聘请产品经理的提示/技巧
-- [ ] [Inspire Me with your Job Description](https://medium.com/@mstephan/inspire-with-your-job-description-ecb5ce744cfc#.gjzd3n4ez) - Writing a job description that attracts inspired product managers from Mark Stephan
+- [ ] [用你的岗位描述来启发我](https://medium.com/@mstephan/inspire-with-your-job-description-ecb5ce744cfc#.gjzd3n4ez) - 来自Mark Stephan的撰写能够吸引和启发产品经理的工作描述
 
 ### 职业准备：简历
 - [ ] [How do you write a good resume for product manager jobs?](https://www.quora.com/How-do-you-write-a-good-resume-for-product-manager-jobs) - Sample Advice on Quora

@@ -8,13 +8,13 @@ This list was created for all product managers whether beginner or advanced to l
 
 Don't forget to share with others and follow me on Twitter,[ Nicholas Ivanecky](http://twitter.com/ivantr0n). If you are looking for new product manager roles I suggest [ProductHired.com](http://producthired.com/)
 
-Notable contributions to the list are featured in section, [Special Thanks](#special-thanks)
+Notable contributions to the list are featured in section, [特别感谢](#特别感谢)
 
 ##### 如何使用
-Open-Product-Management is an amazing list for people who need a refresher in Product Management, so the best ways to use are:
-- Ask for help on [Twitter](https://twitter.com/ivantr0n)
-- Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword.
-- Go through our - [ ]Content Menu- [ ]
+开放产品管理对于需要进行产品管理的人来说是一个很棒的清单，因此最好的使用方法是：
+- 在[Twitter](https://twitter.com/ivantr0n)上寻求帮助
+- 使用<kbd>command</kbd> + <kbd>F</kbd> 搜索关键词
+- 查看下面的内容目录
 
 ### 内容
 

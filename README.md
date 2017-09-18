@@ -1,14 +1,14 @@
 <img src="https://raw.githubusercontent.com/tron1991/open-product-management/master/logo.png">
 
 ##### 简介
-A curated list of product management advice from frameworks, interviews, experts, resources, books, products, career preps, and much more.
-The list is divided into cores such as product management, resources, interviews, case Studies, sample products/projects, communities, open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/tron1991/open-product-management/blob/master/CONTRIBUTING.md). Feel free to add products or links to help other product managers.
+这是一份包含框架，面试，专家，资源，书籍，产品，职业前景等方面的产品管理咨询策划清单。
+该清单分为产品管理，资源，访谈，案例研究，示例产品/项目，社区，开源项目，免费和付费服务等核心要点。 每个类别中没有预先确定的项目顺序，仅仅是按照贡献顺序进行了排序. 如果你也想做些贡献, 请阅读[指南](https://github.com/tortorse/open-product-management/blob/master/CONTRIBUTING.md). 请随意添加产品或链接以帮助其他产品经理。
 
 该清单是为方便所有产品经理（无论是初学者还是高级人员）从最好的人员和社区中学习而创建的。 如果您是技术人员想要担任产品经理的角色，下面的建议将帮助您顺利通过。 本指南从来不是最终的学习结果，因为最好的学习是通过实践实现的。
 
 别忘了和别人分享和在twitter上关注[ Nicholas Ivanecky](http://twitter.com/ivantr0n). 如果您想找个从事产品管理的新工作，我建议你上[ProductHired.com](http://producthired.com/)试试。
 
-Notable contributions to the list are featured in section, [特别感谢](#特别感谢)
+对该清单的显著贡献, 参见[特别感谢](#特别感谢)
 
 ##### 如何使用
 开放产品管理对于需要进行产品管理的人来说是一个很棒的清单，因此最好的使用方法是：

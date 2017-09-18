@@ -4,9 +4,9 @@
 A curated list of product management advice from frameworks, interviews, experts, resources, books, products, career preps, and much more.
 The list is divided into cores such as product management, resources, interviews, case Studies, sample products/projects, communities, open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/tron1991/open-product-management/blob/master/CONTRIBUTING.md). Feel free to add products or links to help other product managers.
 
-This list was created for all product managers whether beginner or advanced to learn from the best people and communities. If you are a technical person looking to get into the role of a Product Manager, this advice below will help you along your path. This guide is by all means not the end all to your learning as the best learning is achieved through practice.
+该清单是为方便所有产品经理（无论是初学者还是高级人员）从最好的人员和社区中学习而创建的。 如果您是技术人员想要担任产品经理的角色，下面的建议将帮助您顺利通过。 本指南从来不是最终的学习结果，因为最好的学习是通过实践实现的。
 
-Don't forget to share with others and follow me on Twitter,[ Nicholas Ivanecky](http://twitter.com/ivantr0n). If you are looking for new product manager roles I suggest [ProductHired.com](http://producthired.com/)
+别忘了和别人分享和在twitter上关注[ Nicholas Ivanecky](http://twitter.com/ivantr0n). 如果您想找个从事产品管理的新工作，我建议你上[ProductHired.com](http://producthired.com/)试试。
 
 Notable contributions to the list are featured in section, [特别感谢](#特别感谢)
 

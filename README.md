@@ -242,7 +242,7 @@
 - [ ] [Web Starter Kit by Google](https://www.producthunt.com/r/8784bae2c3/4429) - 多设备开发的样板化和工具化
 - [ ] [Beginning iOS Programming](https://www.producthunt.com/r/b0938b1a7d/9778) - AppCoda新书, 学习使用scratch制作应用.
 - [ ] [The Go Programming Language](https://www.producthunt.com/r/09343b492ddf5d/45810) - Go语言学习权威资料
-- [ ] [Haskell for Mac](https://www.producthunt.com/r/bc15cc46319f05/31890) - `Functional programming without the hassle.`无争议的函数式编程,因为你用了Hasskll
+- [ ] [Haskell for Mac](https://www.producthunt.com/r/bc15cc46319f05/31890) - `Functional programming without the hassle.`无争议的函数式编程,因为你用了Haskell
 - [ ] [Code4Startup 2.0](https://www.producthunt.com/r/842d5b453ab09a/38728) - 通过克隆真实的创业来学写代码
 - [ ] [Code School](https://www.producthunt.com/r/9d15cfb5f3/346) - 在你的iPhone上学写代码
 - [ ] [One Month Rails](https://www.producthunt.com/r/9d15cfb5f3/346) - 学编码的最简单的方法

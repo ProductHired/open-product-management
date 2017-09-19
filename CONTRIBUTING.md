@@ -1,15 +1,15 @@
-# 贡献指南
+# Contribution Guidelines
 
-请确保您的拉取请求`pull request`符合以下准则：
+Please ensure your pull request adheres to the following guidelines:
 
-- 在提出新建议之前，请先搜索已有建议，防止重复。
-- 为每个建议单独发起`pull request`
-- 使用以下格式：`[Title](Link) - Description`
-- 欢迎添加新的类别或改进现有的分类。
-- 保持描述精简。
-- 用句号来结束每一个描述。
-- 检查你的拼写和语法。
-- 确保您的建议位于类别的最后一个项目。
-- 确保您的文本编辑器设置为删除尾随空格。
+- Search previous suggestions before making a new one, as yours may be a duplicate.
+- Make an individual pull request for each suggestion.
+- Use the following format: `[Title](Link) - Description`
+- New categories, or improvements to the existing categorization are welcome.
+- Keep descriptions short and simple, but descriptive.
+- End all descriptions with a full stop/period.
+- Check your spelling and grammar.
+- Make sure that your suggestion is positioned as the last item category.
+- Make sure your text editor is set to remove trailing whitespace.
 
-欢迎您的贡献！ 谢谢你的建议！ :smiley:
+Your contributions are always welcome!  Thank you for your suggestions! :smiley:

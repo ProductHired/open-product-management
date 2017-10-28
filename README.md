@@ -122,7 +122,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [ ] [Product strategy means saying no](http://blog.intercom.io/product-strategy-means-saying-no/) - Des Traynor
  - [ ] [Product priorities start with strategic goals](http://www.productpowers.com/blog/product-priorities-start-with-strategic-goals.html) - Bruce McCarthy
  - [ ] [The inconvenient truth about product](http://www.svpg.com/the-inconvenient-truth-about-product/) - Marty
- - [ ] [The opportunity backlog](http://www.svproduct.com/the-opportunity-backlog/) - Marty Cagan
+ - [ ] [The opportunity backlog](http://svpg.com/the-opportunity-backlog) - Marty Cagan
  - [ ] [The dirty dozen roadmap roadblocks](http://www.productpowers.com/blog/the-dirty-dozen-roadmap-roadblocks.html) - Bruce McCarthy
  - [ ] [The pyramid model & what it means for PM focus](http://blog.kentonkivestu.com/product-focus) - Kenton Kivetsu
  - [ ] [How am I going to move my product forward today](http://www.sachinrekhi.com/blog/2013/03/04/how-am-i-going-to-move-my-product-forward-today) - Sachin Rekhi
@@ -140,6 +140,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [ ] [Drop feature-based product roadmaps](http://www.producttalk.org/2014/04/drop-feature-based-product-roadmaps/) - Teresa Torres
  - [ ] [How to build a roadmap everyone understands](https://medium.com/@dreasaez/how-to-build-a-product-roadmap-everyone-understands-522b36270e5#.e8gcmylg0) - Andrea Saez
  - [ ] [Making a Product Map](https://medium.com/@mstephan/making-a-product-map-4fbf6d440a19#.bpmtqfotk) - Mark Stephan
+ - [ ] [The Product Manager's Visual Guide to Feature Selection](https://taprun.com/articles/product-managers-visual-guide-to-feature-selection) - Adam Juda
 
  ### How to work with Engineers
  - [ ] [The care and feeding of software engineers](http://www.nczonline.net/blog/2012/06/12/the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy/) - Nicholas C. Zakas
@@ -211,6 +212,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [ ] [Software Product Management Stack](http://softwareproductmanagement.co/) - A curated list of Product Manager articles and resources
  - [ ] [End-End Product Management Lifecycle](http://attackwithnumbers.com/i-love-product-management) - A list of articles from what is it to becoming a great Product Manager
  - [ ] [The One-Stop Product Management Guide](http://www.digitalfriday.co/productmanagementguide/) - A framework and list of articles to help product managers build, grow and manage digital products
+ - [ ] [Harvard Business School PM 101](https://sites.google.com/site/hbspm101/home) - Online resource reposotiory from Harvard Business School PM 101 course.
 
  ### Design
  - [ ] [Kindling](https://www.producthunt.com/r/9c7a76d74a/7801) - Idea management tool
@@ -231,6 +233,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [ ] [IconStore](https://www.producthunt.com/r/e53dd0bd06c614/26976) - Free icon packs by first-class designers
 
  ### Development
+ - [ ] [Craft - Collaborative Place for Product Managers](https://craft.io)
  - [ ] [Meteor - The Fastest way to build Javascript Apps](https://www.meteor.com/)
  - [ ] [Design+code](https://www.producthunt.com/r/5f7f813faa/2144) - Learn iOS design and Xcode
  - [ ] [Teaching App Development with Swift](https://www.producthunt.com/r/44f7e92aa6596c/25588) - A Github-hosted curriculum on Swift for teachers by Apple
@@ -262,7 +265,7 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [App Screenshot Builder](https://www.producthunt.com/r/01acf800c8/15192) - Create gorgeous images for your App Store page in minutes.
  - [ ] [StartupResources.io](https://www.producthunt.com/r/38a39dc7c63715/40773) - Tightly curated lists of the best startup tools
 
- ###Team Management
+ ### Team Management
  - [ ] [Airtable](https://airtable.com) - Spreadsheet, meet database.
  - [ ] [Trello](https://trello.com/?ref=producthunt) - Trello makes it easy to organize anything with anyone
  - [ ] [Google Docs](https://www.producthunt.com/r/dfc72883e5/7810) - Create and share your work online
@@ -296,12 +299,12 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [A/B Testing Effectively](https://blog.intercom.io/why-ab-tests-should-yield-more-than-results/) - Run successful, statistically accurate A/B tests.
 
  ### Books
- #####Design
+ ##### Design
  - [ ] [Inspired - How to Create Products Customers Love](http://www.amazon.com/gp/product/B001AQ95UY?btkr=1) - Marty Cagan  
  - [ ] [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things) - Donald Norman
  - [ ] [Don't Make Me Think: A Common Sense Approach to Web Usability, 2nd Edition](http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758) - Steve Krug
 
- #####Startups
+ ##### Startups
  - [ ] [The 4 steps to the Epiphany](http://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507) - Steve Blank
  - [ ] [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](http://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417) - A handbook for designing tomorrow’s enterprises
  - [ ] [Beginning Customer Development](https://app.convertkit.com/kevindewalt/beginning-customer-development_ebook) - Kevin Dewalt
@@ -315,12 +318,12 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [Hooked: How to build habit forming products](http://www.amazon.com/Hooked-How-Build-Habit-Forming-Products-ebook/dp/B00HJ4A43S) - Nir Eyal
  - [ ] [Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers](http://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123) - Geoffrey A. Moore
 
- #####Marketing
+ ##### Marketing
  - [ ] [Peopleware](http://www.amazon.com/gp/product/0321934113/ref=pd_lpo_sbs_dp_ss_3?pf_rd_p=1944687462&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=0201835959&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=1E20VC37Q8W2VN696453) - Tom DeMarco
  - [ ] [Understanding Media](https://en.wikipedia.org/wiki/Understanding_Media) - Marshall McLuhan
  - [ ] [Made to Stick](https://en.wikipedia.org/wiki/Made_to_Stick) - Chip and Dan Heath
 
- #####Product Development
+ ##### Product Development
  - [ ] [Getting Real](http://gettingreal.37signals.com) - The smarter, faster, easier way to build a successful web application
  - [ ] [Joel on Software](http://www.amazon.com/Joel-Software-Occasionally-Developers-Designers/dp/1590593898) - Joel Spolsky
  - [ ] [Team Geek](http://www.amazon.com/Team-Geek-Software-Developers-Working/dp/1449302440/ref=sr_1_1?s=books&ie=UTF8&qid=1414877530&sr=1-1&keywords=team+geek) - Brian Fitzpatrick
@@ -330,8 +333,9 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [Cracking the PM Interview](http://www.amazon.com/Cracking-PM-Interview-Product-Technology/dp/0984782818) - Jackie Bavaro
  - [ ] [The Art of Product Management: Lessons from a Silicon Valley Innovator](http://www.amazon.com/The-Art-Product-Management-Innovator/dp/1439216061) - Rich Mironov
  - [ ] [Making It Right: Product Management For A Startup World](https://www.amazon.com/dp/B00M0KTVTO/?tag=leavethegreat-20) - Rian Van Der Merwe
+ - [ ] [Product Leadership: How Top Product Managers Launch Awesome Products and Build Successful Teams](https://www.amazon.ca/dp/1491960604) -  Richard Banfield, Martin Eriksson, and Nate Walkingshaw
 
- #####Leadership
+ ##### Leadership
  - [ ] [How To Measure Anything](http://www.amazon.com/How-Measure-Anything-Intangibles-Business/dp/1118539273) - Douglas W. Hubbard
  - [ ] [Creativity, Inc.](https://openlibrary.org/works/OL17078912W/Creativity_Inc.) - Ed Catmull
  - [ ] [Where Wizards Stay Up Late](https://openlibrary.org/works/OL3270089W/Where_wizards_stay_up_late) - Katie Hafner
@@ -412,7 +416,8 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [Amazon Case Study](http://www.ecommerce-digest.com/amazon-case-study.html) - Amazon Case Study
  - [ ] [Apple iPod Case Study](http://www.ecommerce-digest.com/apple-ipod-case-study.html) - Apple Case Study
  - [ ] [Netflix Case Study](http://www.ecommerce-digest.com/netflix-case-study.html) - Netflix Case Study
-
+ - [ ] [Box Case Study](https://www.youtube.com/watch?v=qeY2BRaS11g) - Box Case Study
+ 
  ### Sample Product Documentation
  - [ ] [How I would grow Thumbtack’s Customer Side of the Marketplace — Product Spec](https://medium.com/@ivanTr0n/how-i-would-grow-thumbtack-s-customer-side-of-the-marketplace-product-spec-edc5c0521d08#.o9octd4pa) - Sample Product Spec about Thumbtack
  - [ ] [Global Lynda](http://leenau.bitbucket.org/lynda/product-requirements-document/) - Sample Product Requirements Document
@@ -440,7 +445,7 @@ wireframes, mockups, diagrams and prototypes.
 
 
  #### Meetups
- #####North America
+ ##### North America
  - [ ] [Product Tank](http://www.meetup.com/producttanknyc/) - Product Tank NY Meetups
  - [ ] [Product Austin](http://www.meetup.com/ProductAustin/) - The largest Product Meet-up in Austin, TX
  - [ ] [The Product Group](http://www.meetup.com/TheProductGroup/) - The Product Group New York
@@ -455,10 +460,10 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [Product School - Los Angeles Meetup](http://www.meetup.com/productmanagementLA/) - Product School Meetup
  - [ ] [Product School - Boston Meetup](http://www.meetup.com/productmanagementBOS/) - Product School Meetup
 
- #####Europe
+ ##### Europe
   - [ ] [The Product Group London](http://www.meetup.com/TheProductGroupLondon/) - The Product Group London
 
- #####Asia
+ ##### Asia
  - [ ] [Product Management Singapore Facebook](https://www.facebook.com/groups/prodmgmtsg/) - Product Management SG Community
  - [ ] [Product Camp - Singapore Meetup](http://www.meetup.com/Product-Camp-Singapore/) - Product Camp Meetup
  - [ ] [Product Hunt - Singapore Meetup](http://www.meetup.com/Product-Hunt-Singapore-Meetup-Group/) - Product Hunt Meetup
@@ -498,7 +503,8 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [How To Get A PM Job With The Yammer Mafia - In-person](https://medium.com/product-man/how-to-get-a-pm-job-with-the-yammer-mafia-ec2c43c775fb#.viuymdset) - How to Join The Yammer PM Mafia
  - [ ] [The Best Student Activity for Product Managers By Jackie Bavaro](https://pmblog.quora.com/The-Best-Student-Activity-for-Product-Managers) - The Best Student Activity for Product Managers
  - [ ] [Acing the Product Management Interview](https://www.linkedin.com/pulse/20141020034027-1533734-acing-the-product-management-interview?trk=hp-feed-article-title-like) - Allan Hui
-
+ - [ ] [7 Steps: Interview Strategy to Get into Product Management With No Experience](https://www.linkedin.com/pulse/what-your-product-management-interview-strategy-7-steps-mohammad) - Afroz Mohammad
+ 
  ### Career Prep: Company Types
  - [ ] [Google by Larry page and Sergey Brin](http://www.google.com/about/company/philosophy/) - Google's culture
  - [ ] [Microsoft](https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/) - Microsoft PM Culture

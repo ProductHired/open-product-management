@@ -252,6 +252,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [ ] [Xcode for Designers](https://www.producthunt.com/r/d700d9a21c/8887) - Learn how to create native iOS apps in 5 days
  - [ ] [Codecademy's Learn the Command Line](https://www.producthunt.com/r/e835b85f42361a/31952) - Learn how to control your computer with the command line!
  - [ ] [Your First Web App](https://www.producthunt.com/r/acc2f8564f/4997) - Pulling your hair out trying to learn how to code?
+ - [ ] [The Step-By-Step PM Guide to Building Machine Learning Based Products](https://medium.com/@yaelg/product-manager-pm-step-by-step-tutorial-building-machine-learning-products-ffa7817aa8ab) - 6 step guide to get started in achieving business goals with machine learning. 
 
  ### Mockups and Marketing
  - [ ] [moqups](https://moqups.com/) - A streamlined web app that helps you create and collaborate on 

@@ -305,6 +305,9 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [Inspired - How to Create Products Customers Love](http://www.amazon.com/gp/product/B001AQ95UY?btkr=1) - Marty Cagan  
  - [ ] [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things) - Donald Norman
  - [ ] [Don't Make Me Think: A Common Sense Approach to Web Usability, 2nd Edition](http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758) - Steve Krug
+ - [ ] [About Face: The Essentials of Interaction Design, 4th Edition](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/1118766571) - Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel
+ - [ ] [The Elements of User Experience: User-Centered Design for the Web and Beyond, 2nd Edition](https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0321683684) - Jesse James Garrett
+ 
 
  ##### Startups
  - [ ] [The 4 steps to the Epiphany](http://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507) - Steve Blank

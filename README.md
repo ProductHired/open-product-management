@@ -501,6 +501,7 @@ wireframes, mockups, diagrams and prototypes.
  ### Career Prep: The Interview
  - [ ] [Cracking the PM Interview ](http://www.amazon.com/gp/product/0984782818/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0984782818&linkCode=as2&tag=httpstwit071f-20) - Book based on getting a PM career
  - [ ] [The Ultimate Guide to Product Manager Interview Questions](http://www.venturegrit.com/how-to-interview-a-product-manager-the-ultimate-guide/) - PM Questions to Practice
+ - [ ] [Product Management Job Interview Exercises](https://productmanagementexercises.com/) - Free repository of PM job interview questions and answers 
  - [ ] [The PM Interview](http://thepminterview.com) - Set of Questions + Timer to practice your PM skills.
  - [ ] [The Ultimate Guide to Product Manager Interview Questions](https://www.quora.com/What-are-frequently-asked-questions-in-product-manager-interviews) - Quora PM Questions
  - [ ] [4 Questions I Always Ask When Interviewing Product Managers](http://www.producttalk.org/2012/06/4-questions-i-always-ask-when-interviewing-product-managers/) - 4 Questions to ask a PM

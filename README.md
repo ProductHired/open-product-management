@@ -496,7 +496,7 @@ wireframes, mockups, diagrams and prototypes.
  
   ### Career Prep: Where to Apply
   - [ ] [ProductHired.com](http://www.producthired.com) - Simplify your Product Manager Job Search
-  
+  - [ ] [PathtoProduct.com](https://www.pathtoproduct.com) - Discover over 1,000 product jobs at startups and tech companies  
 
  ### Career Prep: The Interview
  - [ ] [Cracking the PM Interview ](http://www.amazon.com/gp/product/0984782818/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0984782818&linkCode=as2&tag=httpstwit071f-20) - Book based on getting a PM career

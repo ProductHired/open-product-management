@@ -388,6 +388,9 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [How to build a product roadmap everyone understands - Free e-Course](https://get.prodpad.com/theme-based-roadmap-course/) - How to build a roadmap
  - [ ] [Building a Pre-Launch Marketing Strategy for Beginners](https://www.udemy.com/building-a-pre-launch-marketing-strategy-for-beginners/) - Build your own Pre-launch Marketing Strategy for your company rollout or feature
  - [ ] [Idea To Revenue Masterclass](http://productmanageracademy.teachable.com/courses/ideatorevenuemasterclass) - Become a Strategic Product Leader: Validate Ideas, Launch Great Products, Deliver Business Results.
+ - [ ] [Coursera - Software Product Management](https://www.coursera.org/specializations/product-management) - Create Better Software using Agile Practices. Master Agile development and effective interactions to drive the making of great software products (Capstone Project)
+ - [ ] [Pragmatic Marketing Courses](https://www.pragmaticmarketing.com/courses) - Product Management and Marketing Training
+
 
  ### Blogs
  - [ ] [The Cranky Product Manager](http://crankypm.com/) - A blog on product management, product marketing, and the ugly side of software product development. As of April 2015, the author, Sue Raisty, no longer writes, but she has a large backlog of great posts.
@@ -539,6 +542,8 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [Janna Bastow](https://twitter.com/simplybastow) - Co-Founder of MTP/CEO at ProdPad/CoFounder ProductTank and ProductCamp London
  - [ ] [Martin Eriksson](https://twitter.com/bfgmartin) - Co-Founder at MTP/ProductTank
  - [ ] [Simon Cast](https://twitter.com/simoncast) - Co Founder MTP/ProductTank/ProdPad
+ - [ ] [Charunethran Panchalam Govindarajan](https://twitter.com/charupg) - Product Manager, Intel / Social Entrepreneur / Tech Enthusiast 
+
 
  # Special Thanks
  - Special Thanks to [Paul Cothenet](http://attackwithnumbers.com) for providing the Base of Core 1: Product Management

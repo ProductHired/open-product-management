@@ -75,6 +75,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [ ] [Evolution of the Product Manager](http://queue.acm.org/detail.cfm?id=2683579) - Ellen Chisa
  - [ ] [Use your Product Powers for Good](http://www.productpowers.com/blog/use-your-product-powers-for-good.html) - Bruce McCarthy
  - [ ] [Product Management: An introduction for undergraduates and graduates](https://product.careers/presentation/) - Thor Mitchell
+ - [ ] [What It Takes to Become a Great Product Manager](http://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) - Julia Austin
 
  ### Is it really for you?
  - [ ] [How to hire a Product Manager?](https://www.kennethnorton.com/essays/productmanager.html) - Kenneth Norton
@@ -140,6 +141,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [ ] [Drop feature-based product roadmaps](http://www.producttalk.org/2014/04/drop-feature-based-product-roadmaps/) - Teresa Torres
  - [ ] [How to build a roadmap everyone understands](https://medium.com/@dreasaez/how-to-build-a-product-roadmap-everyone-understands-522b36270e5#.e8gcmylg0) - Andrea Saez
  - [ ] [Making a Product Map](https://medium.com/@mstephan/making-a-product-map-4fbf6d440a19#.bpmtqfotk) - Mark Stephan
+ - [ ] [The Product Manager's Visual Guide to Feature Selection](https://taprun.com/articles/product-managers-visual-guide-to-feature-selection) - Adam Juda
 
  ### How to work with Engineers
  - [ ] [The care and feeding of software engineers](http://www.nczonline.net/blog/2012/06/12/the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy/) - Nicholas C. Zakas
@@ -212,6 +214,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [ ] [End-End Product Management Lifecycle](http://attackwithnumbers.com/i-love-product-management) - A list of articles from what is it to becoming a great Product Manager
  - [ ] [The One-Stop Product Management Guide](http://www.digitalfriday.co/productmanagementguide/) - A framework and list of articles to help product managers build, grow and manage digital products
  - [ ] [Harvard Business School PM 101](https://sites.google.com/site/hbspm101/home) - Online resource reposotiory from Harvard Business School PM 101 course.
+ - [ ] [Product Management Processes](https://www.productprocesses.co) - A knowledge base of product management processes, tools and templates.
 
  ### Design
  - [ ] [Kindling](https://www.producthunt.com/r/9c7a76d74a/7801) - Idea management tool
@@ -251,6 +254,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [ ] [Xcode for Designers](https://www.producthunt.com/r/d700d9a21c/8887) - Learn how to create native iOS apps in 5 days
  - [ ] [Codecademy's Learn the Command Line](https://www.producthunt.com/r/e835b85f42361a/31952) - Learn how to control your computer with the command line!
  - [ ] [Your First Web App](https://www.producthunt.com/r/acc2f8564f/4997) - Pulling your hair out trying to learn how to code?
+ - [ ] [The Step-By-Step PM Guide to Building Machine Learning Based Products](https://medium.com/@yaelg/product-manager-pm-step-by-step-tutorial-building-machine-learning-products-ffa7817aa8ab) - 6 step guide to get started in achieving business goals with machine learning. 
 
  ### Mockups and Marketing
  - [ ] [moqups](https://moqups.com/) - A streamlined web app that helps you create and collaborate on 
@@ -302,6 +306,9 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [Inspired - How to Create Products Customers Love](http://www.amazon.com/gp/product/B001AQ95UY?btkr=1) - Marty Cagan  
  - [ ] [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things) - Donald Norman
  - [ ] [Don't Make Me Think: A Common Sense Approach to Web Usability, 2nd Edition](http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758) - Steve Krug
+ - [ ] [About Face: The Essentials of Interaction Design, 4th Edition](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/1118766571) - Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel
+ - [ ] [The Elements of User Experience: User-Centered Design for the Web and Beyond, 2nd Edition](https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0321683684) - Jesse James Garrett
+ 
 
  ##### Startups
  - [ ] [The 4 steps to the Epiphany](http://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507) - Steve Blank
@@ -368,6 +375,7 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [Growth Everywhere - The Strategy That Skyrocketed Hotjar to $1 Million ARR in 6 Months](https://www.producthunt.com/podcasts/growth-everywhere-the-strategy-that-skyrocketed-hotjar-to-1-million-arr-in-6-months) - How David Darmanin Grew Hotjar To $1 Million ARR in 6 months
  - [ ] [Yours Productly - Shardul Mehta, VP Products at Diamond Mind](http://yoursproductly.com/shardulmehta/) - Shardul Mehta on Product Canvas, Why Products Fail, His Upcoming Book and a Lot More
  - [ ] [Products That Count - By Sophie-Charlotte Moatti](https://itunes.apple.com/us/podcast/products-that-count-podcast/id1038890550?mt=2) - A podcast for product makers, data-minded thinkers and innovators. 
+- [ ] [This is Product Management - By AlphaUX] (https://www.thisisproductmanagement.com/) - The podcast for product teams.
 
  ### Courses
  - [ ] [Design Workflow with Sketch](https://github.com/facebook/pop) - An e-course from Clark Wimberly at InVision.
@@ -381,6 +389,9 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [How to build a product roadmap everyone understands - Free e-Course](https://get.prodpad.com/theme-based-roadmap-course/) - How to build a roadmap
  - [ ] [Building a Pre-Launch Marketing Strategy for Beginners](https://www.udemy.com/building-a-pre-launch-marketing-strategy-for-beginners/) - Build your own Pre-launch Marketing Strategy for your company rollout or feature
  - [ ] [Idea To Revenue Masterclass](http://productmanageracademy.teachable.com/courses/ideatorevenuemasterclass) - Become a Strategic Product Leader: Validate Ideas, Launch Great Products, Deliver Business Results.
+ - [ ] [Coursera - Software Product Management](https://www.coursera.org/specializations/product-management) - Create Better Software using Agile Practices. Master Agile development and effective interactions to drive the making of great software products (Capstone Project)
+ - [ ] [Pragmatic Marketing Courses](https://www.pragmaticmarketing.com/courses) - Product Management and Marketing Training
+
 
  ### Blogs
  - [ ] [The Cranky Product Manager](http://crankypm.com/) - A blog on product management, product marketing, and the ugly side of software product development. As of April 2015, the author, Sue Raisty, no longer writes, but she has a large backlog of great posts.
@@ -489,7 +500,7 @@ wireframes, mockups, diagrams and prototypes.
  
   ### Career Prep: Where to Apply
   - [ ] [ProductHired.com](http://www.producthired.com) - Simplify your Product Manager Job Search
-  
+  - [ ] [PathtoProduct.com](https://www.pathtoproduct.com) - Discover over 1,000 product jobs at startups and tech companies  
 
  ### Career Prep: The Interview
  - [ ] [Cracking the PM Interview ](http://www.amazon.com/gp/product/0984782818/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0984782818&linkCode=as2&tag=httpstwit071f-20) - Book based on getting a PM career
@@ -503,6 +514,8 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [The Best Student Activity for Product Managers By Jackie Bavaro](https://pmblog.quora.com/The-Best-Student-Activity-for-Product-Managers) - The Best Student Activity for Product Managers
  - [ ] [Acing the Product Management Interview](https://www.linkedin.com/pulse/20141020034027-1533734-acing-the-product-management-interview?trk=hp-feed-article-title-like) - Allan Hui
  - [ ] [7 Steps: Interview Strategy to Get into Product Management With No Experience](https://www.linkedin.com/pulse/what-your-product-management-interview-strategy-7-steps-mohammad) - Afroz Mohammad
+ - [ ] [Product Management Job Interview Exercises](https://productmanagementexercises.com/) - Free repository of PM job interview questions and answers 
+
  
  ### Career Prep: Company Types
  - [ ] [Google by Larry page and Sergey Brin](http://www.google.com/about/company/philosophy/) - Google's culture
@@ -530,6 +543,8 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [Janna Bastow](https://twitter.com/simplybastow) - Co-Founder of MTP/CEO at ProdPad/CoFounder ProductTank and ProductCamp London
  - [ ] [Martin Eriksson](https://twitter.com/bfgmartin) - Co-Founder at MTP/ProductTank
  - [ ] [Simon Cast](https://twitter.com/simoncast) - Co Founder MTP/ProductTank/ProdPad
+ - [ ] [Charunethran Panchalam Govindarajan](https://twitter.com/charupg) - Product Manager, Intel / Social Entrepreneur / Tech Enthusiast 
+
 
  # Special Thanks
  - Special Thanks to [Paul Cothenet](http://attackwithnumbers.com) for providing the Base of Core 1: Product Management

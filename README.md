@@ -300,6 +300,8 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [Stream](https://www.producthunt.com/r/e069b8159d31bb/51641) - Analytics for feeds.
  - [ ] [Mobile Dashboards by Mixpanel](https://www.producthunt.com/r/4da193a39f35a0/49303) - Monitor your key metrics, everywhere you go
  - [ ] [A/B Testing Effectively](https://blog.intercom.io/why-ab-tests-should-yield-more-than-results/) - Run successful, statistically accurate A/B tests.
+ - [ ] [Heap Analytics](https://heapanalytics.com/) - Heap lets you automatically capture every user interaction from web, mobile, and cloud services.
+ - [ ] [Snowplow Analytics](https://snowplowanalytics.com/) - Open source web, mobile and event analytics platform.
 
  ### Books
  ##### Design

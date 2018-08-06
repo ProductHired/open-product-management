@@ -391,6 +391,8 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [Idea To Revenue Masterclass](http://productmanageracademy.teachable.com/courses/ideatorevenuemasterclass) - Become a Strategic Product Leader: Validate Ideas, Launch Great Products, Deliver Business Results.
  - [ ] [Coursera - Software Product Management](https://www.coursera.org/specializations/product-management) - Create Better Software using Agile Practices. Master Agile development and effective interactions to drive the making of great software products (Capstone Project)
  - [ ] [Pragmatic Marketing Courses](https://www.pragmaticmarketing.com/courses) - Product Management and Marketing Training
+ - [ ] [Cursos PM3 (Portuguese Only)](https://www.pragmaticmarketing.com/courses) - The first course 100% in Portuguese about Product Management. It was made by product professionals and the course covers from the basics until the most advanced topics with +40 hours of content.
+
 
 
  ### Blogs
@@ -479,12 +481,17 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [Product Hunt - Singapore Meetup](http://www.meetup.com/Product-Hunt-Singapore-Meetup-Group/) - Product Hunt Meetup
  - [ ] [Product Talks - Singapore Meetup](http://www.meetup.com/producttalkssingapore/) - Product Talks Meetup
  - [ ] [Product Tank - Singapore Meetup](http://www.meetup.com/ProductTank-Singapore/) - Product Tank Meetup
+ 
+  ##### South America
+
+ - [ ] [Produto.io - São Paulo](https://www.meetup.com/produto-io-sp/) - Produto.io Meetup in São Paulo
 
  #### Conferences
  - [ ] [Mind the Product Conference](http://mtpcon.com/sf/) - The Conference for Passionate Product People
  - [ ] [Industry - Product Conference](http://indsum.com) - For people who build, launch and scale world-class product.
  - [ ] [Lean Startup Week](http://leanstartup.co/2016-conference/) - Lean Startup Week is a seven-day immersion into Lean Startup methodology led by star practitioners in big companies and hot startups from around the world.
  - [ ] [Enterprise UX 2016](http://2016.enterpriseux.net) - The Enterprise UX 2016 conference is dedicated to delivering useful, delightful, and humane experiences to people who work for and in enterprises.
+  - [ ] [Product Camp Brasil](http://www.productcamp.com.br) - The event is now the largest on Product Management in Latin America, where Brazilian and international speakers share their learnings about Product, UX and Growth with the participants.
 
  # Core 4: Get the Job
 

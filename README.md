@@ -35,7 +35,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [Core 2: Resources](#core-2-resources)
     - [Design](#design)
     - [Development](#development)
-    - [Marketing and Mockups](#marketing-and-mockups)
+    - [Mockups and Marketing](#mockups-and-marketing)
     - [Team Management](#team-management)
     - [Analytics](#analytics)
     - [Books](#books)

@@ -87,7 +87,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
  ### Becoming a Product Guru
  - [ ] [How do I become a Product Manager?](https://www.quora.com/How-do-I-become-a-product-manager-2) - Multiple authors
- - [ ] [How I became a PM ](http://blog.ellenchisa.com/2014/01/10/how-i-became-a-pm/) - Ellen Chisa
+ - [ ] [How I became a PM](http://blog.ellenchisa.com/2014/01/10/how-i-became-a-pm/) - Ellen Chisa
  - [ ] [Do Product Managers really need a background in CS](https://pmblog.quora.com/Do-Product-Managers-really-need-a-background-in-CS) - Jackie Bavaro
  - [ ] [Want to be a PM? Do a Project](http://blog.ellenchisa.com/2014/01/28/want-to-be-a-pm-do-a-project/) - Ellen Chisa
  - [ ] [So You Want to Manage a Product](https://medium.com/@rohinivibha/so-you-want-to-manage-a-product-c664ba7e5138) - Rohini Viba
@@ -95,6 +95,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [ ] [12 things Product Managers should do in their first 30 Days at a new company](http://www.gv.com/lib/12-things-product-managers-should-do-in-their-first-30-days-at-a-new-company) - Kenneth Norton
  - [ ] [Evolution of the Product Manager](http://queue.acm.org/detail.cfm?id=2683579) - Ellen Chisa
  - [ ] [4 mistakes new Product Managers make](http://dev.hubspot.com/blog/4-mistakes-new-product-managers-make) - Matt Schnitt
+ - [ ] [Product Manager Skills By Seniority Level — A Deep Breakdown](https://medium.com/pminsider/product-manager-skills-by-seniority-level-a-deep-breakdown-cd0690f76d10) - Brent Tworetzky
 
  ### Building Great Products
  - [ ] [How to build great products](http://www.defmacro.org/2013/09/26/products.html) - Slava Akhmechet
@@ -186,7 +187,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [ ] [Product organizational structure](http://www.svpg.com/product-organizational-structure/) - Marty Cagan
  - [ ] [Good product team, bad product team](http://www.svpg.com/good-product-team-bad-product-team/) - Marty Cagan
  - [ ] [The best Product Management model](http://svpg.com/the-best-product-management-model/) - Marty Cagan
- - [ ] [Maker's Schedule, Manager's Schedule ](http://www.paulgraham.com/makersschedule.html) - Paul Graham
+ - [ ] [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) - Paul Graham
  - [ ] [Take back your day: Time Management for PMs](https://pmblog.quora.com/Take-back-your-day-Time-Management-for-PMs) - Jackie Bavaro
 
  ### Become the Best in the Field
@@ -513,7 +514,7 @@ wireframes, mockups, diagrams and prototypes.
   - [ ] [PathtoProduct.com](https://www.pathtoproduct.com) - Discover over 1,000 product jobs at startups and tech companies  
 
  ### Career Prep: The Interview
- - [ ] [Cracking the PM Interview ](http://www.amazon.com/gp/product/0984782818/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0984782818&linkCode=as2&tag=httpstwit071f-20) - Book based on getting a PM career
+ - [ ] [Cracking the PM Interview](http://www.amazon.com/gp/product/0984782818/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0984782818&linkCode=as2&tag=httpstwit071f-20) - Book based on getting a PM career
  - [ ] [The Ultimate Guide to Product Manager Interview Questions](http://www.venturegrit.com/how-to-interview-a-product-manager-the-ultimate-guide/) - PM Questions to Practice
  - [ ] [The PM Interview](http://thepminterview.com) - Set of Questions + Timer to practice your PM skills.
  - [ ] [The Ultimate Guide to Product Manager Interview Questions](https://www.quora.com/What-are-frequently-asked-questions-in-product-manager-interviews) - Quora PM Questions

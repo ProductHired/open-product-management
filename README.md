@@ -343,6 +343,7 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [The Art of Product Management: Lessons from a Silicon Valley Innovator](http://www.amazon.com/The-Art-Product-Management-Innovator/dp/1439216061) - Rich Mironov
  - [ ] [Making It Right: Product Management For A Startup World](https://www.amazon.com/dp/B00M0KTVTO/?tag=leavethegreat-20) - Rian Van Der Merwe
  - [ ] [Product Leadership: How Top Product Managers Launch Awesome Products and Build Successful Teams](https://www.amazon.ca/dp/1491960604) -  Richard Banfield, Martin Eriksson, and Nate Walkingshaw
+  - [ ] [Lovability: How to Build a Business That People Love and Be Happy Doing It](https://amazon.com/Lovability-Build-Business-People-Happy-ebook/dp/B06XJ9RGNY/) - Brian de Haaff
 
  ##### Leadership
  - [ ] [How To Measure Anything](http://www.amazon.com/How-Measure-Anything-Intangibles-Business/dp/1118539273) - Douglas W. Hubbard

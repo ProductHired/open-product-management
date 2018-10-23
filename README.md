@@ -490,6 +490,7 @@ wireframes, mockups, diagrams and prototypes.
   ##### South America
 
  - [ ] [Produto.io - São Paulo](https://www.meetup.com/produto-io-sp/) - Produto.io Meetup in São Paulo
+ - [ ] [Product School - Belo Horizonte](http://www.meetup.com/product-school-belohorizonte/) - Product School Meetup
 
  #### Conferences
  - [ ] [Mind the Product Conference](http://mtpcon.com/sf/) - The Conference for Passionate Product People

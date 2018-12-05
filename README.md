@@ -58,7 +58,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
     - [Career Prep Company Types](#career-prep-company-types)
 - [Best Product Managers on Twitter](#best-product-managers-on-twitter)
 - [Special Thanks](#special-thanks)
-- [Contributing to the list](#contributing)
+- [Contributing to the list](#contributing-to-the-list)
 
 
  # Core 1: Product Management

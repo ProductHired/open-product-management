@@ -32,6 +32,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
     - [Shipping and Measuring Products](#shipping-and-measuring-products)
     - [Organizing your Team](#organizing-your-team)
     - [Become the Best in the Field](#become-the-best-in-the-field)
+    - [MVPM: Minimum Viable Product Manager](#minimum-viable-product-manager)
 - [Core 2: Resources](#core-2-resources)
     - [Design](#design)
     - [Development](#development)
@@ -76,6 +77,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [ ] [Use your Product Powers for Good](http://www.productpowers.com/blog/use-your-product-powers-for-good.html) - Bruce McCarthy
  - [ ] [Product Management: An introduction for undergraduates and graduates](https://product.careers/presentation/) - Thor Mitchell
  - [ ] [What It Takes to Become a Great Product Manager](http://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) - Julia Austin
+ - [ ] [MVPM: Minimum Viable Product Manager](https://blackboxofpm.com/mvpm-minimum-viable-product-manager-e1aeb8dd421) - Brandon Chu
 
  ### Is it really for you?
  - [ ] [How to hire a Product Manager?](https://www.kennethnorton.com/essays/productmanager.html) - Kenneth Norton

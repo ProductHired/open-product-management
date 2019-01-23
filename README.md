@@ -384,7 +384,7 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [Products That Count - By Sophie-Charlotte Moatti](https://itunes.apple.com/us/podcast/products-that-count-podcast/id1038890550?mt=2) - A podcast for product makers, data-minded thinkers and innovators. 
 - [ ] [This is Product Management - By AlphaUX] (https://www.thisisproductmanagement.com/) - The podcast for product teams.
 
- ### Courses
+ ### Online Courses
  - [ ] [Design Workflow with Sketch](https://github.com/facebook/pop) - An e-course from Clark Wimberly at InVision.
  - [ ] [Designlab](https://www.producthunt.com/r/b1ef8b4e5a/11546) - Learn design by doing, with hands-on projects & mentorship.
  - [ ] [You're Hired: How to Get a Job in Silicon Valley](https://www.udemy.com/youre-hired-how-to-get-a-job-in-silicon-valley/) - Learn how to get a job in Silicon Valley
@@ -402,7 +402,7 @@ wireframes, mockups, diagrams and prototypes.
 
 
 
- ### Blogs
+ ### Online Blogs
  - [ ] [The Cranky Product Manager](http://crankypm.com/) - A blog on product management, product marketing, and the ugly side of software product development. As of April 2015, the author, Sue Raisty, no longer writes, but she has a large backlog of great posts.
  - [ ] [Street Smart Product Manager](http://streetsmartproductmanager.com/) - Thriving in the urban jungle of product.
  - [ ] [Product Talk](http://www.producttalk.org/) - Make better product decisions.

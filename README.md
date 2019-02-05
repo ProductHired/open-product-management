@@ -406,7 +406,8 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Silicon Valley Product Group](http://svpg.com/articles/) - Shares lessons learned and knowledge of product management.
 - [ ] [The Clever PM](http://thecleverpm.com/) - Tips, tricks, and hacks that help you to be a better, more clever, Product Manager.
 - [ ] [Mind the Product](http://www.mindtheproduct.com/) - Product Management Blog and events.
-
+- [ ] [Good Product Manager](https://www.goodproductmanager.com/) - How To Be A Good Product Manager
+ 
 # Core 3: Real Life Product Management
 ## Interviews
 - [ ] [Janna Bastow on "How to Get into Product Management"](https://www.youtube.com/watch?v=p9Ubfv5v2i8) - A conversation between Janna Bastow, founder of ProdPad and previously a product manager / consultant

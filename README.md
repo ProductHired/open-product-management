@@ -407,6 +407,7 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [The Clever PM](http://thecleverpm.com/) - Tips, tricks, and hacks that help you to be a better, more clever, Product Manager.
 - [ ] [Mind the Product](http://www.mindtheproduct.com/) - Product Management Blog and events.
 - [ ] [Good Product Manager](https://www.goodproductmanager.com/) - How To Be A Good Product Manager
+- [ ] [15 Things You Should Know About Product Managers](https://medium.com/@johnpcutler/15-things-you-should-know-about-product-managers-f488513d246) - John Cutler
  
 # Core 3: Real Life Product Management
 ## Interviews

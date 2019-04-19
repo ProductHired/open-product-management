@@ -380,10 +380,10 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Growth Everywhere - The Strategy That Skyrocketed Hotjar to $1 Million ARR in 6 Months](https://www.producthunt.com/podcasts/growth-everywhere-the-strategy-that-skyrocketed-hotjar-to-1-million-arr-in-6-months) - How David Darmanin Grew Hotjar To $1 Million ARR in 6 months
 - [ ] [Yours Productly - Shardul Mehta, VP Products at Diamond Mind](http://yoursproductly.com/shardulmehta/) - Shardul Mehta on Product Canvas, Why Products Fail, His Upcoming Book and a Lot More
 - [ ] [Products That Count - By Sophie-Charlotte Moatti](https://itunes.apple.com/us/podcast/products-that-count-podcast/id1038890550?mt=2) - A podcast for product makers, data-minded thinkers and innovators. 
-- [ ] [This is Product Management - By AlphaUX] (https://www.thisisproductmanagement.com/) - The podcast for product teams.
-- [ ] [Agile Uprising Podcast] (http://podcast.agileuprising.com/) - They cover all topics asociated with Agile. From the Manifesto, to the frameworks, to the values and principles.
-- [ ] [mindtheproduct.com Podcasts] (https://www.mindtheproduct.com/tag/podcast/) - Podcasts by mindtheproduct.com
-- [ ] [Masters of Scale with Reid Hoffman] (https://podcasts.apple.com/us/podcast/masters-of-scale-with-reid-hoffman/id1227971746?mt=2) - How do companies grow from zero to a gazillion? Legendary Silicon Valley investor / entrepreneur Reid Hoffman tests his theories with famous founders.
+- [ ] [This is Product Management - By AlphaUX](https://www.thisisproductmanagement.com/) - The podcast for product teams.
+- [ ] [Agile Uprising Podcast](http://podcast.agileuprising.com/) - They cover all topics asociated with Agile. From the Manifesto, to the frameworks, to the values and principles.
+- [ ] [mindtheproduct.com Podcasts](https://www.mindtheproduct.com/tag/podcast/) - Podcasts by mindtheproduct.com
+- [ ] [Masters of Scale with Reid Hoffman](https://podcasts.apple.com/us/podcast/masters-of-scale-with-reid-hoffman/id1227971746?mt=2) - How do companies grow from zero to a gazillion? Legendary Silicon Valley investor / entrepreneur Reid Hoffman tests his theories with famous founders.
 
 ## Online Courses
 - [ ] [Design Workflow with Sketch](https://github.com/facebook/pop) - An e-course from Clark Wimberly at InVision.

@@ -384,6 +384,7 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [How to build a product roadmap everyone understands - Free e-Course](https://get.prodpad.com/theme-based-roadmap-course/) - How to build a roadmap
  - [ ] [Building a Pre-Launch Marketing Strategy for Beginners](https://www.udemy.com/building-a-pre-launch-marketing-strategy-for-beginners/) - Build your own Pre-launch Marketing Strategy for your company rollout or feature
  - [ ] [Idea To Revenue Masterclass](http://productmanageracademy.teachable.com/courses/ideatorevenuemasterclass) - Become a Strategic Product Leader: Validate Ideas, Launch Great Products, Deliver Business Results.
+  - [ ] [AI Product Manager](https://eu.udacity.com/course/ai-product-manager-nanodegree--nd088) - Learn to develop AI products that deliver business value. Build skills that help you compete in the new AI-powered world.
 
  ### Blogs
  - [ ] [The Cranky Product Manager](http://crankypm.com/) - A blog on product management, product marketing, and the ugly side of software product development. As of April 2015, the author, Sue Raisty, no longer writes, but she has a large backlog of great posts.

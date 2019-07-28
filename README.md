@@ -402,6 +402,7 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Pragmatic Marketing Courses](https://www.pragmaticmarketing.com/courses) - Product Management and Marketing Training
 - [ ] [Cursos PM3 (Portuguese Only)](https://www.cursospm3.com.br) - The first course 100% in Portuguese about Product Management. It was made by product professionals and the course covers from the basics until the most advanced topics with +40 hours of content.
 - [ ] [Product Management Weekly Tips](https://www.linkedin.com/learning/product-management-weekly-tips/welcome) - Free Product Management Weekly Tip Videos From Linkedin Learning
+  - [ ] [AI Product Manager](https://eu.udacity.com/course/ai-product-manager-nanodegree--nd088) - Learn to develop AI products that deliver business value. Build skills that help you compete in the new AI-powered world.
 
 ## Online Blogs
 - [ ] [The Cranky Product Manager](http://crankypm.com/) - A blog on product management, product marketing, and the ugly side of software product development. As of April 2015, the author, Sue Raisty, no longer writes, but she has a large backlog of great posts.

@@ -215,6 +215,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
 # Core 2: Resources
 ## Resource Repositories
+- [ ] [Product Management Toolkit](http://bit.ly/2LF34CO) - Curated directory of tools and resources for Product Managers by Product Managers
 - [ ] [Software Product Management Stack](http://softwareproductmanagement.co/) - A curated list of Product Manager articles and resources
 - [ ] [End-End Product Management Lifecycle](http://attackwithnumbers.com/i-love-product-management) - A list of articles from what is it to becoming a great Product Manager
 - [ ] (invalid link) The One-Stop Product Management Guide (http://www.digitalfriday.co/productmanagementguide/) - A framework and list of articles to help product managers build, grow and manage digital products

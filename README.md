@@ -312,7 +312,8 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Don't Make Me Think: A Common Sense Approach to Web Usability, 2nd Edition](http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758) - Steve Krug
 - [ ] [About Face: The Essentials of Interaction Design, 4th Edition](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/1118766571) - Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel
 - [ ] [The Elements of User Experience: User-Centered Design for the Web and Beyond, 2nd Edition](https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0321683684) - Jesse James Garrett
-- [ ] [Designing Products People Love](http://shop.oreilly.com/product/0636920038917.do?cmp=tw-design-books-videos-product-promo_cmjy_dp&ref=producthunt) - How great designers create successful products. 
+- [ ] [Designing Products People Love](http://shop.oreilly.com/product/0636920038917.do?cmp=tw-design-books-videos-product-promo_cmjy_dp&ref=producthunt) - How great designers create successful products.
+- [ ] [Badass: Making Users Awesome](http://seriouspony.com/badass-users-the-book) - Kathy Sierra
  
 ### Startups
 - [ ] [The 4 steps to the Epiphany](http://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507) - Steve Blank

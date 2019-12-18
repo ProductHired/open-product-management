@@ -520,6 +520,9 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [PathtoProduct.com](https://www.pathtoproduct.com) - Discover over 1,000 product jobs at startups and tech companies  
 
 ## Career Prep: The Interview
+- [ ] [Preparing for PM interviews: how to get there in 15–20 hours](https://medium.com/pminsider/preparing-for-pm-interviews-how-to-get-there-in-15-20-hours-193f6fcbf606) - Preparing for PM interviews
+- [ ] [How to Prepare for PM interviews](https://fernandodelgado.com/blog/how-to-prepare-for-product-management-interviews) - How to Prepare for PM interviews
+- [ ] [How to become a Product Manager (for college students)](https://fernandodelgado.com/blog/how-to-become-a-product-manager) - How to become a Product Manager (for college students)
 - [ ] [Cracking the PM Interview](http://www.amazon.com/gp/product/0984782818/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0984782818&linkCode=as2&tag=httpstwit071f-20) - Book based on getting a PM career
 - [ ] [The Ultimate Guide to Product Manager Interview Questions](http://www.venturegrit.com/how-to-interview-a-product-manager-the-ultimate-guide/) - PM Questions to Practice
 - [ ] [The PM Interview](http://thepminterview.com) - Set of Questions + Timer to practice your PM skills.

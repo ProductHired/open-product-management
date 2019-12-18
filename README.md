@@ -542,7 +542,7 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Amazon](https://www.quora.com/Amazon-company/What-is-Amazons-approach-to-product-development-and-product-management) - Amazon's culture
 - [ ] [Facebook](https://www.quora.com/What-does-a-Product-Manager-at-Facebook-do) - Facebook PM Culture
 
-# Best Product Managers on Twitter
+# Top Product Managers
 - [ ] [Ken Norton](https://twitter.com/kennethn) - Partner @GVTeam. Formerly PM @Google.
 - [ ] [Josh Elman](https://twitter.com/joshelman) - Partner, @GreylockVC: @Medium, @Jelly, @AppMeerkat, @Operator, @discordapp @Nextdoor.
 - [ ] [Hunter Walk](https://twitter.com/hunterwalk) - @homebrew, Seed Stage Venture Fund w @satyap. Made products at YouTube, Google & SecondLife.
@@ -550,6 +550,7 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Marty Cagan](https://twitter.com/cagan) - I'm a partner at Silicon Valley Product Group, specializing in product teams and product strategy
 - [ ] [Ellen Chisa](https://twitter.com/ellenchisa) - VP Product for http://lolatravel.com , temporary @harvardhbs dropout.
 - [ ] [Jackie Bavaro](https://twitter.com/jackiebo) - Asana Product Manager. Co-Author of Cracking the PM Interview. Previously @ Google & Microsoft
+- [ ] [Fernando Delgado](https://www.linkedin.com/in/fernandodelgado/) - Sr. Product Manager at Google. Previously worked as an Entrepreneur, Product Management Coach, and Sr Director of Product Management at Yahoo.
 - [ ] [Julie Zhuo](https://twitter.com/joulee) - Product design VP @ Facebook.
 - [ ] [Joel Spolsky](https://twitter.com/spolsky) - CEO of Stack Overflow, co-founder of Fog Creek Software (FogBugz, Kiln), and creator of Trello.
 - [ ] [Bruce McCarthy](https://twitter.com/d8a_driven) - Innovator, consultant, coach, and evangelist for better products and product development

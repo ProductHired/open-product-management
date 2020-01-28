@@ -370,6 +370,7 @@ and deliver behavior-based engagement every step of the way.
 ## Newsletters
 - [ ] [Pivot Product Hits](https://pivotservices.curated.co/) - A weekly email newsletter of the best Product Management content 
 - [ ] [Weekly Thoughts of Tim Herbig](https://herbigt.com/newsletter/) - A weekly digest of personal advice for product people and interesting articles around product, ux and entrepreneurship
+- [ ] [Austin Voice of Product](https://austinvop.com) - Product newsletter making the Austin product community stronger
  
 ## Podcasts
 - [ ] [Design Details Podcast](https://www.producthunt.com/r/f0a61978d9/12920) - A show about the people who design our favorite products.

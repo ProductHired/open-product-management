@@ -537,6 +537,7 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Acing the Product Management Interview](https://www.linkedin.com/pulse/20141020034027-1533734-acing-the-product-management-interview?trk=hp-feed-article-title-like) - Allan Hui
 - [ ] [7 Steps: Interview Strategy to Get into Product Management With No Experience](https://www.linkedin.com/pulse/what-your-product-management-interview-strategy-7-steps-mohammad) - Afroz Mohammad
 - [ ] [Product Management Job Interview Exercises](https://productmanagementexercises.com/) - Free repository of PM job interview questions and answers 
+- [ ] [Exponent](http://www.tryexponent.com) - Exponent offers online courses, an interview questions database, and Slack community for mock interviews.
 
 ## Career Prep: Company Types
 - [ ] [Google by Larry page and Sergey Brin](http://www.google.com/about/company/philosophy/) - Google's culture

@@ -79,6 +79,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [ ] [Use your Product Powers for Good](http://www.productpowers.com/blog/use-your-product-powers-for-good.html) - Bruce McCarthy
 - [ ] [Product Management: An introduction for undergraduates and graduates](https://product.careers/presentation/) - Thor Mitchell (Student presentation)
 - [ ] [What It Takes to Become a Great Product Manager](http://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) - Julia Austin
+- [ ] [A Day in the Life of a Product Manager: Consumer and Enterprise](https://blog.tryexponent.com/day-in-life-pm/) - Kevin Wei
 
 ## Is It Really For You?
 - [ ] [How to hire a Product Manager?](https://www.kennethnorton.com/essays/productmanager.html) - Kenneth Norton
@@ -537,13 +538,14 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Acing the Product Management Interview](https://www.linkedin.com/pulse/20141020034027-1533734-acing-the-product-management-interview?trk=hp-feed-article-title-like) - Allan Hui
 - [ ] [7 Steps: Interview Strategy to Get into Product Management With No Experience](https://www.linkedin.com/pulse/what-your-product-management-interview-strategy-7-steps-mohammad) - Afroz Mohammad
 - [ ] [Product Management Job Interview Exercises](https://productmanagementexercises.com/) - Free repository of PM job interview questions and answers 
+- [ ] [Exponent](http://www.tryexponent.com) - Exponent offers online courses, a free interview questions database, and a Slack community for mock interviews.
 
 ## Career Prep: Company Types
 - [ ] [Google by Larry page and Sergey Brin](http://www.google.com/about/company/philosophy/) - Google's culture
 - [ ] [Microsoft](https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/) - Microsoft PM Culture
 - [ ] [Amazon](https://www.quora.com/Amazon-company/What-is-Amazons-approach-to-product-development-and-product-management) - Amazon's culture
 - [ ] [Facebook](https://www.quora.com/What-does-a-Product-Manager-at-Facebook-do) - Facebook PM Culture
-- [ ] [The Ultimate Amazon Non-Tech PM (Product Manager) Interview Guide](https://www.tryexponent.com/guides/amazon/pm-interview) - This guide explains each stage of the Amazon PM interview and has practice interview questions that were asked at Amazon
+- [ ] [The Ultimate Google APM Interview Guide](https://www.tryexponent.com/guides/google/apm-interview) - This guide explains each stage of the Google APM interview and has practice interview questions that were asked at Google
 
 # Top Product Managers
 - [ ] [Ken Norton](https://twitter.com/kennethn) - Partner @GVTeam. Formerly PM @Google.

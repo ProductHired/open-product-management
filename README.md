@@ -543,6 +543,7 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Microsoft](https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/) - Microsoft PM Culture
 - [ ] [Amazon](https://www.quora.com/Amazon-company/What-is-Amazons-approach-to-product-development-and-product-management) - Amazon's culture
 - [ ] [Facebook](https://www.quora.com/What-does-a-Product-Manager-at-Facebook-do) - Facebook PM Culture
+- [ ] [The Ultimate Microsoft PM (Program Manager) Interview Guide](https://www.tryexponent.com/guides/microsoft/pm-interview) - This guide explains each stage of the Microsoft PM and has practice interview questions that were asked at Microsoft
 
 # Top Product Managers
 - [ ] [Ken Norton](https://twitter.com/kennethn) - Partner @GVTeam. Formerly PM @Google.

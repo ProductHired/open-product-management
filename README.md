@@ -404,7 +404,9 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Idea To Revenue Masterclass](http://productmanageracademy.teachable.com/courses/ideatorevenuemasterclass) - Become a Strategic Product Leader: Validate Ideas, Launch Great Products, Deliver Business Results.
 - [ ] [Coursera - Software Product Management](https://www.coursera.org/specializations/product-management) - Create Better Software using Agile Practices. Master Agile development and effective interactions to drive the making of great software products (Capstone Project)
 - [ ] [Pragmatic Marketing Courses](https://www.pragmaticmarketing.com/courses) - Product Management and Marketing Training
-- [ ] [Cursos PM3 (Portuguese Only)](https://www.cursospm3.com.br) - The first course 100% in Portuguese about Product Management. It was made by product professionals and the course covers from the basics until the most advanced topics with +40 hours of content.
+- [ ] [Product Management - Cursos PM3 (Portuguese Only)](https://www.cursospm3.com.br/curso-product-manager) - This was the first course 100% online in Portuguese about Product Management. It was made by product professionals and the course covers from the basics until the most advanced topics with +40 hours of content.
+- [ ] [Product Discovery - Cursos PM3 (Portuguese Only)](https://www.cursospm3.com.br/curso-de-product-discovery) - This course teaches how to discover valuable solutions for the users. The most current Product Discovery techniques, applied in practice, by the renowned Design and Product professionals from the Brazilian market.
+- [ ] [Product Growth - Cursos PM3 (Portuguese Only)](https://www.cursospm3.com.br/curso-product-growth) - This course teaches how to lead company's growth. The most current Product Growth techniques, applied in practice, by the best Marketing, Growth and Product professionals in the Brazilian market.
 - [ ] [Product Management Weekly Tips](https://www.linkedin.com/learning/product-management-weekly-tips/welcome) - Free Product Management Weekly Tip Videos From Linkedin Learning
   - [ ] [AI Product Manager](https://eu.udacity.com/course/ai-product-manager-nanodegree--nd088) - Learn to develop AI products that deliver business value. Build skills that help you compete in the new AI-powered world.
 - [ ] [Digital Product Management: Modern Fundamentals](https://www.coursera.org/learn/uva-darden-digital-product-management) - This course is ideal for current product or general  managers interested in today's modern product management methods.
@@ -504,7 +506,9 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Industry - Product Conference](http://indsum.com) - For people who build, launch and scale world-class product.
 - [ ] [Lean Startup Week](http://leanstartup.co/2016-conference/) - Lean Startup Week is a seven-day immersion into Lean Startup methodology led by star practitioners in big companies and hot startups from around the world.
 - [ ] [Enterprise UX 2016](http://2016.enterpriseux.net) - The Enterprise UX 2016 conference is dedicated to delivering useful, delightful, and humane experiences to people who work for and in enterprises.
-- [ ] [Product Camp Brasil](http://www.productcamp.com.br) - The event is now the largest on Product Management in Latin America, where Brazilian and international speakers share their learnings about Product, UX and Growth with the participants.
+- [ ] [Product Camp Brazil](http://www.productcamp.com.br) - The event is now the largest on Product Management in Latin America, where Brazilian and international speakers share their learnings about Product, UX and Growth with the participants.
+- [ ] [Product Stars Brazil](http://www.productstars.com.br) - The event gather a constellation of experienced people to share experiences and hacks from day to day.
+- [ ] [Growth Camp Brazil](http://www.growthcamp.com.br) - The event is made by specialists for specialists who already operate in the market and have big interactions with Product Managers. In addition they always bring international keynotes.
 
 # Core 4: Get the Job
 ## Hiring a Product Manager Tips/Tricks

@@ -465,9 +465,10 @@ and deliver behavior-based engagement every step of the way.
 
 ## Communities to Join
 ### Groups
+- [ ] [Product Led Institute](https://summit.productled.com/?ac=9Vdhr2PIm) - Product-Led Growth is a go-to-market strategy that relies on using your product as the main vehicle to acquire, activate, and retain customers
 - [ ] [Mind the Product](http://www.mindtheproduct.com) - Mind the Product Community Website and Blog
 - [ ] [Product School](http://www.productschool.com) - Product School Company Website
-- [ ] [Designer Chat](https://www.producthunt.com/r/85601ad255/3697) - The Designer News community in a private Slack chat.
+- [ ] [Designer Chat](https://www.producthunt.com/r/85601ad255/3697) - The Designer News community in a private Slack chat
 - [ ] [Product Manager HQ](https://www.productmanagerhq.com/join-the-community/) - Product Manager HQ - Slack group
 - [ ] [Product Camp](http://www.productcamp.org) - Product Camp Community Website and Blog
 
@@ -503,9 +504,8 @@ and deliver behavior-based engagement every step of the way.
 
 ### Conferences
 - [ ] [Mind the Product Conference](http://mtpcon.com/sf/) - The Conference for Passionate Product People
-- [ ] [Industry - Product Conference](http://indsum.com) - For people who build, launch and scale world-class product.
+- [ ] [Industry - Product Conference](https://www.industryconference.com/virtual#pricing) - For people who build, launch and scale world-class product.
 - [ ] [Lean Startup Week](http://leanstartup.co/2016-conference/) - Lean Startup Week is a seven-day immersion into Lean Startup methodology led by star practitioners in big companies and hot startups from around the world.
-- [ ] [Enterprise UX 2016](http://2016.enterpriseux.net) - The Enterprise UX 2016 conference is dedicated to delivering useful, delightful, and humane experiences to people who work for and in enterprises.
 - [ ] [Product Camp Brazil](http://www.productcamp.com.br) - The event is now the largest on Product Management in Latin America, where Brazilian and international speakers share their learnings about Product, UX and Growth with the participants.
 - [ ] [Product Stars Brazil](http://www.productstars.com.br) - The event gather a constellation of experienced people to share experiences and hacks from day to day.
 - [ ] [Growth Camp Brazil](http://www.growthcamp.com.br) - The event is made by specialists for specialists who already operate in the market and have big interactions with Product Managers. In addition they always bring international keynotes.

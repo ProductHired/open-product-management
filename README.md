@@ -223,6 +223,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [ ] [Harvard Business School PM 101](https://sites.google.com/site/hbspm101/home) - Online resource repository from Harvard Business School PM 101 course (old site)
 - [ ] [Harvard Business School PM 101/102](https://www.hbspm101.com/) - Online resource repository from Harvard Business School Product Management 101 & 102 (PM 101/102). 
 - [ ] [Product Management Processes](https://www.productprocesses.co) - A knowledge base of product management processes, tools and templates.
+- [ ] [ProductNotion](https://productnotion.co/?ref=open-productmanagement/) - Loads of ready-made Product Management templates for Notion.so 
 
 ## Design
 - [ ] [Kindling](https://www.kindlingapp.com/) - Idea management tool

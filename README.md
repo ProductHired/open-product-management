@@ -393,6 +393,7 @@ and deliver behavior-based engagement every step of the way.
 ## Online Courses
 - [ ] [Design Workflow with Sketch](https://github.com/facebook/pop) - An e-course from Clark Wimberly at InVision.
 - [ ] [Designlab](https://www.producthunt.com/r/b1ef8b4e5a/11546) - Learn design by doing, with hands-on projects & mentorship.
+- [ ] [Product Alliance](https://course.productalliance.com/a/33297/spNMFmjD) - All the tools you need to land your dream job as a product manager at *any* tech company.
 - [ ] [You're Hired: How to Get a Job in Silicon Valley](https://www.udemy.com/youre-hired-how-to-get-a-job-in-silicon-valley/) - Learn how to get a job in Silicon Valley
 - [ ] [The Non-Technical Person's guide to building products & apps](https://www.udemy.com/launch-your-idea-idea-to-mvp-with-no-cto-and-no-coding/learn/v4/overview) - Go from Idea to MVP with no CTO and no coding. Launch your business, app, or product idea cheaply, quickly, and easily.
 - [ ] [Product Management Coursea](https://www.coursera.org/specializations/product-management) - Become an effective Software Product Manager by mastering Agile software development practices to confidently interact with clients and manage a development team.
@@ -516,6 +517,8 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Find, Vet and Close the Best Product Managers](https://firstround.com/review/find-vet-and-close-the-best-product-managers-heres-how/) - How to find, Vet and Close the Best Product Managers by Todd Jackson, VP of Product and Design at Dropbox
 
 ## Career Prep: Resume
+- [ ] [Product Alliance's Resume Guide](https://course.productalliance.com/a/33298/spNMFmjD) - Lifetime access course on how to craft your resume and break into PM.
+- [ ] [APMList Resume Reviews](https://apmlist.com/resources) - $25 resume reviews by a PM at Yahoo.
 - [ ] [How do you write a good resume for product manager jobs?](https://www.quora.com/How-do-you-write-a-good-resume-for-product-manager-jobs) - Sample Advice on Quora
 - [ ] [Mike Bracco - Sample PM Resume](http://mikebracco.com/resume/) - Sample Resume Website from a PM
 - [ ] [Adam Mathes - Sample PM Resume](http://www.adammathes.com/resume/) - Sample Resume Website from a PM
@@ -528,6 +531,7 @@ and deliver behavior-based engagement every step of the way.
 
 ## Career Prep: The Interview
 - [ ] [Preparing for PM interviews: how to get there in 15–20 hours](https://medium.com/pminsider/preparing-for-pm-interviews-how-to-get-there-in-15-20-hours-193f6fcbf606) - Preparing for PM interviews
+- [ ] [Product Alliance's Hacking the PM Interview Course](https://course.productalliance.com/a/33299/spNMFmjD) - 16hrs of video lessons and 62 pages of strategy guides on how to answer ANY question thrown your way.
 - [ ] [How to Prepare for PM interviews](https://fernandodelgado.com/blog/how-to-prepare-for-product-management-interviews) - How to Prepare for PM interviews
 - [ ] [How to become a Product Manager (for college students)](https://fernandodelgado.com/blog/how-to-become-a-product-manager) - How to become a Product Manager (for college students)
 - [ ] [Cracking the PM Interview](http://www.amazon.com/gp/product/0984782818/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0984782818&linkCode=as2&tag=httpstwit071f-20) - Book based on getting a PM career
@@ -545,6 +549,7 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Exponent](http://www.tryexponent.com) - Exponent offers online courses, a free interview questions database, and a Slack community for mock interviews.
 
 ## Career Prep: Company Types
+- [ ] [Product Alliance's Deep Dives Course](https://course.productalliance.com/a/33300/spNMFmjD) - Exclusive interviews and 200+ pages of strategy guides for the Top 22 companies for PM (FAANG, LinkedIn, Uber, Airbnb, Pinterest, Twitter, ... 
 - [ ] [Google by Larry page and Sergey Brin](http://www.google.com/about/company/philosophy/) - Google's culture
 - [ ] [Microsoft](https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/) - Microsoft PM Culture
 - [ ] [Amazon](https://www.quora.com/Amazon-company/What-is-Amazons-approach-to-product-development-and-product-management) - Amazon's culture

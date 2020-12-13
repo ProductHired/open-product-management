@@ -449,11 +449,11 @@ and deliver behavior-based engagement every step of the way.
  
 ## Sample Product Documentation
 - [ ] [How I would grow Thumbtack’s Customer Side of the Marketplace — Product Spec](https://medium.com/@ivanTr0n/how-i-would-grow-thumbtack-s-customer-side-of-the-marketplace-product-spec-edc5c0521d08#.o9octd4pa) - Sample Product Spec about Thumbtack
-- [ ] [Global Lynda](http://leenau.bitbucket.org/lynda/product-requirements-document/) - Sample Product Requirements Document
-- [ ] [Global Lynda](http://leenau.bitbucket.org/lynda/user-personas/) - Sample Company Context and User Personas
-- [ ] [Global Lynda](http://leenau.bitbucket.org/lynda/metrics-case-study/) - Sample Metrics Case Study
-- [ ] [Global Lynda](http://leenau.bitbucket.org/lynda/language-rollout-phases/) - Sample Language Rollout Phases
-- [ ] [Global Lynda](http://leenau.bitbucket.org/lynda/go-to-market/) - Sample Go-to-Market Plan
+- [ ] [Global Lynda](http://leenau.bitbucket.io/lynda/product-requirements-document/) - Sample Product Requirements Document
+- [ ] [Global Lynda](http://leenau.bitbucket.io/lynda/user-personas/) - Sample Company Context and User Personas
+- [ ] [Global Lynda](http://leenau.bitbucket.io/lynda/metrics-case-study/) - Sample Metrics Case Study
+- [ ] [Global Lynda](http://leenau.bitbucket.io/lynda/language-rollout-phases/) - Sample Language Rollout Phases
+- [ ] [Global Lynda](http://leenau.bitbucket.io/lynda/go-to-market/) - Sample Go-to-Market Plan
 - [ ] [Product Hunt](https://github.com/intuit/AnimationEngine) -  Sample Early Product Spec from Ryan Hoover, Product Hunt
 - [ ] [Yahoo! Let’s put some Bots in that beautiful Messenger App - Product Spec](https://medium.com/@ivanTr0n/yahoo-let-s-put-some-bots-in-that-beautiful-messenger-app-product-spec-6fdecb2614f#.2ud1s2wow) Sample Product Spec about Yahoo
 - [ ] [A Usability Test, with Recommendations for Improvement of Skyscanner’s Mobile Flight Search & Booking App](https://medium.com/@mstephan/a-usability-test-with-recommendations-for-improvement-of-skyscanner-s-mobile-flight-search-56b6e598b8a2#.1ve6qzn2e) - Sample product break-down with usability testing by Mark Stephan

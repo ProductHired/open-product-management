@@ -368,7 +368,6 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [The Tipping Point: How Little Things Can Make a Big Difference](http://www.amazon.com/The-Tipping-Point-Little-Difference-ebook/dp/B000OT8GD0) - Malcolm Gladwell
  
 ## Newsletters
-- [ ] [Pivot Product Hits](https://pivotservices.curated.co/) - A weekly email newsletter of the best Product Management content 
 - [ ] [Weekly Thoughts of Tim Herbig](https://herbigt.com/newsletter/) - A weekly digest of personal advice for product people and interesting articles around product, ux and entrepreneurship
 - [ ] [Austin Voice of Product](https://austinvop.com) - Product newsletter making the Austin product community stronger
  

@@ -7,7 +7,7 @@ The list is divided into cores such as product management, resources, interviews
 
 This list was created for all product managers whether beginner or advanced to learn from the best people and communities. If you are a technical person looking to get into the role of a Product Manager, this advice below will help you along your path. This guide is by all means not the end all to your learning as the best learning is achieved through practice.
 
-Don't forget to share with others and follow me on Twitter, [Nicholas Ivanecky](http://twitter.com/ivantr0n). If you are looking for new product manager roles I suggest [ProductHired.com](http://producthired.com/)
+Don't forget to share with others and follow me on Twitter, [Nicholas Ivanecky](http://twitter.com/ivantr0n). If you are looking for new product managment mentors or other guidance I suggest visiting [ProductHired.com](https://www.producthired.com/coaches)
 
 Notable contributions to the list are featured in section, [Special Thanks](#special-thanks)
 
@@ -54,6 +54,8 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
             - [Meetups](#meetups)
             - [Conferences](#conferences)    
 - [Core 4: Get the Job](#core-4-get-the-job)
+    - [Hiring a Product Manager Tips/Tricks](#career-prep-tips)
+    - [Career Prep Mentorship](#career-prep-mentorship)
     - [Career Prep Resume](#career-prep-resume)
     - [Career Prep The Interview](#career-prep-the-interview)
     - [Career Prep Where to Apply](#career-prep-where-to-apply)
@@ -513,7 +515,12 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Inspire Me with your Job Description](https://medium.com/@mstephan/inspire-with-your-job-description-ecb5ce744cfc#.gjzd3n4ez) - Writing a job description that attracts inspired product managers from Mark Stephan
 - [ ] [Find, Vet and Close the Best Product Managers](https://firstround.com/review/find-vet-and-close-the-best-product-managers-heres-how/) - How to find, Vet and Close the Best Product Managers by Todd Jackson, VP of Product and Design at Dropbox
 
+## - Career Prep Mentorship
+- [ ] [Get Product Management Career Coaching](https://producthired.com/coaches?types=career-coaching) - Book a career coaching session with a product expert to level up on your PM job
+- [ ] [Get Product Management Interview Prep Coaching](https://producthired.com/coaches?types=interview-prep) - Book an interview prep session with a product expert for your upcoming interviews
+
 ## Career Prep: Resume
+- [ ] [Get Product Management Resume Review Coaching](https://producthired.com/coaches?types=resume-review) - Book a resume review session with a product expert before your job hunt
 - [ ] [Product Alliance's Resume Guide](https://course.productalliance.com/a/33298/spNMFmjD) - Lifetime access course on how to craft your resume and break into PM.
 - [ ] [APMList Resume Reviews](https://apmlist.com/resources) - $25 resume reviews by a PM at Yahoo.
 - [ ] [How do you write a good resume for product manager jobs?](https://www.quora.com/How-do-you-write-a-good-resume-for-product-manager-jobs) - Sample Advice on Quora
@@ -527,6 +534,7 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [PathtoProduct.com](https://www.pathtoproduct.com) - Discover over 1,000 product jobs at startups and tech companies  
 
 ## Career Prep: The Interview
+- [ ] [Get Product Management Interview Prep Coaching](https://producthired.com/coaches?types=interview-prep) - Book an interview prep session with a product expert for your upcoming interviews
 - [ ] [Preparing for PM interviews: how to get there in 15–20 hours](https://medium.com/pminsider/preparing-for-pm-interviews-how-to-get-there-in-15-20-hours-193f6fcbf606) - Preparing for PM interviews
 - [ ] [Product Alliance's Hacking the PM Interview Course](https://course.productalliance.com/a/33299/spNMFmjD) - 16hrs of video lessons and 62 pages of strategy guides on how to answer ANY question thrown your way.
 - [ ] [How to Prepare for PM interviews](https://fernandodelgado.com/blog/how-to-prepare-for-product-management-interviews) - How to Prepare for PM interviews
@@ -536,7 +544,6 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [The PM Interview](http://thepminterview.com) - Set of Questions + Timer to practice your PM skills.
 - [ ] [The Ultimate Guide to Product Manager Interview Questions](https://www.quora.com/What-are-frequently-asked-questions-in-product-manager-interviews) - Quora PM Questions
 - [ ] [4 Questions I Always Ask When Interviewing Product Managers](http://www.producttalk.org/2012/06/4-questions-i-always-ask-when-interviewing-product-managers/) - 4 Questions to ask a PM
-- [ ] [Product School](http://www.productschool.com) - Product School 2-month Education
 - [ ] [Interview Question Prep for PM Interviews](https://docs.google.com/document/d/1ZXwg8LFLEi-HmN9BoCoifqEM1NggxNjex4Tx-5ALa9I/edit) - Prep Questions from Rafi Lurie, APM at Uber.
 - [ ] [How To Get A PM Job With The Yammer Mafia - In-person](https://medium.com/product-man/how-to-get-a-pm-job-with-the-yammer-mafia-ec2c43c775fb#.viuymdset) - How to Join The Yammer PM Mafia
 - [ ] [The Best Student Activity for Product Managers By Jackie Bavaro](https://pmblog.quora.com/The-Best-Student-Activity-for-Product-Managers) - The Best Student Activity for Product Managers
@@ -552,6 +559,7 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Amazon](https://www.quora.com/Amazon-company/What-is-Amazons-approach-to-product-development-and-product-management) - Amazon's culture
 - [ ] [Facebook](https://www.quora.com/What-does-a-Product-Manager-at-Facebook-do) - Facebook PM Culture
 - [ ] [The Ultimate Google APM Interview Guide](https://www.tryexponent.com/guides/google/apm-interview) - This guide explains each stage of the Google APM interview and has practice interview questions that were asked at Google
+- [ ] [Mock PM Interview Practice](https://www.youtube.com/channel/UCjm_qVkCPjOVDz9BWjNqO9A) - This channel goes through various sample interview questions with FANG and other companies
 
 # Top Product Managers
 - [ ] [Ken Norton](https://twitter.com/kennethn) - Partner @GVTeam. Formerly PM @Google.

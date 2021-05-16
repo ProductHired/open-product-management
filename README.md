@@ -507,6 +507,7 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Product Camp Brazil](http://www.productcamp.com.br) - The event is now the largest on Product Management in Latin America, where Brazilian and international speakers share their learnings about Product, UX and Growth with the participants.
 - [ ] [Product Stars Brazil](http://www.productstars.com.br) - The event gather a constellation of experienced people to share experiences and hacks from day to day.
 - [ ] [Growth Camp Brazil](http://www.growthcamp.com.br) - The event is made by specialists for specialists who already operate in the market and have big interactions with Product Managers. In addition they always bring international keynotes.
+- [ ] [ProductCon](https://productschool.com/productcon/) - The online conference. Four times a year. 15,000+ attendees. 
 
 # Core 4: Get the Job
 ## Hiring a Product Manager Tips/Tricks

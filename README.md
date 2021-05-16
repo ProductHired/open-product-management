@@ -7,7 +7,7 @@ The list is divided into cores such as product management, resources, interviews
 
 This list was created for all product managers whether beginner or advanced to learn from the best people and communities. If you are a technical person looking to get into the role of a Product Manager, this advice below will help you along your path. This guide is by all means not the end all to your learning as the best learning is achieved through practice.
 
-Don't forget to share with others and follow me on Twitter, [Nicholas Ivanecky](http://twitter.com/ivantr0n). If you are looking for new product managment mentors or other guidance I suggest visiting [ProductHired.com](https://www.producthired.com/coaches)
+Don't forget to share with others, and if you are looking for new product managment mentors or other guidance I suggest visiting [ProductHired.com](https://www.producthired.com/coaches) for a list of coaches (free or paid) to help you get started on your journey. If you'd like a [1:1 session](https://www.producthired.com/coaches/nicholasivanecky) with myself (Nick Ivanecky), I'd be happy to share my PM knowledge as well. 
 
 Notable contributions to the list are featured in section, [Special Thanks](#special-thanks)
 

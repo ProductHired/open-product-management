@@ -515,7 +515,7 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Inspire Me with your Job Description](https://medium.com/@mstephan/inspire-with-your-job-description-ecb5ce744cfc#.gjzd3n4ez) - Writing a job description that attracts inspired product managers from Mark Stephan
 - [ ] [Find, Vet and Close the Best Product Managers](https://firstround.com/review/find-vet-and-close-the-best-product-managers-heres-how/) - How to find, Vet and Close the Best Product Managers by Todd Jackson, VP of Product and Design at Dropbox
 
-## - Career Prep Mentorship
+## Career Prep Mentorship
 - [ ] [Get Product Management Career Coaching](https://producthired.com/coaches?types=career-coaching) - Book a career coaching session with a product expert to level up on your PM job
 - [ ] [Get Product Management Interview Prep Coaching](https://producthired.com/coaches?types=interview-prep) - Book an interview prep session with a product expert for your upcoming interviews
 

@@ -192,7 +192,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [ ] [Take back your day: Time Management for PMs](https://pmblog.quora.com/Take-back-your-day-Time-Management-for-PMs) - Jackie Bavaro
 
 ## Become The Best In The Field
-- [ ] [Top hacks from a PM behind two of tech’s hottest products](http://firstround.com/article/Top-Hacks-from-a-PM-Behind-Two-of-Techs-Hottest-Products) - Todd Jackson
+- [ ] [Top hacks from a PM behind two of tech’s hottest products](https://review.firstround.com/Top-Hacks-from-a-PM-Behind-Two-of-Techs-Hottest-Products) - Todd Jackson
 - [ ] [Stakeholder Management](http://www.svproduct.com/stakeholder-management/) - Marty Cagan
 - [ ] [Court scribe or Hand of the King](http://www.productpowers.com/blog/court-scribe-or-hand-of-the-king.html) - Bruce McCarthy
 - [ ] [Influence without authority](http://www.sachinrekhi.com/blog/2013/02/19/the-most-underrated-product-management-skill-influence-without-authority) - Sachin Rekhi

@@ -585,7 +585,7 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Charunethran Panchalam Govindarajan](https://twitter.com/charupg) - Product Manager, Intel / Social Entrepreneur / Tech Enthusiast 
 
 # Special Thanks
-- Special Thanks to [Paul Cothenet](http://attackwithnumbers.com) for providing the Base of Core 1: Product Management
+- Special Thanks to [Paul Cothenet](https://www.bears-repeating.com/i-love-product-management) for providing the Base of Core 1: Product Management
 
 # Contributing to the list
 - [See the guide](https://github.com/tron1991/open-product-management/blob/master/CONTRIBUTING.md)

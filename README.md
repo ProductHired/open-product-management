@@ -68,26 +68,28 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
 # Core 1: Product Management
 ## What Is Product Management?
-✅ [What is product management?](https://www.leaninberlin.de/2019/03/what-is-product-management.html) - Bogdan Sturza
 
-✅ [A Product Manager’s Job](https://medium.com/@joshelman/a-product-managers-job-63c09a43d0ec) - Josh Elman
+✅ [What exactly is a Product Manager? ](http://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/) - Martin Eriksonn
 
-✅ [Product Managers: Who are these ‘mini-CEOs’ and what do they do?](http://thenextweb.com/insider/2013/10/12/product-managers-mini-ceos/) - Ken Yeung
+✅ [What is Product Management?](http://www.sachinrekhi.com/blog/2013/01/28/what-is-product-management) - Sachin Rekhi
 
-✅ :) [What exactly is a Product Manager? ](http://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/) - Martin Eriksonn
-- [ ] [What is Product Management?](http://www.sachinrekhi.com/blog/2013/01/28/what-is-product-management) - Sachin Rekhi
-- [ ] [Product Manager You Are…](https://medium.com/@matbalez/product-manager-you-are-664d83ee702e) - Mat Balez
-- [ ] [What Product Management is Not](http://www.svpg.com/what-product-management-is-not/) - Marty Cagan
-- [ ] [Product Management vs. Product Marketing](http://www.svproduct.com/product-management-vs-product-marketing/) - Marty Cagan
+✅ [Product Manager You Are…](https://medium.com/@matbalez/product-manager-you-are-664d83ee702e) - Mat Balez
+
+✅ [What Product Management is Not](http://www.svpg.com/what-product-management-is-not/) - Marty Cagan
+
+✅ [Product Management vs. Product Marketing](http://www.svproduct.com/product-management-vs-product-marketing/) - Marty Cagan
+
 - [ ] [Evolution of the Product Manager](http://queue.acm.org/detail.cfm?id=2683579) - Ellen Chisa
-- [ ] [Use your Product Powers for Good](http://www.productpowers.com/blog/use-your-product-powers-for-good.html) - Bruce McCarthy
-- [ ] [Product Management: An introduction for undergraduates and graduates](https://product.careers/presentation/) - Thor Mitchell (Student presentation)
+
+✅[Use your Product Powers for Good](http://www.productpowers.com/blog/use-your-product-powers-for-good.html) - Bruce McCarthy
+
+✅[Product Management: An introduction for undergraduates and graduates](https://product.careers/presentation/) - Thor Mitchell (Student presentation)
 - [ ] [What It Takes to Become a Great Product Manager](http://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) - Julia Austin
 - [ ] [A Day in the Life of a Product Manager: Consumer and Enterprise](https://blog.tryexponent.com/day-in-life-pm/) - Kevin Wei
 
 ## Is It Really For You?
 - [ ] [How to hire a Product Manager?](https://www.kennethnorton.com/essays/productmanager.html) - Kenneth Norton
-- [ ] [The DNA of Product Management](https://www.linkedin.com/pulse/20121102003945-7298-the-dna-of-product-management/) - Hunter Walk
+✅ [The DNA of Product Management](https://www.linkedin.com/pulse/20121102003945-7298-the-dna-of-product-management/) - Hunter Walk
 - [ ] [The Dark Side of PM](http://blog.ellenchisa.com/2014/02/20/the-dark-side-of-pm/) - Ellen Chisa
 - [ ] [Do I need to be technical to be a PM](http://blog.ellenchisa.com/2014/10/04/need-technical-pm/) - Ellen Chisa
 - [ ] [Ode to a Non Technical Product Manager](https://medium.com/@hunterwalk/ode-to-a-non-technical-product-manager-7776efb98acd) - Hunter Walk

@@ -21,7 +21,8 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [Core 1: Product Management](#core-1-product-management)
     
     - [What is Product Management](#what-is-product-management)
-    - [Is it really for you?](#is-it-really-for-you)
+    
+    ✅ [Is it really for you?](#is-it-really-for-you)
     - [Becoming a Product Guru](#becoming-a-product-guru)
     - [Building Great Products](#building-great-products)
     - [Get out of the building](#get-out-of-the-building)
@@ -88,7 +89,8 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [ ] [A Day in the Life of a Product Manager: Consumer and Enterprise](https://blog.tryexponent.com/day-in-life-pm/) - Kevin Wei
 
 ## Is It Really For You?
-- [ ] [How to hire a Product Manager?](https://www.kennethnorton.com/essays/productmanager.html) - Kenneth Norton
+
+✅ [How to hire a Product Manager?](https://www.kennethnorton.com/essays/productmanager.html) - Kenneth Norton
 
 ✅ [The DNA of Product Management](https://www.linkedin.com/pulse/20121102003945-7298-the-dna-of-product-management/) - Hunter Walk
 

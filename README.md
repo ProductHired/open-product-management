@@ -68,11 +68,6 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
 # Core 1: Product Management
 ## What Is Product Management?
-✅ [What is product management?](https://www.leaninberlin.de/2019/03/what-is-product-management.html) - Bogdan Sturza
-
-✅ [A Product Manager’s Job](https://medium.com/@joshelman/a-product-managers-job-63c09a43d0ec) - Josh Elman
-
-✅ [Product Managers: Who are these ‘mini-CEOs’ and what do they do?](http://thenextweb.com/insider/2013/10/12/product-managers-mini-ceos/) - Ken Yeung
 
 ✅ [What exactly is a Product Manager? ](http://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/) - Martin Eriksonn
 
@@ -82,7 +77,8 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
 ✅ [What Product Management is Not](http://www.svpg.com/what-product-management-is-not/) - Marty Cagan
 
-✅[Product Management vs. Product Marketing](http://www.svproduct.com/product-management-vs-product-marketing/) - Marty Cagan
+✅ [Product Management vs. Product Marketing](http://www.svproduct.com/product-management-vs-product-marketing/) - Marty Cagan
+
 - [ ] [Evolution of the Product Manager](http://queue.acm.org/detail.cfm?id=2683579) - Ellen Chisa
 
 ✅[Use your Product Powers for Good](http://www.productpowers.com/blog/use-your-product-powers-for-good.html) - Bruce McCarthy

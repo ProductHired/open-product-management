@@ -183,7 +183,8 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
 ## User Experience
 - [ ] [Lean UX Canvas](https://medium.com/@mstephan/lean-ux-canvas-5f1fdd378077#.et3az0712) - Mark Stephan 
-- [ ] [User Experience Debt](https://medium.com/@vijaysundaram/user-experience-debt-c9bd265d521b) - Vijay Sundaram
+
+✅ [User Experience Debt](https://medium.com/@vijaysundaram/user-experience-debt-c9bd265d521b) - Vijay Sundaram
 
 ## Give and Receive Feedback
 - [ ] [You won’t regret positive feedback](http://zachholman.com/posts/positive-feedback/) - Zack Holman

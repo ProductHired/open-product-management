@@ -23,13 +23,15 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
     ✅ [What is Product Management](#what-is-product-management)
     
     ✅ [Is it really for you?](#is-it-really-for-you)
-    - [Becoming a Product Guru](#becoming-a-product-guru)
+    
+    ⏳ [Becoming a Product Guru](#becoming-a-product-guru)
     - [Building Great Products](#building-great-products)
     - [Get out of the building](#get-out-of-the-building)
     - [All about those Requirements](#all-about-those-requirements)
     - [Roadmaps, Planning, and prioritization](#roadmaps,-planning,-and-prioritization)
     - [How to work with X](#how-to-work-with-x)
-    - [User Experience](#user-experience)
+    
+    ⏳ [User Experience](#user-experience)
     - [Give and Receive Feedback](#give-and-receive-feedback)
     - [Shipping and Measuring Products](#shipping-and-measuring-products)
     - [Organizing your Team](#organizing-your-team)
@@ -38,9 +40,12 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [Core 2: Resources](#core-2-resources)
     - [Resource Repositories](#resource-repositories)
     - [Design](#design)
-    - [Development](#development)
-    - [Mockups and Marketing](#mockups-and-marketing)
-    - [Team Management](#team-management)
+    
+    ⏳ [Development](#development)
+    
+    ⏳ [Mockups and Marketing](#mockups-and-marketing)
+    
+    ⏳ [Team Management](#team-management)
     - [Analytics](#analytics)
     - [Books](#books)
     - [Newsletters](#newsletters)

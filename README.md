@@ -111,7 +111,8 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 ✅ [How I became a PM](http://blog.ellenchisa.com/2014/01/10/how-i-became-a-pm/) - Ellen Chisa
 
 ✅ [Do Product Managers really need a background in CS](https://theartofproductmanagement.quora.com/Do-Product-Managers-really-need-a-background-in-CS) - Jackie Bavaro
-- [ ] [Want to be a PM? Do a Project](http://blog.ellenchisa.com/2014/01/28/want-to-be-a-pm-do-a-project/) - Ellen Chisa
+
+✅ [Want to be a PM? Do a Project](http://blog.ellenchisa.com/2014/01/28/want-to-be-a-pm-do-a-project/) - Ellen Chisa
 - [ ] [So You Want to Manage a Product](https://medium.com/@rohinivibha/so-you-want-to-manage-a-product-c664ba7e5138) - Rohini Viba
 - [ ] [The 4 ways to break into Product Management](https://theartofproductmanagement.quora.com/The-4-ways-to-Break-into-Product-Management) - Jackie Bavaro
 - [ ] [Evolution of the Product Manager](http://queue.acm.org/detail.cfm?id=2683579) - Ellen Chisa

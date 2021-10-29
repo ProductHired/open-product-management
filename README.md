@@ -82,10 +82,11 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
 - [ ] [Evolution of the Product Manager](http://queue.acm.org/detail.cfm?id=2683579) - Ellen Chisa
 
-✅[Use your Product Powers for Good](http://www.productpowers.com/blog/use-your-product-powers-for-good.html) - Bruce McCarthy
+✅ [Use your Product Powers for Good](http://www.productpowers.com/blog/use-your-product-powers-for-good.html) - Bruce McCarthy
 
-✅[Product Management: An introduction for undergraduates and graduates](https://product.careers/presentation/) - Thor Mitchell (Student presentation)
-- [ ] [What It Takes to Become a Great Product Manager](http://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) - Julia Austin
+✅ [Product Management: An introduction for undergraduates and graduates](https://product.careers/presentation/) - Thor Mitchell (Student presentation)
+
+✅ [What It Takes to Become a Great Product Manager](http://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) - Julia Austin
 - [ ] [A Day in the Life of a Product Manager: Consumer and Enterprise](https://blog.tryexponent.com/day-in-life-pm/) - Kevin Wei
 
 ## Is It Really For You?
@@ -106,7 +107,8 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
 ✅ [How do I become a Product Manager?](https://www.quora.com/How-do-I-become-a-product-manager-2) - Multiple authors
 - [ ] [How I became a PM](http://blog.ellenchisa.com/2014/01/10/how-i-became-a-pm/) - Ellen Chisa
-- [ ] [Do Product Managers really need a background in CS](https://theartofproductmanagement.quora.com/Do-Product-Managers-really-need-a-background-in-CS) - Jackie Bavaro
+
+✅ [Do Product Managers really need a background in CS](https://theartofproductmanagement.quora.com/Do-Product-Managers-really-need-a-background-in-CS) - Jackie Bavaro
 - [ ] [Want to be a PM? Do a Project](http://blog.ellenchisa.com/2014/01/28/want-to-be-a-pm-do-a-project/) - Ellen Chisa
 - [ ] [So You Want to Manage a Product](https://medium.com/@rohinivibha/so-you-want-to-manage-a-product-c664ba7e5138) - Rohini Viba
 - [ ] [The 4 ways to break into Product Management](https://theartofproductmanagement.quora.com/The-4-ways-to-Break-into-Product-Management) - Jackie Bavaro
@@ -270,7 +272,8 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [ ] [Teach Yourself To Code](http://teachyourselftocode.com/) - Learn to code with tutorials recommended by programmers
 - [ ] [Codecademy App](https://itunes.apple.com/us/app/codecademy-go/id1376029326?mt=8) - Learn to code on your iPhone anywhere.
 - [ ] [Designers How](https://designers.how/) - learn the latest design techniques in tools like Sketch, Framer, Swift, and more
-- [ ] [Codecademy's Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line) - Learn how to control your computer with the command line!
+
+✅ [Codecademy's Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line) - Learn how to control your computer with the command line!
 - [ ] (invalid link) Your First Web App(https://yourfirst.io/) - Pulling your hair out trying to learn how to code?
 - [ ] [The Step-By-Step PM Guide to Building Machine Learning Based Products](https://medium.com/@yaelg/product-manager-pm-step-by-step-tutorial-building-machine-learning-products-ffa7817aa8ab) - 6 step guide to get started in achieving business goals with machine learning. 
 - [ ] [AnimationEngine](https://github.com/intuit/AnimationEngine) - Easily build advanced custom animations on iOS. 
@@ -279,7 +282,8 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [ ] [moqups](https://moqups.com/) - A streamlined web app that helps you create and collaborate on 
 wireframes, mockups, diagrams and prototypes.
 - [ ] [Typeform](https://www.typeform.com/) - Generate surveys in seconds.
-- [ ] [Balsamiq](https://balsamiq.com/) - Rapid wireframing tool.
+
+✅ [Balsamiq](https://balsamiq.com/) - Rapid wireframing tool.
 - [ ] [Tweetdeck](https://tweetdeck.twitter.com/) - Power-user interface for Twitter.
 - [ ] [Flinto for Mac](https://www.flinto.com/) - The prototyping tool designers have been waiting for.
 - [ ] [EdisonPlan](https://www.edisonplan.com/) - The ultimate tool to plan & launch your product.
@@ -290,8 +294,10 @@ wireframes, mockups, diagrams and prototypes.
 ## Team Management
 - [ ] [Airtable](https://airtable.com) - Spreadsheet, meet database.
 - [ ] [Trello](https://trello.com/) - Trello makes it easy to organize anything with anyone
-- [ ] [Google Drive, Docs, sheets etc.](https://drive.google.com/) - Create and share your work online and collaborate on literally any type of content
-- [ ] [Slack](https://slack.com) - Team communication for the 21st century
+
+✅ [Google Drive, Docs, sheets etc.](https://drive.google.com/) - Create and share your work online and collaborate on literally any type of content
+
+✅ [Slack](https://slack.com) - Team communication for the 21st century
 - [ ] [Ramen](https://ramen.is/) - Ask your users questions while they’re on your website. The best way for SaaS product teams to learn from customers
 - [ ] [Evernote](https://evernote.com/) - Note taking made easy
 - [ ] [Keynote](https://www.apple.com/keynote/) - Make awesome presentations quickly
@@ -484,36 +490,6 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Designer Chat](https://www.producthunt.com/r/85601ad255/3697) - The Designer News community in a private Slack chat
 - [ ] [Product Manager HQ](https://www.productmanagerhq.com/join-the-community/) - Product Manager HQ - Slack group
 - [ ] [Product Camp](http://www.productcamp.org) - Product Camp Community Website and Blog
-
-### Meetups
-#### North America
-- [ ] [Product Tank](http://www.meetup.com/producttanknyc/) - Product Tank NY Meetups
-- [ ] [Product Austin](http://www.meetup.com/ProductAustin/) - The largest Product Meet-up in Austin, TX
-- [ ] [The Product Group](http://www.meetup.com/TheProductGroup/) - The Product Group New York
-- [ ] [Lean Product & Lean UX Silicon Valley](http://www.meetup.com/lean-product/) - People interested in applying Lean Startup, Lean UX, and Agile principles to design and develop products that customers love
-- [ ] [Product Management Fast Track](http://www.meetup.com/ProductManagementFastTrack/) - Product Management in San Francisco
-- [ ] [SUPA Product Talks SFBay](http://www.meetup.com/SUPAProductTalks/) - SUPA Product Academy in San Francisco
-- [ ] [Silicon Valley Strategy, Innovation and Product Management](http://www.meetup.com/Silicon-Valley-Product-Management/) - Product Management in Cupertino, CA
-- [ ] [Startup Metrics Toronto, Canada](http://www.meetup.com/Startup-Metrics-Toronto/) - A group for entrepreneurs and product managers to discuss the metrics that matter to their startups.
-- [ ] [Product School - San Francisco Meetup](http://www.meetup.com/productmanagementSF/) - Product School Meetup
-- [ ] [Product School - Silicon Valley Meetup](http://www.meetup.com/productmanagementSV/) - Product School Meetup
-- [ ] [Product School - New York Meetup](http://www.meetup.com/productmanagementNY/) - Product School Meetup
-- [ ] [Product School - Los Angeles Meetup](http://www.meetup.com/productmanagementLA/) - Product School Meetup
-- [ ] [Product School - Boston Meetup](http://www.meetup.com/productmanagementBOS/) - Product School Meetup
-
-#### Europe
-- [ ] [The Product Group London](http://www.meetup.com/TheProductGroupLondon/) - The Product Group London
-
-#### Asia
-- [ ] [Product Management Singapore Facebook](https://www.facebook.com/groups/prodmgmtsg/) - Product Management SG Community
-- [ ] [Product Camp - Singapore Meetup](http://www.meetup.com/Product-Camp-Singapore/) - Product Camp Meetup
-- [ ] [Product Hunt - Singapore Meetup](http://www.meetup.com/Product-Hunt-Singapore-Meetup-Group/) - Product Hunt Meetup
-- [ ] [Product Talks - Singapore Meetup](http://www.meetup.com/producttalkssingapore/) - Product Talks Meetup
-- [ ] [Product Tank - Singapore Meetup](http://www.meetup.com/ProductTank-Singapore/) - Product Tank Meetup
- 
-#### South America
-- [ ] [Produto.io - São Paulo](https://www.meetup.com/produto-io-sp/) - Produto.io Meetup in São Paulo
-- [ ] [Product School - Belo Horizonte](http://www.meetup.com/product-school-belohorizonte/) - Product School Meetup
 
 ### Conferences
 - [ ] [Mind the Product Conference](http://mtpcon.com/sf/) - The Conference for Passionate Product People

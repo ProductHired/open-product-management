@@ -20,7 +20,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 ## Content
 - [Core 1: Product Management](#core-1-product-management)
     
-    - [What is Product Management](#what-is-product-management)
+    ✅ [What is Product Management](#what-is-product-management)
     
     ✅ [Is it really for you?](#is-it-really-for-you)
     - [Becoming a Product Guru](#becoming-a-product-guru)

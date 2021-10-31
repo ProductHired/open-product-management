@@ -27,7 +27,8 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
     ⏳ [Becoming a Product Guru](#becoming-a-product-guru)
     - [Building Great Products](#building-great-products)
     - [Get out of the building](#get-out-of-the-building)
-    - [All about those Requirements](#all-about-those-requirements)
+    
+    ⏳ [All about those Requirements](#all-about-those-requirements)
     - [Roadmaps, Planning, and prioritization](#roadmaps,-planning,-and-prioritization)
     - [How to work with X](#how-to-work-with-x)
     
@@ -118,7 +119,8 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 ✅ [Do Product Managers really need a background in CS](https://theartofproductmanagement.quora.com/Do-Product-Managers-really-need-a-background-in-CS) - Jackie Bavaro
 
 ✅ [Want to be a PM? Do a Project](http://blog.ellenchisa.com/2014/01/28/want-to-be-a-pm-do-a-project/) - Ellen Chisa
-- [ ] [So You Want to Manage a Product](https://medium.com/@rohinivibha/so-you-want-to-manage-a-product-c664ba7e5138) - Rohini Viba
+
+✅ [So You Want to Manage a Product](https://medium.com/@rohinivibha/so-you-want-to-manage-a-product-c664ba7e5138) - Rohini Viba
 
 ✅ [The 4 ways to break into Product Management](https://theartofproductmanagement.quora.com/The-4-ways-to-Break-into-Product-Management) - Jackie Bavaro
 - [ ] [Evolution of the Product Manager](http://queue.acm.org/detail.cfm?id=2683579) - Ellen Chisa
@@ -143,7 +145,8 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
 ## All About Those Requirements
 - [ ] [Painless functional specifications](http://www.joelonsoftware.com/articles/fog0000000036.html) - Joel Spolsky
-- [ ] [Requirements are not](http://www.svpg.com/requirements-are-not/) - Marty Cagan
+
+✅ [Requirements are not](http://www.svpg.com/requirements-are-not/) - Marty Cagan
 - [ ] [Feed the beast](http://www.svpg.com/feed-the-beast/) - Marty Cagan
 - [ ] [The end of requirements](http://www.svpg.com/the-end-of-requirements/) - Marty Cagan
 

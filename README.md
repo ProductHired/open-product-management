@@ -30,7 +30,8 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
     
     ⏳ [All about those Requirements](#all-about-those-requirements)
     - [Roadmaps, Planning, and prioritization](#roadmaps,-planning,-and-prioritization)
-    - [How to work with X](#how-to-work-with-x)
+    
+    ⏳ [How to work with X](#how-to-work-with-x)
     
     ⏳ [User Experience](#user-experience)
     - [Give and Receive Feedback](#give-and-receive-feedback)
@@ -179,7 +180,8 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
 ## How To Work With X
 - [ ] [The care and feeding of software engineers](http://www.nczonline.net/blog/2012/06/12/the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy/) - Nicholas C. Zakas
-- [ ] [The ten project management commandments](http://www.defmacro.org/2013/06/03/engineering-commandments.html) - Slava Akhmechet
+
+✅ [The ten project management commandments](http://www.defmacro.org/2013/06/03/engineering-commandments.html) - Slava Akhmechet
 - [ ] [How to work with PMs](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-pms-3e852d5eccf5) - Julie Zhuo
 - [ ] [How to work with engineers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-engineers-a3163ff1eced) - Julie Zhuo
 - [ ] [How to work with software engineers](https://www.kennethnorton.com/essays/how-to-work-with-software-engineers.html) - Kenneth Norton

@@ -24,7 +24,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
     
     ✅ [Is it really for you?](#is-it-really-for-you)
     
-    ⏳ [Becoming a Product Guru](#becoming-a-product-guru)
+    ✅ [Becoming a Product Guru](#becoming-a-product-guru)
     - [Building Great Products](#building-great-products)
     - [Get out of the building](#get-out-of-the-building)
     

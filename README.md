@@ -56,7 +56,8 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
     - [Online Courses](#online-courses)
     - [Online Blogs](#blogs)
 - [Core 3: Real Life Product Management](#core-3-real-life-product-management)
-    - [Interviews](#interviews)
+    
+    ⏳ [Interviews](#interviews)
     - [Product Case Studies](#product-case-studies)
     - [Sample Product Documentation](#sample-product-documentation)
     - [Communities to Join](#communities-to-join)
@@ -465,7 +466,8 @@ and deliver behavior-based engagement every step of the way.
  
 # Core 3: Real Life Product Management
 ## Interviews
-- [ ] [Janna Bastow on "How to Get into Product Management"](https://www.youtube.com/watch?v=p9Ubfv5v2i8) - A conversation between Janna Bastow, founder of ProdPad and previously a product manager / consultant
+
+✅ [Janna Bastow on "How to Get into Product Management"](https://www.youtube.com/watch?v=p9Ubfv5v2i8) - A conversation between Janna Bastow, founder of ProdPad and previously a product manager / consultant
 - [ ] [Eva Andreasson on "How to Get into Product Management"](https://www.youtube.com/watch?v=tIQLhdMrK2Y) - A conversation between Eva Andreasson, Senior Product Manager at Cloudera, and Jason Shah, Product Manager at Yammer
 - [ ] [Teresa Torres on "How to Get into Product Management"](https://www.youtube.com/watch?v=VuSfqm1dr7Y) - A conversation between Teresa Torres, Vice President, Products at AfterCollege and a product consultant
 - [ ] [Wil Keenan on "How to Get Into Product Management"](https://www.youtube.com/watch?v=-CMip6mUT5I) - A conversation between Wil Keenan, Senior Product Manager at Change.org and Jason Shah

@@ -24,7 +24,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
     
     ✅ [Is it really for you?](#is-it-really-for-you)
     
-    ⏳ [Becoming a Product Guru](#becoming-a-product-guru)
+    ✅ [Becoming a Product Guru](#becoming-a-product-guru)
     - [Building Great Products](#building-great-products)
     - [Get out of the building](#get-out-of-the-building)
     
@@ -124,9 +124,12 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 ✅ [So You Want to Manage a Product](https://medium.com/@rohinivibha/so-you-want-to-manage-a-product-c664ba7e5138) - Rohini Viba
 
 ✅ [The 4 ways to break into Product Management](https://theartofproductmanagement.quora.com/The-4-ways-to-Break-into-Product-Management) - Jackie Bavaro
-- [ ] [Evolution of the Product Manager](http://queue.acm.org/detail.cfm?id=2683579) - Ellen Chisa
-- [ ] [4 mistakes new Product Managers make](http://dev.hubspot.com/blog/4-mistakes-new-product-managers-make) - Matt Schnitt
-- [ ] [Product Manager Skills By Seniority Level — A Deep Breakdown](https://medium.com/pminsider/product-manager-skills-by-seniority-level-a-deep-breakdown-cd0690f76d10) - Brent Tworetzky
+
+✅ [Evolution of the Product Manager](http://queue.acm.org/detail.cfm?id=2683579) - Ellen Chisa
+
+✅ [4 mistakes new Product Managers make](http://dev.hubspot.com/blog/4-mistakes-new-product-managers-make) - Matt Schnitt
+
+✅ [Product Manager Skills By Seniority Level — A Deep Breakdown](https://medium.com/pminsider/product-manager-skills-by-seniority-level-a-deep-breakdown-cd0690f76d10) - Brent Tworetzky
 
 ## Building Great Products
 - [ ] [How to build great products](http://www.defmacro.org/2013/09/26/products.html) - Slava Akhmechet

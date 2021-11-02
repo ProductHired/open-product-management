@@ -25,7 +25,8 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
     ✅ [Is it really for you?](#is-it-really-for-you)
     
     ✅ [Becoming a Product Guru](#becoming-a-product-guru)
-    - [Building Great Products](#building-great-products)
+    
+    ⏳ [Building Great Products](#building-great-products)
     - [Get out of the building](#get-out-of-the-building)
     
     ⏳ [All about those Requirements](#all-about-those-requirements)
@@ -132,7 +133,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 ✅ [Product Manager Skills By Seniority Level — A Deep Breakdown](https://medium.com/pminsider/product-manager-skills-by-seniority-level-a-deep-breakdown-cd0690f76d10) - Brent Tworetzky
 
 ## Building Great Products
-- [ ] [How to build great products](http://www.defmacro.org/2013/09/26/products.html) - Slava Akhmechet
+✅ [How to build great products](http://www.defmacro.org/2013/09/26/products.html) - Slava Akhmechet
 - [ ] [Make things as simple as possible but not simpler](http://blog.adamnash.com/2013/09/25/make-things-as-simple-as-possible-but-not-simpler/) - Adam Nash
 - [ ] [10 essential steps to create products that customer love](http://welovelean.wordpress.com/2013/07/06/10-essential-steps-to-create-products-that-customers-love/) - Laurence McCahill
 - [ ] [The power of the perfect slice](http://www.mindtheproduct.com/2013/03/the-power-of-the-perfect-slice/) - Alastair Lee

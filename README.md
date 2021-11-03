@@ -29,7 +29,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
     ⏳ [Building Great Products](#building-great-products)
     - [Get out of the building](#get-out-of-the-building)
     
-    ⏳ [All about those Requirements](#all-about-those-requirements)
+    ✅ [All about those Requirements](#all-about-those-requirements)
     - [Roadmaps, Planning, and prioritization](#roadmaps,-planning,-and-prioritization)
     
     ⏳ [How to work with X](#how-to-work-with-x)
@@ -150,7 +150,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [ ] [Your MVP is about discovery not product](http://web.archive.org/web/20170112085359/http://kevindewalt.com/2013/07/14/your-mvp-is-about-discovery-not-product/) - Kevin Dewalt
 
 ## All About Those Requirements
-- [ ] [Painless functional specifications](http://www.joelonsoftware.com/articles/fog0000000036.html) - Joel Spolsky
+✅ [Painless functional specifications](http://www.joelonsoftware.com/articles/fog0000000036.html) - Joel Spolsky
 
 ✅ [Requirements are not](http://www.svpg.com/requirements-are-not/) - Marty Cagan
 

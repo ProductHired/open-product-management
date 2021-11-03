@@ -34,7 +34,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
     
     ⏳ [How to work with X](#how-to-work-with-x)
     
-    ⏳ [User Experience](#user-experience)
+    ✅ [User Experience](#user-experience)
     - [Give and Receive Feedback](#give-and-receive-feedback)
     - [Shipping and Measuring Products](#shipping-and-measuring-products)
     - [Organizing your Team](#organizing-your-team)
@@ -199,7 +199,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [ ] [How to work with designers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146) - Julie Zhuo
 
 ## User Experience
-- [ ] [Lean UX Canvas](https://medium.com/@mstephan/lean-ux-canvas-5f1fdd378077#.et3az0712) - Mark Stephan 
+✅ [Lean UX Canvas](https://medium.com/@mstephan/lean-ux-canvas-5f1fdd378077#.et3az0712) - Mark Stephan 
 
 ✅ [User Experience Debt](https://medium.com/@vijaysundaram/user-experience-debt-c9bd265d521b) - Vijay Sundaram
 

@@ -35,7 +35,8 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
     ⏳ [How to work with X](#how-to-work-with-x)
     
     ✅ [User Experience](#user-experience)
-    - [Give and Receive Feedback](#give-and-receive-feedback)
+    
+    ⏳ [Give and Receive Feedback](#give-and-receive-feedback)
     - [Shipping and Measuring Products](#shipping-and-measuring-products)
     - [Organizing your Team](#organizing-your-team)
     - [Become the Best in the Field](#become-the-best-in-the-field)
@@ -204,7 +205,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 ✅ [User Experience Debt](https://medium.com/@vijaysundaram/user-experience-debt-c9bd265d521b) - Vijay Sundaram
 
 ## Give and Receive Feedback
-- [ ] [You won’t regret positive feedback](http://zachholman.com/posts/positive-feedback/) - Zack Holman
+✅ [You won’t regret positive feedback](http://zachholman.com/posts/positive-feedback/) - Zack Holman
 - [ ] [Thirty percent feedback](http://blog.42floors.com/thirty-percent-feedback/) - Jason Freedman
 - [ ] [How to run a design critique](http://scottberkun.com/essays/23-how-to-run-a-design-critique/) - Scott Berkun
 

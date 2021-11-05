@@ -167,7 +167,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
 ## Give and Receive Feedback
 - [ ] [You won’t regret positive feedback](http://zachholman.com/posts/positive-feedback/) - Zack Holman
-- [ ] [Thirty percent feedback](http://blog.42floors.com/thirty-percent-feedback/) - Jason Freedman
+- [ ] [Thirty percent feedback](https://42floors.com/blog/startups/thirty-percent-feedback) - Jason Freedman
 - [ ] [How to run a design critique](http://scottberkun.com/essays/23-how-to-run-a-design-critique/) - Scott Berkun
 
 ## Shipping and Measuring Products

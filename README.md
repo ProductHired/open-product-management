@@ -318,6 +318,7 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [The golden rule of A/B testing: look beyond validation](https://blog.intercom.io/why-ab-tests-should-yield-more-than-results/) - Run successful, statistically accurate A/B tests.
 - [ ] [Heap Analytics](https://heapanalytics.com/) - Heap lets you automatically capture every user interaction from web, mobile, and cloud services.
 - [ ] [Snowplow Analytics](https://snowplowanalytics.com/) - Open source web, mobile and event analytics platform.
+- [ ] [SQL for Product Managers](https://blog.devgenius.io/sql-for-product-managers-dedbbb599216) - Crucial Structured Query Language (SQL) skills Product Managers need to acquire.
 
 ## Books
 ### Design

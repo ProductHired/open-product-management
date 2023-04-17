@@ -403,6 +403,7 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Masters of Scale with Reid Hoffman](https://podcasts.apple.com/us/podcast/masters-of-scale-with-reid-hoffman/id1227971746?mt=2) - How do companies grow from zero to a gazillion? Legendary Silicon Valley investor / entrepreneur Reid Hoffman tests his theories with famous founders.
 
 ## Online Courses
+- [ ] [The Product Folks](https://www.theproductfolks.com/) - The Product Folks is a volunteer-driven community of Product Managers and enthusiasts who are passionate about making an impact and help everyone grow together..
 - [ ] [Design Workflow with Sketch](https://github.com/facebook/pop) - An e-course from Clark Wimberly at InVision.
 - [ ] [Designlab](https://www.producthunt.com/r/b1ef8b4e5a/11546) - Learn design by doing, with hands-on projects & mentorship.
 - [ ] [Product Alliance](https://course.productalliance.com/a/33297/spNMFmjD) - All the tools you need to land your dream job as a product manager at *any* tech company.

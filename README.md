@@ -408,7 +408,7 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Product Alliance](https://course.productalliance.com/a/33297/spNMFmjD) - All the tools you need to land your dream job as a product manager at *any* tech company.
 - [ ] [You're Hired: How to Get a Job in Silicon Valley](https://www.udemy.com/youre-hired-how-to-get-a-job-in-silicon-valley/) - Learn how to get a job in Silicon Valley
 - [ ] [The Non-Technical Person's guide to building products & apps](https://www.udemy.com/launch-your-idea-idea-to-mvp-with-no-cto-and-no-coding/learn/v4/overview) - Go from Idea to MVP with no CTO and no coding. Launch your business, app, or product idea cheaply, quickly, and easily.
-- [ ] [Product Management Coursea](https://www.coursera.org/specializations/product-management) - Become an effective Software Product Manager by mastering Agile software development practices to confidently interact with clients and manage a development team.
+- [ ] [Product Management Coursera](https://www.coursera.org/specializations/product-management) - Become an effective Software Product Manager by mastering Agile software development practices to confidently interact with clients and manage a development team.
 - [ ] [Product Management Course Brainstation - Toronto](https://github.com/intuit/AnimationEngine) - TRANSFORM YOUR IDEA INTO A PRODUCT.
 - [ ] [Product School - USA](http://www.productschool.com) - Get a Product Manager Job
 - [ ] [Product Management - General Assembly](https://generalassemb.ly/education/product-management) - 10-WEEK PART-TIME COURSE

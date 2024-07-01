@@ -318,6 +318,8 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [The golden rule of A/B testing: look beyond validation](https://blog.intercom.io/why-ab-tests-should-yield-more-than-results/) - Run successful, statistically accurate A/B tests.
 - [ ] [Heap Analytics](https://heapanalytics.com/) - Heap lets you automatically capture every user interaction from web, mobile, and cloud services.
 - [ ] [Snowplow Analytics](https://snowplowanalytics.com/) - Open source web, mobile and event analytics platform.
+- [ ] [Amplitude](https://amplitude.com/) - Get data you can trust and the insights you need to take action and drive growth.
+- [ ] [Mixpanel](https://mixpanel.com/) - Tracks user interactions with web and mobile applications.  
 
 ## Books
 ### Design
@@ -342,6 +344,8 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [The Lean Product Playbook](http://www.amazon.com/The-Lean-Product-Playbook-Innovate/dp/1118960874) - Dan Olsen
 - [ ] [Hooked: How to build habit forming products](http://www.amazon.com/Hooked-How-Build-Habit-Forming-Products-ebook/dp/B00HJ4A43S) - Nir Eyal
 - [ ] [Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers](http://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123) - Geoffrey A. Moore
+- [ ] [Zero to One](https://a.co/d/0bjxCE2y) - Peter Thiel
+- [ ] [The Lean Startup](https://a.co/d/02XoJvtq) - Eric Ries
 
 ### Marketing
 - [ ] [Peopleware](http://www.amazon.com/gp/product/0321934113/ref=pd_lpo_sbs_dp_ss_3?pf_rd_p=1944687462&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=0201835959&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=1E20VC37Q8W2VN696453) - Tom DeMarco
@@ -595,7 +599,7 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Janna Bastow](https://twitter.com/simplybastow) - Co-Founder of MTP/CEO at ProdPad/CoFounder ProductTank and ProductCamp London
 - [ ] [Martin Eriksson](https://twitter.com/bfgmartin) - Co-Founder at MTP/ProductTank
 - [ ] [Simon Cast](https://twitter.com/simoncast) - Co Founder MTP/ProductTank/ProdPad
-- [ ] [Charunethran Panchalam Govindarajan](https://twitter.com/charupg) - Product Manager, Intel / Social Entrepreneur / Tech Enthusiast 
+- [ ] [Charunethran Panchalam Govindarajan](https://twitter.com/charupg) - Product Manager, Intel / Social Entrepreneur / Tech Enthusiast
 
 # Special Thanks
 - Special Thanks to [Paul Cothenet](https://www.bears-repeating.com/i-love-product-management) for providing the Base of Core 1: Product Management

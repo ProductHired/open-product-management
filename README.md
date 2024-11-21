@@ -401,6 +401,7 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Agile Uprising Podcast](http://podcast.agileuprising.com/) - They cover all topics associated with Agile. From the Manifesto, to the frameworks, to the values and principles.
 - [ ] [mindtheproduct.com Podcasts](https://www.mindtheproduct.com/tag/podcast/) - Podcasts by mindtheproduct.com
 - [ ] [Masters of Scale with Reid Hoffman](https://podcasts.apple.com/us/podcast/masters-of-scale-with-reid-hoffman/id1227971746?mt=2) - How do companies grow from zero to a gazillion? Legendary Silicon Valley investor / entrepreneur Reid Hoffman tests his theories with famous founders.
+- [ ] [The Product manager](https://theproductmanager.com/) - Discover the tools, strategies, and inspiration you need to scale your products and teams, secure your next round of funding, and expand your market reach to push beyond the competition.
 
 ## Online Courses
 - [ ] [Design Workflow with Sketch](https://github.com/facebook/pop) - An e-course from Clark Wimberly at InVision.
@@ -459,6 +460,7 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Apple iPod Case Study](http://www.ecommerce-digest.com/apple-ipod-case-study.html) - Apple Case Study
 - [ ] [Netflix Case Study](http://www.ecommerce-digest.com/netflix-case-study.html) - Netflix Case Study
 - [ ] [Box Case Study](https://www.youtube.com/watch?v=qeY2BRaS11g) - Box Case Study
+- [ ] [IIM Case Book](https://www.slideshare.net/slideshow/iima-casebook-202223pdf/253228492) - IIM case book
  
 ## Sample Product Documentation
 - [ ] [How I would grow Thumbtack’s Customer Side of the Marketplace — Product Spec](https://medium.com/@ivanTr0n/how-i-would-grow-thumbtack-s-customer-side-of-the-marketplace-product-spec-edc5c0521d08#.o9octd4pa) - Sample Product Spec about Thumbtack

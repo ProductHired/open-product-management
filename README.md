@@ -483,6 +483,8 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Designer Chat](https://www.producthunt.com/r/85601ad255/3697) - The Designer News community in a private Slack chat
 - [ ] [Product Manager HQ](https://www.productmanagerhq.com/join-the-community/) - Product Manager HQ - Slack group
 - [ ] [Product Camp](http://www.productcamp.org) - Product Camp Community Website and Blog
+- [ ] [People in Product Slack Community](https://linktr.ee/Peopleinproduct?utm_source=linktree_admin_share) - A global Slack community for product managers to learn, share, and connect.
+- [ ] [ProductDive](https://productdive.com/) - A learning and networking platform for product managers with resources, programs, and events.
 
 ### Meetups
 #### North America
@@ -513,6 +515,9 @@ and deliver behavior-based engagement every step of the way.
 #### South America
 - [ ] [Produto.io - São Paulo](https://www.meetup.com/produto-io-sp/) - Produto.io Meetup in São Paulo
 - [ ] [Product School - Belo Horizonte](http://www.meetup.com/product-school-belohorizonte/) - Product School Meetup
+
+#### Africa
+- [ ] [ProductDive, Lagos](https://productdive.com/the-dive-2025-conference/) - ProductDive Lagos meetup and conference for product professionals in Africa.
 
 ### Conferences
 - [ ] [Mind the Product Conference](http://mtpcon.com/sf/) - The Conference for Passionate Product People

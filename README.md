@@ -610,3 +610,7 @@ and deliver behavior-based engagement every step of the way.
 </a>
 
 To the extent possible under law, [Nicholas Ivanecky](https://github.com/tron1991) has waived all copyright and related or neighboring rights to this work.
+
+[AI Product Management Basics](https://www.productplan.com/glossary/ai-product-management/) - Introduction to managing AI-driven products.
+
+

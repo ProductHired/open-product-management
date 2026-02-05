@@ -401,13 +401,84 @@ wireframes, mockups, diagrams and prototypes.
 
  ### Product Case Studies
  - [ ] [Building an Enterprise Product: Yammer's Development Methodology](https://www.youtube.com/watch?v=N8wdRZDv0ks) - Jason Shah, product manager at Yammer, shares aspects of Yammer's product development methodology.
- - [ ] [Product Hunt’s Rise - Case Study](https://medium.com/@theunixbeard/product-hunt-s-rise-d49249a1a2c0#.bpns2qcg3) - Product Hunt’s Rise
+ - [ ] [Product Hunt's Rise - Case Study](https://medium.com/@theunixbeard/product-hunt-s-rise-d49249a1a2c0#.bpns2qcg3) - Product Hunt's Rise
  - [ ] [Facebook Case Study](http://www.slideshare.net/misteroo/facebook-analysis-and-study/17-Facebook_is_offering_new_advertisingproducts) - Facebook Analysis and Study
  - [ ] [Twitter Case Study](http://www.thetwittercasestudy.com/the-case-study.html) - The Twitter Case Study from the Dimensions of Strategy Series
  - [ ] [Early Google Case Study](http://www.slideshare.net/ashwin_sharma/google-case-study) - Google Case Study
  - [ ] [Amazon Case Study](http://www.ecommerce-digest.com/amazon-case-study.html) - Amazon Case Study
  - [ ] [Apple iPod Case Study](http://www.ecommerce-digest.com/apple-ipod-case-study.html) - Apple Case Study
  - [ ] [Netflix Case Study](http://www.ecommerce-digest.com/netflix-case-study.html) - Netflix Case Study
+
+ #### Growth & Viral Strategies
+ - [ ] [How Spotify Became #1 Music Streaming Platform](https://www.theproductfolks.com/product-management-blog/how-spotify-became-1-music-streaming-platform-product-case-study) - How Spotify used personalization, freemium model, and data-driven recommendations to dominate music streaming.
+ - [ ] [Spotify Case Study: Innovation, Strategy & Growth](https://www.youngurbanproject.com/spotify-case-study/) - Deep dive into Spotify's marketing strategy, viral campaigns, and audience insights that drove global growth.
+ - [ ] [Airbnb's Product-Market Fit Journey](https://soreno.ai/articles/product-management-case-studies) - How Airbnb pivoted from tech-first to human-centered design, including the famous photo quality improvement story.
+ - [ ] [Airbnb & Spotify: Case Studies in Localization](https://www.gleef.eu/blog/airbnb-spotify-case-studies-in-the-art-of-effective-localization) - How both companies adapted products for international markets with localized trust mechanisms and pricing.
+ - [ ] [Uber's MVP Journey: Key Lessons for Startups](https://www.classicinformatics.com/blog/mvp-for-startup-success) - How Uber's simple black car hailing app in San Francisco evolved into a global transportation platform.
+ - [ ] [How Slack Went from 0 to $1B Valuation in 8 Months](https://www.theproductfolks.com/product-management-blog/how-slack-went-from-0-to-1b-valuation-in-just-8-months-a-blueprint-for-rapid-success) - Slack's explosive growth through freemium model, word-of-mouth, and customer obsession.
+ - [ ] [Slack's Product Strategy: Learnings from Rapid Ascent](https://www.productplan.com/learn/slack-product-strategy/) - How Slack's customer-focused approach and freemium pricing led to viral enterprise adoption.
+ - [ ] [Instagram's Pivot from Burbn to Photo Sharing](https://soreno.ai/articles/product-management-case-studies) - How ruthless prioritization and focus on a single feature transformed a location app into a photo-sharing giant.
+ - [ ] [Dropbox MVP Success Story](https://www.maxiomtech.com/mvp-success-stories/) - How a simple demo video and viral referral program drove Dropbox's explosive early growth.
+ - [ ] [TikTok's Viral Growth Loop](https://productschool.com/blog/product-strategy/growth-loops) - Understanding how TikTok's algorithm and viral content loops fueled global user acquisition.
+ - [ ] [Zoom's Product Usage Loop](https://productschool.com/blog/product-strategy/growth-loops) - How Zoom's frictionless meeting invites created powerful network effects for growth.
+ - [ ] [WhatsApp Product Strategy: 9 Commandments](https://medium.com/lohono-stays-by-isprava/9-product-strategy-commandments-6993a76e8e5d) - How WhatsApp's simplicity and focus replaced SMS globally.
+
+ #### Product-Led Growth
+ - [ ] [Duolingo Case Study: How Gamification Made Learning Addictive](https://www.youngurbanproject.com/duolingo-case-study/) - Deep dive into streaks, XP points, leaderboards, and the psychology behind 113M monthly active users.
+ - [ ] [Duolingo's Gamification Strategy](https://trophy.so/blog/duolingo-gamification-case-study) - How Duolingo uses behavioral design to drive retention without relying on paid ads.
+ - [ ] [How Duolingo Gamified Monthly Active Users](https://www.thepmrepo.com/articles/how-duolingo-gamified-monthly-active-users-lessons-in-habit-formation) - Lessons in habit formation and the Hooked Model applied to language learning.
+ - [ ] [Pinterest's International Growth Strategy](https://cpoclub.com/product-management/product-management-case-study/) - How changing "Pin It" to "Save" and other localization efforts drove global retention.
+ - [ ] [LinkedIn's UGC Growth Loop](https://zeda.io/blog/product-management-case-studies) - How collaborative articles created a self-sustaining content loop for user acquisition.
+ - [ ] [How Notion Achieves 95% Organic Traffic](https://productify.substack.com/p/how-notion-achieves-95-organic-traffic) - Community-led growth, user testimonials, and product-led strategies at Notion.
+ - [ ] [Beyond Product-Led Growth: Notion and Figma](https://www.mindtheproduct.com/beyond-product-led-growth-diversifying-strategies-with-notion-and-figma/) - Why PLG alone might not be enough and alternative strategies from two leading products.
+ - [ ] [Figma's Real-Time Collaboration](https://www.mindtheproduct.com/beyond-product-led-growth-diversifying-strategies-with-notion-and-figma/) - How Figma's accessibility and real-time features created organic growth among designers.
+
+ #### Tech Giants & Innovation
+ - [ ] [Apple's Design Thinking and Innovation](https://juanfernandopacheco.com/2025/03/innovation-at-apple-a-design-thinking-case-study/) - How Steve Jobs instilled design thinking principles that led to the iPhone revolution.
+ - [ ] [Apple iPhone Case Study: Redefining Mobile](https://www.productleadership.com/blog/product-management-case-studies/) - How Apple combined phone, iPod, and internet communicator to create a new category.
+ - [ ] [Tesla's EV Strategy and Innovation](https://www.productleadership.com/blog/product-management-case-studies/) - How Tesla disrupted automotive with high-performance EVs, direct sales, and charging infrastructure.
+ - [ ] [Tesla's Product-Design and Blame-Avoidance Strategies](https://onlinelibrary.wiley.com/doi/10.1111/jpim.12732) - Academic study on how Tesla changed public perception of sustainable innovations.
+ - [ ] [Microsoft Teams vs Slack: Distribution Beats Features](https://zeda.io/blog/product-management-case-studies) - How Microsoft's bundling strategy overtook Slack in daily users by 2020.
+ - [ ] [Amazon Prime's Retention Strategy](https://soreno.ai/articles/product-management-case-studies) - How Prime transformed from shipping perk to 200M+ subscriber ecosystem.
+ - [ ] [Google's MVP Philosophy vs Apple's Polish](https://www.toughtongueai.com/blog/product-strategy-case-studies) - Comparing product strategy approaches between tech giants.
+
+ #### Fintech & Payments
+ - [ ] [Stripe's Developer-First API Strategy](https://profwurzer.com/revolutionizing-digital-payments/) - How prioritizing developer experience and easy integration created a FinTech giant.
+ - [ ] [Stripe Business Breakdown & Founding Story](https://research.contrary.com/company/stripe) - Comprehensive analysis of Stripe's growth to $1 trillion+ TPV.
+ - [ ] [Shopify Balance: Building Financial Services](https://stripe.com/customers/shopify) - How Shopify used Stripe to build embedded financial services for merchants.
+ - [ ] [Robinhood's Rise in Fintech](https://www.zyanza.com/post/case-study-the-rise-of-robinhood-in-the-fintech-industry) - How commission-free trading and gamified UX disrupted traditional brokerages.
+ - [ ] [Top 25 FinTech Case Studies](https://digitaldefynd.com/IQ/fintech-case-studies/) - Comprehensive collection featuring Square, Robinhood, Stripe, Coinbase, and Revolut.
+ - [ ] [How Fintech Apps Achieved Product-Market Fit](https://vocal.media/01/case-study-how-successful-fin-tech-apps-achieved-product-market-fit) - Case studies on Revolut, Cash App, Robinhood, and Chime's structured product processes.
+ - [ ] [Being a PM in Fintech](https://productify.substack.com/p/case-study6-being-a-pm-in-fintech) - Framework for product managers operating in heavily regulated fintech environments.
+
+ #### B2B SaaS & Enterprise
+ - [ ] [Atlassian's Product-Led Growth](https://editorialge.com/saas-case-studies/) - How Jira and Confluence drove organic adoption with minimal sales efforts.
+ - [ ] [HubSpot's Inbound Marketing Revolution](https://editorialge.com/saas-case-studies/) - How HubSpot created value through content and multi-product strategy.
+ - [ ] [HubSpot Multi-Product Strategy](https://www.meritechcapital.com/blog/multi-product-considerations-and-a-hubspot-case-study) - Analysis of how multi-product expansion drove HubSpot's 10-year success.
+ - [ ] [Salesforce's Cloud CRM Pioneer Story](https://editorialge.com/saas-case-studies/) - How Salesforce disrupted on-premises software with subscription-based cloud CRM.
+ - [ ] [Product Management in B2B: Enterprise Users Case Study](https://prodbee.com/b2b-product-case-study/) - How B2B product discovery differs when buyers aren't the users.
+
+ #### Consumer Apps & Engagement
+ - [ ] [Peloton Case Study: Personalization, Community, and Growth](https://www.tacticone.co/blog/peloton-personalization-community-and-growth) - How data-driven personalization and community features drove 96% retention.
+ - [ ] [Peloton's AI-Based Product Strategy](https://www.linkedin.com/pulse/ai-based-product-strategy-peloton-case-study-dr-iris-yuster) - How Peloton Guide uses computer vision and ML for personalized fitness.
+ - [ ] [Peloton's Hardware-as-a-Service Model](https://www.circuly.io/blog/how-peloton-built-a-business-around-hardware-as-a-service) - How subscription bundling transformed Peloton's business model.
+ - [ ] [Headspace Product Case Study](https://www.linkedin.com/pulse/product-case-study-headspace-medha-singh-y4idc) - Personalization, AI stress detection, and retention strategies for mindfulness apps.
+ - [ ] [Headspace vs Calm: Mindful Competition](https://fernfortuniversity.com/essay/marketing_case/headspace-vs-calm-mindful-competition-331) - Comparative analysis of product strategies in the meditation app market.
+ - [ ] [DoorDash Retention Case Study](https://www.product5x.com/case-studies/doordash-retention) - Analyzing cart value optimization and retention in food delivery.
+
+ #### Marketplace & Platform Strategies
+ - [ ] [Uber Product Case Study](https://www.linkedin.com/pulse/uber-product-case-study-ashutosh-tripathi-nwmlc) - Understanding two-sided marketplace dynamics and stakeholder management.
+ - [ ] [Uber Product Execution: Canceled Rides](https://toddlewandowski.medium.com/product-execution-case-study-canceled-rides-at-uber-f28299ddf219) - Analyzing product execution challenges in ride-hailing metrics.
+ - [ ] [How Digital Disruptors Transformed Industries](https://www.cloudbees.com/blog/digital-disruptors-how-airbnb-tesla-and-uber-used-software-innovation-transform) - How Airbnb, Tesla, and Uber used software innovation to disrupt traditional industries.
+
+ #### Case Study Collections & Deep Dives
+ - [ ] [50 Product Management Case Studies](https://www.producthunt.com/products/50-product-management-case-studies) - Curated collection from Netflix, Uber, Amazon, Airbnb, and more.
+ - [ ] [10 Product Management Case Studies for 2025](https://soreno.ai/articles/product-management-case-studies) - Deep-dive case studies from top companies with lessons for modern PMs.
+ - [ ] [20 Product Management Case Studies](https://digitaldefynd.com/IQ/product-management-case-studies/) - Detailed analysis of product strategies from leading global companies.
+ - [ ] [7 Product Management Case Studies to Live and Learn By](https://airfocus.com/blog/7-product-management-case-studies-to-live-and-learn-by/) - Curated case studies with practical lessons for product managers.
+ - [ ] [Product Management Case Studies Deep Dive](https://www.theproductfolks.com/product-management-blog/case-studies-for-product-management-a-deep-dive) - Comprehensive analysis of Instagram, Slack, Pinterest, and more.
+ - [ ] [How Top Companies Solved Complex PM Challenges](https://www.productleadership.com/blog/how-top-companies-solved-complex-challenges-product-management-case-studies/) - Strategic frameworks and lessons from solving real product challenges.
+ - [ ] [Product Strategy Case Studies: Apple, Netflix, Meta, Spotify & Amazon](https://www.toughtongueai.com/blog/product-strategy-case-studies) - Understanding strategic calculations behind major product decisions.
 
  ### Sample Product Documentation
  - [ ] [How I would grow Thumbtack’s Customer Side of the Marketplace — Product Spec](https://medium.com/@ivanTr0n/how-i-would-grow-thumbtack-s-customer-side-of-the-marketplace-product-spec-edc5c0521d08#.o9octd4pa) - Sample Product Spec about Thumbtack

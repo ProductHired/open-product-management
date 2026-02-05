@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Management Case Studies</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <div class="header-content">
+                <h1 class="title">Product Management Case Studies</h1>
+                <p class="subtitle">A curated collection of real-world product management case studies from leading companies</p>
+            </div>
+        </header>
+
+        <div class="search-section">
+            <div class="search-container">
+                <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <path d="M21 21l-4.35-4.35"></path>
+                </svg>
+                <input
+                    type="text"
+                    id="search-input"
+                    class="search-input"
+                    placeholder="Search case studies..."
+                    autocomplete="off"
+                >
+                <button id="clear-search" class="clear-btn" style="display: none;">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M18 6L6 18M6 6l12 12"></path>
+                    </svg>
+                </button>
+            </div>
+        </div>
+
+        <div class="categories-section">
+            <div class="categories-header">
+                <span class="categories-label">Filter by category</span>
+                <button id="clear-filters" class="clear-filters-btn">Clear all</button>
+            </div>
+            <div class="categories-container" id="categories-container">
+                <!-- Categories will be populated by JavaScript -->
+            </div>
+        </div>
+
+        <div class="results-info">
+            <span id="results-count">0 case studies</span>
+        </div>
+
+        <main class="main-content">
+            <div class="case-studies-grid" id="case-studies-grid">
+                <!-- Case studies will be populated by JavaScript -->
+            </div>
+        </main>
+
+        <footer class="footer">
+            <p>Part of <a href="https://github.com/tron1991/open-product-management" target="_blank">Open Product Management</a></p>
+        </footer>
+    </div>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

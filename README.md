@@ -363,23 +363,206 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [JavaScript and JQuery](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=as_li_ss_tl?ie=UTF8&qid=1443455024&sr=8-1&keywords=javascript&linkCode=sl1&tag=amazonbook10-20&linkId=e2058acefb720ac58495e18a0567a33b) - Interactive front-end web development book
 - [ ] [The Go Programming Language](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440) - The authoritative resource for learning Go
  
-### Leadership
-- [ ] [How To Measure Anything](http://www.amazon.com/How-Measure-Anything-Intangibles-Business/dp/1118539273) - Douglas W. Hubbard
-- [ ] [Creativity, Inc.](https://openlibrary.org/works/OL17078912W/Creativity_Inc.) - Ed Catmull
-- [ ] [Where Wizards Stay Up Late](https://openlibrary.org/works/OL3270089W/Where_wizards_stay_up_late) - Katie Hafner
-- [ ] [The Martian​](https://en.wikipedia.org/wiki/The_Martian_%28Weir_novel%29) - Andy Weir
-- [ ] [What Every BODY Is Saying​](http://www.amazon.com/What-Every-BODY-Saying-Speed-Reading/dp/0061438294/) - Joe Navarro
-- [ ] [The Death and Life of Great American Cities](http://www.amazon.com/Death-Life-Great-American-Cities/dp/067974195X) - Jane Jacobs
-- [ ] [Predictably Irrational](http://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248) - Dan Ariely
-- [ ] [Freakonomics](http://www.amazon.com/Freakonomics-Economist-Explores-Hidden-Everything/dp/0060731338/ref=sr_1_1?s=books&ie=UTF8&qid=1451455126&sr=1-1&keywords=freakonomics) - Steven Levitt and Stephen J. Dubner
-- [ ] [Getting Past NO](https://en.wikipedia.org/wiki/Getting_Past_No) - William Ury
-- [ ] [The 7 Habits of Highly Effective People](http://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/1451639619) - Stephen R. Covey
-- [ ] [Switch: How to Change Things When Change is Hard​](http://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752) - Chip and Dan Heath
-- [ ] [The Score Takes Care of Itself​](http://www.amazon.com/Score-Takes-Care-Itself-Philosophy/dp/1591843472/) - Bill Walsh, Steve Jamison & Craig Walsh
-- [ ] [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) - Daniel Kahneman
-- [ ] [Managing Humans](http://www.amazon.com/gp/product/1430243147/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1430243147&linkCode=as2&tag=httpstwit071f-20) - Former Manager at Apple
-- [ ] [The Everything Store: Jeff Bezos and the Age of Amazon](http://www.amazon.com/gp/product/0316219266/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0316219266&linkCode=as2&tag=httpstwit071f-20) - Brad Stone
-- [ ] [The Tipping Point: How Little Things Can Make a Big Difference](http://www.amazon.com/The-Tipping-Point-Little-Difference-ebook/dp/B000OT8GD0) - Malcolm Gladwell
+ ### Podcasts
+ - [ ] [Design Details Podcast](https://www.producthunt.com/r/f0a61978d9/12920) - A show about the people who design our favorite products.
+ - [ ] [AngelList Radio - Kirill Makharinsky](https://www.producthunt.com/podcasts/angellist-radio-kirill-makharinsky) - What factors can predict a company's future success
+ - [ ] [Exponent - Get Off My Lawn!](https://www.producthunt.com/podcasts/exponent-get-off-my-lawn) - How Snapchat has built it’s product effectively
+ - [ ] [HOW TO MAKE SURE YOU ACHIEVE YOUR GOALS](https://www.producthunt.com/podcasts/how-to-make-sure-you-achieve-your-goals) - 6 practical ways we can make sure you achieve your goals
+ - [ ] [What I Know Best - Catherine Pao - Growth Product Manager At Blue Apron](https://www.producthunt.com/podcasts/what-i-know-best-catherine-pao-growth-product-manager-at-blue-apron) - Product & growth lessons from DigitalOcean, Fab & BlueApron
+ - [ ] [FemgineerTV: Episode 2 - How to Make Smart Tradeoffs When Developing Software Products](https://www.producthunt.com/podcasts/femgineertv-episode-2-how-to-make-smart-tradeoffs-when-developing-software-products) - Interview with former Director of Engineering at Facebook
+ - [ ] [The James Altucher Show #160: Ashlee Vance](https://www.producthunt.com/podcasts/the-james-altucher-show-160-ashlee-vance) - Elon Musk and the quest to save mankind
+ - [ ] [Product Hunt Maker Stories - Matt Mazzeo](https://www.producthunt.com/podcasts/product-hunt-maker-stories-matt-mazzeo-2) - Future of VC, breaking into tech/VC, & more
+ - [ ] [Growth Everywhere - The Strategy That Skyrocketed Hotjar to $1 Million ARR in 6 Months](https://www.producthunt.com/podcasts/growth-everywhere-the-strategy-that-skyrocketed-hotjar-to-1-million-arr-in-6-months) - How David Darmanin Grew Hotjar To $1 Million ARR in 6 months
+ - [ ] [Yours Productly - Shardul Mehta, VP Products at Diamond Mind](http://yoursproductly.com/shardulmehta/) - Shardul Mehta on Product Canvas, Why Products Fail, His Upcoming Book and a Lot More
+ - [ ] [Products That Count - By Sophie-Charlotte Moatti](https://itunes.apple.com/us/podcast/products-that-count-podcast/id1038890550?mt=2) - A podcast for product makers, data-minded thinkers and innovators. 
+
+ ### Courses
+ - [ ] [Design Workflow with Sketch](https://github.com/facebook/pop) - An e-course from Clark Wimberly at InVision.
+ - [ ] [Designlab](https://www.producthunt.com/r/b1ef8b4e5a/11546) - Learn design by doing, with hands-on projects & mentorship.
+ - [ ] [You're Hired: How to Get a Job in Silicon Valley](https://www.udemy.com/youre-hired-how-to-get-a-job-in-silicon-valley/) - Learn how to get a job in Silicon Valley
+ - [ ] [The Non-Technical Person's guide to building products & apps](https://www.udemy.com/launch-your-idea-idea-to-mvp-with-no-cto-and-no-coding/learn/v4/overview) - Go from Idea to MVP with no CTO and no coding. Launch your business, app, or product idea cheaply, quickly, and easily.
+ - [ ] [Product Management Coursea](https://www.coursera.org/specializations/product-management) - Become an effective Software Product Manager by mastering Agile software development practices to confidently interact with clients and manage a development team.
+ - [ ] [Product Management Course Brainstation - Toronto](https://github.com/intuit/AnimationEngine) - TRANSFORM YOUR IDEA INTO A PRODUCT.
+ - [ ] [Product School - USA](http://www.productschool.com) - Get a Product Manager Job
+ - [ ] [Product Managment - General Assembly](https://generalassemb.ly/education/product-management) - 10-WEEK PART-TIME COURSE
+ - [ ] [How to build a product roadmap everyone understands - Free e-Course](https://get.prodpad.com/theme-based-roadmap-course/) - How to build a roadmap
+ - [ ] [Building a Pre-Launch Marketing Strategy for Beginners](https://www.udemy.com/building-a-pre-launch-marketing-strategy-for-beginners/) - Build your own Pre-launch Marketing Strategy for your company rollout or feature
+ - [ ] [Idea To Revenue Masterclass](http://productmanageracademy.teachable.com/courses/ideatorevenuemasterclass) - Become a Strategic Product Leader: Validate Ideas, Launch Great Products, Deliver Business Results.
+
+ ### Blogs
+ - [ ] [The Cranky Product Manager](http://crankypm.com/) - A blog on product management, product marketing, and the ugly side of software product development. As of April 2015, the author, Sue Raisty, no longer writes, but she has a large backlog of great posts.
+ - [ ] [Street Smart Product Manager](http://streetsmartproductmanager.com/) - Thriving in the urban jungle of product.
+ - [ ] [Product Talk](http://www.producttalk.org/) - Make better product decisions.
+ - [ ] [Silicon Valley Product Group](http://svpg.com/articles/) - Shares lessons learned and knowledge of product management.
+ - [ ] [The Clever PM](http://thecleverpm.com/) - Tips, tricks, and hacks that help you to be a better, more clever, Product Manager.
+ - [ ] [Mind the Product](http://www.mindtheproduct.com/) - Product Management Blog and events.
+
+
+
+ # Core 3: Real Life Product Management
+ ### Interviews
+ - [ ] [Janna Bastow on "How to Get into Product Management"](https://www.youtube.com/watch?v=p9Ubfv5v2i8) - A conversation between Janna Bastow, founder of ProdPad and previously a product manager / consultant
+ - [ ] [Eva Andreasson on "How to Get into Product Management"](https://www.youtube.com/watch?v=tIQLhdMrK2Y) - A conversation between Eva Andreasson, Senior Product Manager at Cloudera, and Jason Shah, Product Manager at Yammer
+ - [ ] [Teresa Torres on "How to Get into Product Management"](https://www.youtube.com/watch?v=VuSfqm1dr7Y) - A conversation between Teresa Torres, Vice President, Products at AfterCollege and a product consultant
+ - [ ] [Wil Keenan on "How to Get Into Product Management"](https://www.youtube.com/watch?v=-CMip6mUT5I) - A conversation between Wil Keenan, Senior Product Manager at Change.org and Jason Shah
+ - [ ] [Chris Lee on "How to Get into Product Management"](https://www.youtube.com/watch?v=EoncOT67ImI) - A conversation between Chris Lee, Product Manager at Dropbox, and Jason Shah
+ - [ ] [Raj Ramachandran on "How to Get into Product Management"](https://www.youtube.com/watch?v=fqJo_UkMMxM) - A conversation between Raj Ramachandran, Director of Product at Kidaptive and former Product Manager at Zynga
+ - [ ] [Pascal Carole on "How to Get into Product Management"](https://www.youtube.com/watch?v=g48swcdEqFE) - A conversation between Pascal Carole, Product Manager at Microsoft / Yammer and former engineer at Microsoft, and Jason Shah
+ - [ ] [Jackie Bavaro on "How to Get into Product Management"](https://www.youtube.com/watch?v=tSx8V8Y5LW8) - A conversation between Jackie Bavaro, Product Manager at Asana, and Jason Shah
+ - [ ] [PM Talk with Jackie Bavaro](https://www.youtube.com/watch?v=RHAPx5WtAh0) - A conversation between Jackie Bavaro, Product Manager at Asana, and Jason Shah
+ - [ ] [Jason Evanish on "How to Get into Product Management"](https://www.youtube.com/watch?v=9pqBBEkSfdU) - A conversation between Jason Evanish, Product Manager at KISSMetrics, and Jason Shah
+ - [ ] [Ryan Hoover on "How to Get Into Product Management"](https://www.youtube.com/watch?v=gIJNfQZCY0s) - A conversation between Ryan Hoover, Director of Product, PlayHaven and Jason Shah
+
+ ### Product Case Studies
+ - [ ] [Building an Enterprise Product: Yammer's Development Methodology](https://www.youtube.com/watch?v=N8wdRZDv0ks) - Jason Shah, product manager at Yammer, shares aspects of Yammer's product development methodology.
+ - [ ] [Product Hunt's Rise - Case Study](https://medium.com/@theunixbeard/product-hunt-s-rise-d49249a1a2c0#.bpns2qcg3) - Product Hunt's Rise
+ - [ ] [Facebook Case Study](http://www.slideshare.net/misteroo/facebook-analysis-and-study/17-Facebook_is_offering_new_advertisingproducts) - Facebook Analysis and Study
+ - [ ] [Twitter Case Study](http://www.thetwittercasestudy.com/the-case-study.html) - The Twitter Case Study from the Dimensions of Strategy Series
+ - [ ] [Early Google Case Study](http://www.slideshare.net/ashwin_sharma/google-case-study) - Google Case Study
+ - [ ] [Amazon Case Study](http://www.ecommerce-digest.com/amazon-case-study.html) - Amazon Case Study
+ - [ ] [Apple iPod Case Study](http://www.ecommerce-digest.com/apple-ipod-case-study.html) - Apple Case Study
+ - [ ] [Netflix Case Study](http://www.ecommerce-digest.com/netflix-case-study.html) - Netflix Case Study
+
+ #### Growth & Viral Strategies
+ - [ ] [How Spotify Became #1 Music Streaming Platform](https://www.theproductfolks.com/product-management-blog/how-spotify-became-1-music-streaming-platform-product-case-study) - How Spotify used personalization, freemium model, and data-driven recommendations to dominate music streaming.
+ - [ ] [Spotify Case Study: Innovation, Strategy & Growth](https://www.youngurbanproject.com/spotify-case-study/) - Deep dive into Spotify's marketing strategy, viral campaigns, and audience insights that drove global growth.
+ - [ ] [Airbnb's Product-Market Fit Journey](https://soreno.ai/articles/product-management-case-studies) - How Airbnb pivoted from tech-first to human-centered design, including the famous photo quality improvement story.
+ - [ ] [Airbnb & Spotify: Case Studies in Localization](https://www.gleef.eu/blog/airbnb-spotify-case-studies-in-the-art-of-effective-localization) - How both companies adapted products for international markets with localized trust mechanisms and pricing.
+ - [ ] [Uber's MVP Journey: Key Lessons for Startups](https://www.classicinformatics.com/blog/mvp-for-startup-success) - How Uber's simple black car hailing app in San Francisco evolved into a global transportation platform.
+ - [ ] [How Slack Went from 0 to $1B Valuation in 8 Months](https://www.theproductfolks.com/product-management-blog/how-slack-went-from-0-to-1b-valuation-in-just-8-months-a-blueprint-for-rapid-success) - Slack's explosive growth through freemium model, word-of-mouth, and customer obsession.
+ - [ ] [Slack's Product Strategy: Learnings from Rapid Ascent](https://www.productplan.com/learn/slack-product-strategy/) - How Slack's customer-focused approach and freemium pricing led to viral enterprise adoption.
+ - [ ] [Instagram's Pivot from Burbn to Photo Sharing](https://soreno.ai/articles/product-management-case-studies) - How ruthless prioritization and focus on a single feature transformed a location app into a photo-sharing giant.
+ - [ ] [Dropbox MVP Success Story](https://www.maxiomtech.com/mvp-success-stories/) - How a simple demo video and viral referral program drove Dropbox's explosive early growth.
+ - [ ] [TikTok's Viral Growth Loop](https://productschool.com/blog/product-strategy/growth-loops) - Understanding how TikTok's algorithm and viral content loops fueled global user acquisition.
+ - [ ] [Zoom's Product Usage Loop](https://productschool.com/blog/product-strategy/growth-loops) - How Zoom's frictionless meeting invites created powerful network effects for growth.
+ - [ ] [WhatsApp Product Strategy: 9 Commandments](https://medium.com/lohono-stays-by-isprava/9-product-strategy-commandments-6993a76e8e5d) - How WhatsApp's simplicity and focus replaced SMS globally.
+
+ #### Product-Led Growth
+ - [ ] [Duolingo Case Study: How Gamification Made Learning Addictive](https://www.youngurbanproject.com/duolingo-case-study/) - Deep dive into streaks, XP points, leaderboards, and the psychology behind 113M monthly active users.
+ - [ ] [Duolingo's Gamification Strategy](https://trophy.so/blog/duolingo-gamification-case-study) - How Duolingo uses behavioral design to drive retention without relying on paid ads.
+ - [ ] [How Duolingo Gamified Monthly Active Users](https://www.thepmrepo.com/articles/how-duolingo-gamified-monthly-active-users-lessons-in-habit-formation) - Lessons in habit formation and the Hooked Model applied to language learning.
+ - [ ] [Pinterest's International Growth Strategy](https://cpoclub.com/product-management/product-management-case-study/) - How changing "Pin It" to "Save" and other localization efforts drove global retention.
+ - [ ] [LinkedIn's UGC Growth Loop](https://zeda.io/blog/product-management-case-studies) - How collaborative articles created a self-sustaining content loop for user acquisition.
+ - [ ] [How Notion Achieves 95% Organic Traffic](https://productify.substack.com/p/how-notion-achieves-95-organic-traffic) - Community-led growth, user testimonials, and product-led strategies at Notion.
+ - [ ] [Beyond Product-Led Growth: Notion and Figma](https://www.mindtheproduct.com/beyond-product-led-growth-diversifying-strategies-with-notion-and-figma/) - Why PLG alone might not be enough and alternative strategies from two leading products.
+ - [ ] [Figma's Real-Time Collaboration](https://www.mindtheproduct.com/beyond-product-led-growth-diversifying-strategies-with-notion-and-figma/) - How Figma's accessibility and real-time features created organic growth among designers.
+
+ #### Tech Giants & Innovation
+ - [ ] [Apple's Design Thinking and Innovation](https://juanfernandopacheco.com/2025/03/innovation-at-apple-a-design-thinking-case-study/) - How Steve Jobs instilled design thinking principles that led to the iPhone revolution.
+ - [ ] [Apple iPhone Case Study: Redefining Mobile](https://www.productleadership.com/blog/product-management-case-studies/) - How Apple combined phone, iPod, and internet communicator to create a new category.
+ - [ ] [Tesla's EV Strategy and Innovation](https://www.productleadership.com/blog/product-management-case-studies/) - How Tesla disrupted automotive with high-performance EVs, direct sales, and charging infrastructure.
+ - [ ] [Tesla's Product-Design and Blame-Avoidance Strategies](https://onlinelibrary.wiley.com/doi/10.1111/jpim.12732) - Academic study on how Tesla changed public perception of sustainable innovations.
+ - [ ] [Microsoft Teams vs Slack: Distribution Beats Features](https://zeda.io/blog/product-management-case-studies) - How Microsoft's bundling strategy overtook Slack in daily users by 2020.
+ - [ ] [Amazon Prime's Retention Strategy](https://soreno.ai/articles/product-management-case-studies) - How Prime transformed from shipping perk to 200M+ subscriber ecosystem.
+ - [ ] [Google's MVP Philosophy vs Apple's Polish](https://www.toughtongueai.com/blog/product-strategy-case-studies) - Comparing product strategy approaches between tech giants.
+
+ #### Fintech & Payments
+ - [ ] [Stripe's Developer-First API Strategy](https://profwurzer.com/revolutionizing-digital-payments/) - How prioritizing developer experience and easy integration created a FinTech giant.
+ - [ ] [Stripe Business Breakdown & Founding Story](https://research.contrary.com/company/stripe) - Comprehensive analysis of Stripe's growth to $1 trillion+ TPV.
+ - [ ] [Shopify Balance: Building Financial Services](https://stripe.com/customers/shopify) - How Shopify used Stripe to build embedded financial services for merchants.
+ - [ ] [Robinhood's Rise in Fintech](https://www.zyanza.com/post/case-study-the-rise-of-robinhood-in-the-fintech-industry) - How commission-free trading and gamified UX disrupted traditional brokerages.
+ - [ ] [Top 25 FinTech Case Studies](https://digitaldefynd.com/IQ/fintech-case-studies/) - Comprehensive collection featuring Square, Robinhood, Stripe, Coinbase, and Revolut.
+ - [ ] [How Fintech Apps Achieved Product-Market Fit](https://vocal.media/01/case-study-how-successful-fin-tech-apps-achieved-product-market-fit) - Case studies on Revolut, Cash App, Robinhood, and Chime's structured product processes.
+ - [ ] [Being a PM in Fintech](https://productify.substack.com/p/case-study6-being-a-pm-in-fintech) - Framework for product managers operating in heavily regulated fintech environments.
+
+ #### B2B SaaS & Enterprise
+ - [ ] [Atlassian's Product-Led Growth](https://editorialge.com/saas-case-studies/) - How Jira and Confluence drove organic adoption with minimal sales efforts.
+ - [ ] [HubSpot's Inbound Marketing Revolution](https://editorialge.com/saas-case-studies/) - How HubSpot created value through content and multi-product strategy.
+ - [ ] [HubSpot Multi-Product Strategy](https://www.meritechcapital.com/blog/multi-product-considerations-and-a-hubspot-case-study) - Analysis of how multi-product expansion drove HubSpot's 10-year success.
+ - [ ] [Salesforce's Cloud CRM Pioneer Story](https://editorialge.com/saas-case-studies/) - How Salesforce disrupted on-premises software with subscription-based cloud CRM.
+ - [ ] [Product Management in B2B: Enterprise Users Case Study](https://prodbee.com/b2b-product-case-study/) - How B2B product discovery differs when buyers aren't the users.
+
+ #### Consumer Apps & Engagement
+ - [ ] [Peloton Case Study: Personalization, Community, and Growth](https://www.tacticone.co/blog/peloton-personalization-community-and-growth) - How data-driven personalization and community features drove 96% retention.
+ - [ ] [Peloton's AI-Based Product Strategy](https://www.linkedin.com/pulse/ai-based-product-strategy-peloton-case-study-dr-iris-yuster) - How Peloton Guide uses computer vision and ML for personalized fitness.
+ - [ ] [Peloton's Hardware-as-a-Service Model](https://www.circuly.io/blog/how-peloton-built-a-business-around-hardware-as-a-service) - How subscription bundling transformed Peloton's business model.
+ - [ ] [Headspace Product Case Study](https://www.linkedin.com/pulse/product-case-study-headspace-medha-singh-y4idc) - Personalization, AI stress detection, and retention strategies for mindfulness apps.
+ - [ ] [Headspace vs Calm: Mindful Competition](https://fernfortuniversity.com/essay/marketing_case/headspace-vs-calm-mindful-competition-331) - Comparative analysis of product strategies in the meditation app market.
+ - [ ] [DoorDash Retention Case Study](https://www.product5x.com/case-studies/doordash-retention) - Analyzing cart value optimization and retention in food delivery.
+
+ #### Marketplace & Platform Strategies
+ - [ ] [Uber Product Case Study](https://www.linkedin.com/pulse/uber-product-case-study-ashutosh-tripathi-nwmlc) - Understanding two-sided marketplace dynamics and stakeholder management.
+ - [ ] [Uber Product Execution: Canceled Rides](https://toddlewandowski.medium.com/product-execution-case-study-canceled-rides-at-uber-f28299ddf219) - Analyzing product execution challenges in ride-hailing metrics.
+ - [ ] [How Digital Disruptors Transformed Industries](https://www.cloudbees.com/blog/digital-disruptors-how-airbnb-tesla-and-uber-used-software-innovation-transform) - How Airbnb, Tesla, and Uber used software innovation to disrupt traditional industries.
+
+ #### Case Study Collections & Deep Dives
+ - [ ] [50 Product Management Case Studies](https://www.producthunt.com/products/50-product-management-case-studies) - Curated collection from Netflix, Uber, Amazon, Airbnb, and more.
+ - [ ] [10 Product Management Case Studies for 2025](https://soreno.ai/articles/product-management-case-studies) - Deep-dive case studies from top companies with lessons for modern PMs.
+ - [ ] [20 Product Management Case Studies](https://digitaldefynd.com/IQ/product-management-case-studies/) - Detailed analysis of product strategies from leading global companies.
+ - [ ] [7 Product Management Case Studies to Live and Learn By](https://airfocus.com/blog/7-product-management-case-studies-to-live-and-learn-by/) - Curated case studies with practical lessons for product managers.
+ - [ ] [Product Management Case Studies Deep Dive](https://www.theproductfolks.com/product-management-blog/case-studies-for-product-management-a-deep-dive) - Comprehensive analysis of Instagram, Slack, Pinterest, and more.
+ - [ ] [How Top Companies Solved Complex PM Challenges](https://www.productleadership.com/blog/how-top-companies-solved-complex-challenges-product-management-case-studies/) - Strategic frameworks and lessons from solving real product challenges.
+ - [ ] [Product Strategy Case Studies: Apple, Netflix, Meta, Spotify & Amazon](https://www.toughtongueai.com/blog/product-strategy-case-studies) - Understanding strategic calculations behind major product decisions.
+
+ ### Sample Product Documentation
+ - [ ] [How I would grow Thumbtack’s Customer Side of the Marketplace — Product Spec](https://medium.com/@ivanTr0n/how-i-would-grow-thumbtack-s-customer-side-of-the-marketplace-product-spec-edc5c0521d08#.o9octd4pa) - Sample Product Spec about Thumbtack
+ - [ ] [Global Lynda](http://leenau.bitbucket.org/lynda/product-requirements-document/) - Sample Product Requirements Document
+ - [ ] [Global Lynda](http://leenau.bitbucket.org/lynda/user-personas/) - Sample Company Context and User Personas
+ - [ ] [Global Lynda](http://leenau.bitbucket.org/lynda/metrics-case-study/) - Sample Metrics Case Study
+ - [ ] [Global Lynda](http://leenau.bitbucket.org/lynda/language-rollout-phases/) - Sample Language Rollout Phases
+ - [ ] [Global Lynda](http://leenau.bitbucket.org/lynda/go-to-market/) - Sample Go-to-Market Plan
+ - [ ] [Product Hunt](https://github.com/intuit/AnimationEngine) -  Sample Early Product Spec from Ryan Hoover, Product Hunt
+ - [ ] [Yahoo! Let’s put some Bots in that beautiful Messenger App - Product Spec](https://medium.com/@ivanTr0n/yahoo-let-s-put-some-bots-in-that-beautiful-messenger-app-product-spec-6fdecb2614f#.2ud1s2wow) Sample Product Spec about Yahoo
+ - [ ] [A Usability Test, with Recommendations for Improvement of Skyscanner’s Mobile Flight Search & Booking App](https://medium.com/@mstephan/a-usability-test-with-recommendations-for-improvement-of-skyscanner-s-mobile-flight-search-56b6e598b8a2#.1ve6qzn2e) - Sample product break-down with usability testing by Mark Stephan
+ - [ ] [Yahoo! Let’s put some Bots in that beautiful Messenger App - Product Spec](https://medium.com/@ivanTr0n/yahoo-let-s-put-some-bots-in-that-beautiful-messenger-app-product-spec-6fdecb2614f#.2ud1s2wow) - Sample Product Spec about Yahoo
+ - [ ] [Usability Test on Product Hunt for iPhone](https://medium.com/@ericjlee/usability-test-on-product-hunt-for-iphone-ba208a440175#.4i6960u4k) - Sample Usability Test on Product Hunt
+ - [ ] [A Usability Test for Yelp’s iOS Application](https://medium.com/@ivanTr0n/a-usability-test-for-yelp-s-ios-application-13c7f3fea84c#.hih9hvh18) - Sample Usability Test for Yelp
+ - [ ] [A Usability Test, with Recommendations for Improvement of Skyscanner’s Mobile Flight Search & Booking App: Part I](https://medium.com/@mstephan/a-usability-test-with-recommendations-for-improvement-of-skyscanner-s-mobile-flight-search-56b6e598b8a2#.ibh610rne) - Sample Usability Test on Skyscanner
+ - [ ] [LinkedIn Groups Product Spec](https://medium.com/@ivanTr0n/designing-linkedins-next-killer-feature-to-awake-the-other-300m-users-product-spec-de00305ba13e#.e6df7kcxo) - Designing LinkedIn’s Next Killer Feature to awake the other 300M users
+
+ ### Communities to Join
+
+ #### Groups
+ - [ ] [Mind the Product](http://www.mindtheproduct.com) - Mind the Product Community Website and Blog
+ - [ ] [Product School](http://www.productschool.com) - Product School Company Website
+ - [ ] [Designer Chat](https://www.producthunt.com/r/85601ad255/3697) - The Designer News community in a private Slack chat.
+ - [ ] [Product Manager HQ](https://www.productmanagerhq.com/join-the-community/) - Product Manager HQ - Slack group
+ - [ ] [Product Camp](http://www.productcamp.org) - Product Camp Community Website and Blog
+
+
+ #### Meetups
+ #####North America
+ - [ ] [Product Tank](http://www.meetup.com/producttanknyc/) - Product Tank NY Meetups
+ - [ ] [Product Austin](http://www.meetup.com/ProductAustin/) - The largest Product Meet-up in Austin, TX
+ - [ ] [The Product Group](http://www.meetup.com/TheProductGroup/) - The Product Group New York
+ - [ ] [Lean Product & Lean UX Silicon Valley](http://www.meetup.com/lean-product/) - People interested in applying Lean Startup, Lean UX, and Agile principles to design and develop products that customers love
+ - [ ] [Product Management Fast Track](http://www.meetup.com/ProductManagementFastTrack/) - Product Management in San Francisco
+ - [ ] [SUPA Product Talks SFBay](http://www.meetup.com/SUPAProductTalks/) - SUPA Product Academy in San Francisco
+ - [ ] [Silicon Valley Strategy, Innovation and Product Management](http://www.meetup.com/Silicon-Valley-Product-Management/) - Product Management in Cupertino, CA
+ - [ ] [Startup Metrics Toronto, Canada](http://www.meetup.com/Startup-Metrics-Toronto/) - A group for entrepreneurs and product managers to discuss the metrics that matter to their startups.
+ - [ ] [Product School - San Francisco Meetup](http://www.meetup.com/productmanagementSF/) - Product School Meetup
+ - [ ] [Product School - Silicon Valley Meetup](http://www.meetup.com/productmanagementSV/) - Product School Meetup
+ - [ ] [Product School - New York Meetup](http://www.meetup.com/productmanagementNY/) - Product School Meetup
+ - [ ] [Product School - Los Angeles Meetup](http://www.meetup.com/productmanagementLA/) - Product School Meetup
+ - [ ] [Product School - Boston Meetup](http://www.meetup.com/productmanagementBOS/) - Product School Meetup
+
+ #####Europe
+  - [ ] [The Product Group London](http://www.meetup.com/TheProductGroupLondon/) - The Product Group London
+
+ #####Asia
+ - [ ] [Product Management Singapore Facebook](https://www.facebook.com/groups/prodmgmtsg/) - Product Management SG Community
+ - [ ] [Product Camp - Singapore Meetup](http://www.meetup.com/Product-Camp-Singapore/) - Product Camp Meetup
+ - [ ] [Product Hunt - Singapore Meetup](http://www.meetup.com/Product-Hunt-Singapore-Meetup-Group/) - Product Hunt Meetup
+ - [ ] [Product Talks - Singapore Meetup](http://www.meetup.com/producttalkssingapore/) - Product Talks Meetup
+ - [ ] [Product Tank - Singapore Meetup](http://www.meetup.com/ProductTank-Singapore/) - Product Tank Meetup
+
+ #### Conferences
+ - [ ] [Mind the Product Conference](http://mtpcon.com/sf/) - The Conference for Passionate Product People
+ - [ ] [Industry - Product Conference](http://indsum.com) - For people who build, launch and scale world-class product.
+ - [ ] [Lean Startup Week](http://leanstartup.co/2016-conference/) - Lean Startup Week is a seven-day immersion into Lean Startup methodology led by star practitioners in big companies and hot startups from around the world.
+ - [ ] [Enterprise UX 2016](http://2016.enterpriseux.net) - The Enterprise UX 2016 conference is dedicated to delivering useful, delightful, and humane experiences to people who work for and in enterprises.
+
+ # Core 4: Get the Job
+
+ ### Hiring a Product Manager Tips/Tricks
+ - [ ] [Inspire Me with your Job Description](https://medium.com/@mstephan/inspire-with-your-job-description-ecb5ce744cfc#.gjzd3n4ez) - Writing a job description that attracts inspired product managers from Mark Stephan
+
+ ### Career Prep:Resume
+ - [ ] [How do you write a good resume for product manager jobs?](https://www.quora.com/How-do-you-write-a-good-resume-for-product-manager-jobs) - Sample Advice on Quora
+ - [ ] [Mike Bracco - Sample PM Resume](http://mikebracco.com/resume/) - Sample Resume Website from a PM
+ - [ ] [Adam Mathes - Sample PM Resume](http://www.adammathes.com/resume/) - Sample Resume Website from a PM
+ - [ ] [How to get that Next PM Job](http://svpma.org/eventarchives/SVPMA-03-2010-How_to_Get_That_Next_PM_Job-Shreyas_Doshi.pdf) - 200 slides from Google PM
+ - [ ] [Nicholas Ivanecky - Sample PM Website](http://www.ivantron.com) - Nicholas Ivanecky Resume Website
  
 ## Newsletters
 - [ ] [Weekly Thoughts of Tim Herbig](https://herbigt.com/newsletter/) - A weekly digest of personal advice for product people and interesting articles around product, ux and entrepreneurship

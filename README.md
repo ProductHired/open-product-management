@@ -235,7 +235,8 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [ ] [Harvard Business School PM 101](https://sites.google.com/site/hbspm101/home) - Online resource repository from Harvard Business School PM 101 course (old site)
 - [ ] [Harvard Business School PM 101/102](https://www.hbspm101.com/) - Online resource repository from Harvard Business School Product Management 101 & 102 (PM 101/102). 
 - [ ] [Product Management Processes](https://www.productprocesses.co) - A knowledge base of product management processes, tools and templates.
-- [ ] [ProductNotion](https://productnotion.co/?ref=open-productmanagement/) - Loads of ready-made Product Management templates for Notion.so 
+- [ ] [ProductNotion](https://productnotion.co/?ref=open-productmanagement/) - Loads of ready-made Product Management templates for Notion.so
+- [ ] - [ ] [product-management-toolkit](https://github.com/Jgupta14051994/product-management-toolkit) - PM Frameworks, Templates, and Decision Logs | Product Strategy Toolkit for Founders & PMs
 
 ## Design
 - [ ] [Kindling](https://www.kindlingapp.com/) - Idea management tool
@@ -474,6 +475,7 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [A Usability Test for Yelp’s iOS Application](https://medium.com/@ivanTr0n/a-usability-test-for-yelp-s-ios-application-13c7f3fea84c#.hih9hvh18) - Sample Usability Test for Yelp
 - [ ] [A Usability Test, with Recommendations for Improvement of Skyscanner’s Mobile Flight Search & Booking App: Part I](https://medium.com/@mstephan/a-usability-test-with-recommendations-for-improvement-of-skyscanner-s-mobile-flight-search-56b6e598b8a2#.ibh610rne) - Sample Usability Test on Skyscanner
 - [ ] [LinkedIn Groups Product Spec](https://medium.com/@ivanTr0n/designing-linkedins-next-killer-feature-to-awake-the-other-300m-users-product-spec-de00305ba13e#.e6df7kcxo) - Designing LinkedIn’s Next Killer Feature to awake the other 300M users
+- [ ] - [ ] [CommuniEats — Community-Powered Last-Mile Delivery](https://github.com/Jgupta14051994/Communityeats) - Product Case Study on Community-powered marketplace reimagining last-mile delivery economics through shared logistics
 
 ## Communities to Join
 ### Groups

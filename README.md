@@ -545,6 +545,7 @@ and deliver behavior-based engagement every step of the way.
 ## Career Prep: Where to Apply
 - [ ] [ProductHired.com](http://www.producthired.com) - Simplify your Product Manager Job Search
 - [ ] [PathtoProduct.com](https://www.pathtoproduct.com) - Discover over 1,000 product jobs at startups and tech companies  
+- [ ] [Hanzilla Jobs](https://jobs.hanzilla.co/business/) - Canada student/recent-grad jobs across business, product, and operations.
 
 ## Career Prep: The Interview
 - [ ] [Get Product Management Interview Prep Coaching](https://producthired.com/coaches?types=interview-prep) - Book an interview prep session with a product expert for your upcoming interviews

@@ -285,6 +285,7 @@ wireframes, mockups, diagrams and prototypes.
 - [ ] [Precursor](https://precursorapp.com) - A real-time collaborative prototyping tool
 - [ ] [LaunchKit](https://github.com/launchkit/launchkit/) - A set of web-based tools for mobile app developers, now open source!
 - [ ] [StartupResources.io](https://startupresources.io/) - Tightly curated lists of the best startup tools
+- [ ] [A SaaS comparison page should answer the buyer's objection, not just name a competitor](https://gist.github.com/ciihom/2221c0b722cb93811ee6fbd772f64b9b) - A practical note for product managers reviewing comparison or alternative pages before launch.
 
 ## Team Management
 - [ ] [Airtable](https://airtable.com) - Spreadsheet, meet database.

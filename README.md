@@ -362,6 +362,7 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Lovability: How to Build a Business That People Love and Be Happy Doing It](https://amazon.com/Lovability-Build-Business-People-Happy-ebook/dp/B06XJ9RGNY/) - Brian de Haaff
 - [ ] [JavaScript and JQuery](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=as_li_ss_tl?ie=UTF8&qid=1443455024&sr=8-1&keywords=javascript&linkCode=sl1&tag=amazonbook10-20&linkId=e2058acefb720ac58495e18a0567a33b) - Interactive front-end web development book
 - [ ] [The Go Programming Language](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440) - The authoritative resource for learning Go
+- [ ] - [APIs for Product Managers](https://www.amazon.com/dp/B0HDTTZ3GJ/) - A practical guide to APIs, authentication, OAuth, webhooks, API testing, and technical collaboration for Product Managers.
  
 ### Leadership
 - [ ] [How To Measure Anything](http://www.amazon.com/How-Measure-Anything-Intangibles-Business/dp/1118539273) - Douglas W. Hubbard
